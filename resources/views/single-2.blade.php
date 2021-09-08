@@ -220,17 +220,17 @@
                             <div class="posts-navigation__next text-right">
                                 <article class="post post--horizontal post--horizontal-mini post--horizontal-reverse">
                                     <div class="post__thumb post__thumb--circle">
-                                        <a href="single-1.html">
-                                            <img src="http://placehold.it/100x100" alt="Post Image">
+                                        <a href="{{ route('single') }}">
+                                            <img src="{{ asset('assets/img/news/cattles.jpg') }}" alt="Post Image">
                                         </a>
                                     </div>
                                     <div class="post__text">
-                                        <a class="posts-navigation__label" href="single-1.html">
+                                        <a class="posts-navigation__label" href="{{ route('single') }}">
                                             <span>Next Article</span>
                                             <img src="https://allthebestsofts.com/logen/wp-content/themes/logen/images/arrows/dark-next-arrow.png" alt="file not found">
                                         </a>
                                         <h3 class="post__title typescale-1">
-                                            <a href="single-1.html">How Otukpo became an oasis of peace in Benue after Fulani militia’s attack</a>
+                                            <a href="{{ route('single') }}">How to replicate Akabe’s model for peace with Fulani herdsmen</a>
                                         </h3>
                                     </div>
                                 </article>

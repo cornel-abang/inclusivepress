@@ -211,16 +211,16 @@
                                 <article class="post post--horizontal post--horizontal-mini post--horizontal-reverse">
                                     <div class="post__thumb post__thumb--circle">
                                         <a href="single-1.html">
-                                            <img src="http://placehold.it/100x100" alt="Post Image">
+                                            <img src="{{ asset('assets/img/news/village.jpg') }}" alt="Post Image">
                                         </a>
                                     </div>
                                     <div class="post__text">
-                                        <a class="posts-navigation__label" href="single-1.html">
+                                        <a class="posts-navigation__label" href="{{ route('otukpo') }}">
                                             <span>Next Article</span>
                                             <img src="https://allthebestsofts.com/logen/wp-content/themes/logen/images/arrows/dark-next-arrow.png" alt="file not found">
                                         </a>
                                         <h3 class="post__title typescale-1">
-                                            <a href="single-1.html">How Otukpo became an oasis of peace in Benue after Fulani militia’s attack</a>
+                                            <a href="{{ route('otukpo') }}">How Otukpo became an oasis of peace in Benue after Fulani militia’s attack</a>
                                         </h3>
                                     </div>
                                 </article>
