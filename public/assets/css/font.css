@@ -1,0 +1,28 @@
+
+.post__title, .entry-title, h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6, .block-heading__title, .block-heading__subtitle, label,
+a.post__cat, a.entry-cat, .author__text,
+.post__readmore .button__readmore, .widget__title-text,
+.meta-font, .social-tile__title, .social-tile__count , 
+.btn,
+.single-header .entry__title, .entry-meta, .wp-caption .wp-caption-text, .wp-caption-dd,
+.typography-copy blockquote, .comment-content blockquote, .typography-copy blockquote p, .comment-content blockquote p,
+.post--single .entry-tags ul li a, .posts-navigation__label, .comment-author, .comment-metadata, .comment-reply-link, input[type="submit"]:not(.btn),
+.navigation--main>li>a,
+.navigation--main .sub-menu a,
+.navigation--offcanvas>li>a,
+.navigation--offcanvas>li>.sub-menu>li>a,
+.section-column-center .navigation--footer>li>a,
+.module-404 .error,
+.module-404 h3,
+.contact-form .contact-heading {
+    font-family: 'Montserrat', Helvetica, Arial, sans-serif;
+}
+.atbs-widget--about .author__name, .atbs-widget--subscribe .subscribe-form__info, .atbs-widget--twitter .twitter-message,
+.entry-teaser, .typography-copy p, .author-box .author-bio, .comment-content p, .comment-notes, .single-entry-thumb-caption,
+.section-last-child .copy-right span,
+.section-last-child .copy-right a,
+.module-404 p,
+.module-contact label,
+.module-contact .contact-heading h1 {
+    font-family: 'Roboto', Helvetica, Arial, sans-serif;
+}

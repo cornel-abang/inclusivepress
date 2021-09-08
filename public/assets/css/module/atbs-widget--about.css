@@ -1,0 +1,49 @@
+
+/* ----------------------- atbs-widget--about */
+/*
+    Layout
+*/
+/*
+    Content
+*/
+.atbs-widget--about {
+}
+.atbs-widget--about .atbs-widget__inner {
+    padding: 20px;
+    background: #fdfdfd;
+    border: 1px solid #f5f5f5;
+}
+.atbs-widget--about .author__avatar {
+    margin-bottom: 20px;
+}
+.atbs-widget--about .author__avatar img {
+    width: 100%;
+}
+.atbs-widget--about .author__name {
+    margin-bottom: 15px;
+}
+.atbs-widget--about .author__name a {
+    color: rgba(0, 0, 0, 0.8);
+    font-size: 15px;
+    font-size: 1.0714rem; /*font system*/
+    line-height: 1.5;
+    font-weight: 700;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+.atbs-widget--about .author__text {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    max-width: 480px;
+    color: #888;
+    font-size: 13px;
+    line-height: 1.7;
+}
+.atbs-widget--about .social-list > li > a {
+    color: #888;
+}
+.atbs-widget--about .social-list > li > a:hover {
+    opacity: 0.8;
+}
+/* .atbs-widget--about ----------------------- */

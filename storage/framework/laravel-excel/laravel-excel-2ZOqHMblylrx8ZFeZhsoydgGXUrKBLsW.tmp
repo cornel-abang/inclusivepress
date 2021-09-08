@@ -1,0 +1,1482 @@
+id,type,event_state,event_lga,event_local,event_fatalities,event_latitude,event_longitude,event_zone,event_state_slug,event_year,event_date,created_at,updated_at
+1,farmers_herdsmen,Nassarawa,Wamba,Wamba,1,8.9333,8.6,North,ng-na,2021,7/27/2021,8/21/2021 23:42,8/21/2021 23:42
+2,farmers_herdsmen,Enugu,Uzo Uwani,Nimbo,3,6.8167,7.1667,East,ng-en,2021,7/26/2021,8/21/2021 23:42,8/21/2021 23:42
+3,farmers_herdsmen,Delta,Ukwuani,Obiaruku Quarters,0,5.8467,6.1526,South,ng-de,2021,7/24/2021,8/21/2021 23:42,8/21/2021 23:42
+4,farmers_herdsmen,Nassarawa,Keana,Keana,5,8.1333,8.8,North,ng-na,2021,7/21/2021,8/21/2021 23:42,8/21/2021 23:42
+5,farmers_herdsmen,Benue,Guma,Gbajimba,13,7.8155,8.8604,North,ng-be,2021,7/20/2021,8/21/2021 23:42,8/21/2021 23:42
+6,farmers_herdsmen,Benue,Guma,Gbajimba,8,7.8155,8.8604,North,ng-be,2021,7/18/2021,8/21/2021 23:42,8/21/2021 23:42
+7,farmers_herdsmen,Kaduna,Zangon Kataf,Magamiya,2,9.8333,8.3833,North,ng-kd,2021,7/13/2021,8/21/2021 23:42,8/21/2021 23:42
+8,farmers_herdsmen,Plateau,Riyom,Riyom,2,9.6368,8.7569,North,ng-pl,2021,7/13/2021,8/21/2021 23:42,8/21/2021 23:42
+9,farmers_herdsmen,Kaduna,Zangon Kataf,Magamiya,2,9.8333,8.3833,North,ng-kd,2021,7/12/2021,8/21/2021 23:42,8/21/2021 23:42
+10,farmers_herdsmen,Kaduna,Zangon Kataf,Zonkwa,8,9.7833,8.2833,North,ng-kd,2021,7/12/2021,8/21/2021 23:42,8/21/2021 23:42
+11,farmers_herdsmen,Kaduna,Zangon Kataf,Magamiya,10,9.8333,8.3833,North,ng-kd,2021,7/12/2021,8/21/2021 23:42,8/21/2021 23:42
+12,farmers_herdsmen,Oyo,Akinyele,Akinkunmi,1,7.6403,3.9247,West,ng-oy,2021,7/10/2021,8/21/2021 23:42,8/21/2021 23:42
+13,farmers_herdsmen,Edo,Uhunmwode,Ehor,0,6.6156,5.9838,South,ng-ed,2021,7/9/2021,8/21/2021 23:42,8/21/2021 23:42
+14,farmers_herdsmen,Osun,Obokun,Imesi Ile,1,7.8333,4.8833,West,ng-os,2021,7/6/2021,8/21/2021 23:42,8/21/2021 23:42
+15,farmers_herdsmen,Kaduna,Zangon Kataf,Kibori,4,9.85,8.4166,North,ng-kd,2021,7/6/2021,8/21/2021 23:42,8/21/2021 23:42
+16,farmers_herdsmen,Taraba,Bali,Kundi,3,7.9833,10.8,North,ng-ta,2021,7/5/2021,8/21/2021 23:42,8/21/2021 23:42
+17,farmers_herdsmen,Osun,Obokun,Esa Odo,0,7.7548,4.8196,West,ng-os,2021,7/5/2021,8/21/2021 23:42,8/21/2021 23:42
+18,farmers_herdsmen,Osun,Obokun,Imesi Ile,0,7.8333,4.8833,West,ng-os,2021,7/5/2021,8/21/2021 23:42,8/21/2021 23:42
+19,farmers_herdsmen,Plateau,Bassa,Miango,0,9.85,8.7333,North,ng-pl,2021,7/5/2021,8/21/2021 23:42,8/21/2021 23:42
+20,farmers_herdsmen,Plateau,Riyom,Jol,0,9.55,8.8,North,ng-pl,2021,7/4/2021,8/21/2021 23:42,8/21/2021 23:42
+21,farmers_herdsmen,Plateau,Jos South,Ganawuri,2,9.6833,8.7,North,ng-pl,2021,7/2/2021,8/21/2021 23:42,8/21/2021 23:42
+22,farmers_herdsmen,Nassarawa,Obi,Obi,0,8.3667,8.7667,North,ng-na,2021,7/2/2021,8/21/2021 23:42,8/21/2021 23:42
+23,farmers_herdsmen,Plateau,Riyom,Riyom,3,9.6368,8.7569,North,ng-pl,2021,6/30/2021,8/21/2021 23:42,8/21/2021 23:42
+24,farmers_herdsmen,Kwara,Offa,Offa,1,8.15,4.7167,North,ng-kw,2021,6/26/2021,8/21/2021 23:42,8/21/2021 23:42
+25,farmers_herdsmen,Oyo,Egbeda,Egbeda,1,7.3667,4.05,West,ng-oy,2021,6/24/2021,8/21/2021 23:42,8/21/2021 23:42
+26,farmers_herdsmen,Taraba,Gassol,Mutum Biyu,3,8.6333,10.7667,North,ng-ta,2021,6/23/2021,8/21/2021 23:42,8/21/2021 23:42
+27,farmers_herdsmen,Niger,Magama,Salka,1,10.3135,4.9728,North,ng-ni,2021,6/18/2021,8/21/2021 23:42,8/21/2021 23:42
+28,farmers_herdsmen,Benue,Ado,Utonkon,0,6.9452,8.033,North,ng-be,2021,6/17/2021,8/21/2021 23:42,8/21/2021 23:42
+29,farmers_herdsmen,Zamfara,Bukkuyum,Bukuyum,24,12.1377,5.4665,North,ng-za,2021,6/17/2021,8/21/2021 23:42,8/21/2021 23:42
+30,farmers_herdsmen,Zamfara,Anka,Anka,23,12.1138,5.9243,North,ng-za,2021,6/17/2021,8/21/2021 23:42,8/21/2021 23:42
+31,farmers_herdsmen,Ondo,Akoko North West,Uro Ajowa,2,7.6932,5.833,West,ng-on,2021,6/16/2021,8/21/2021 23:42,8/21/2021 23:42
+32,farmers_herdsmen,Benue,Agatu,Odugbeho,2,7.8,8.0355,North,ng-be,2021,6/13/2021,8/21/2021 23:42,8/21/2021 23:42
+33,farmers_herdsmen,Akwa Ibom,Ikot Ekpene,Ikot Ekpene,2,5.1819,7.7148,South,ng-ak,2021,6/13/2021,8/21/2021 23:42,8/21/2021 23:42
+34,farmers_herdsmen,Nassarawa,Keana,Aloshi,6,8.2333,8.8,North,ng-na,2021,6/11/2021,8/21/2021 23:42,8/21/2021 23:42
+35,farmers_herdsmen,Ondo,Akure South,Akure,0,7.2526,5.1931,West,ng-on,2021,6/10/2021,8/21/2021 23:42,8/21/2021 23:42
+36,farmers_herdsmen,Benue,Makurdi,Mbalagh,5,7.8185,8.4634,North,ng-be,2021,6/10/2021,8/21/2021 23:42,8/21/2021 23:42
+37,farmers_herdsmen,Imo,Okigwe,Okigwi,0,5.8352,7.3599,East,ng-im,2021,6/10/2021,8/21/2021 23:42,8/21/2021 23:42
+38,farmers_herdsmen,Benue,Katsina Ala,Katsina-Ala,6,7.1693,9.2846,North,ng-be,2021,6/9/2021,8/21/2021 23:42,8/21/2021 23:42
+39,farmers_herdsmen,Kwara,Asa,Faje,4,8.3666,4.4166,North,ng-kw,2021,6/8/2021,8/21/2021 23:42,8/21/2021 23:42
+40,farmers_herdsmen,Kwara,Asa,Gbabu,0,8.3833,4.3833,North,ng-kw,2021,6/8/2021,8/21/2021 23:42,8/21/2021 23:42
+41,farmers_herdsmen,Ogun,Shagamu,Iraye,0,6.7253,3.5911,West,ng-og,2021,6/7/2021,8/21/2021 23:42,8/21/2021 23:42
+42,farmers_herdsmen,Ogun,Imeko-Afon,Imeko,3,7.45,2.85,West,ng-og,2021,6/6/2021,8/21/2021 23:42,8/21/2021 23:42
+43,farmers_herdsmen,Benue,Agatu,Odugbeho,27,7.8,8.0355,North,ng-be,2021,6/6/2021,8/21/2021 23:42,8/21/2021 23:42
+44,farmers_herdsmen,Benue,Logo,Anyiin,2,7.8188,9.2453,North,ng-be,2021,6/5/2021,8/21/2021 23:42,8/21/2021 23:42
+45,farmers_herdsmen,Oyo,Ibarapa North,Igangan,0,7.6833,3.1833,West,ng-oy,2021,6/4/2021,8/21/2021 23:42,8/21/2021 23:42
+46,farmers_herdsmen,Oyo,Ogbomosho North,Ogbomosho,1,8.1333,4.2667,West,ng-oy,2021,6/2/2021,8/21/2021 23:42,8/21/2021 23:42
+47,farmers_herdsmen,Benue,Ado,Igumale,21,6.7918,7.985,North,ng-be,2021,5/30/2021,8/21/2021 23:42,8/21/2021 23:42
+48,farmers_herdsmen,Ebonyi,Ebonyi,Nwofe,21,6.5099,8.1457,East,ng-eb,2021,5/29/2021,8/21/2021 23:42,8/21/2021 23:42
+49,farmers_herdsmen,Taraba,Bali,Pangri,2,8.1288,10.9861,North,ng-ta,2021,5/28/2021,8/21/2021 23:42,8/21/2021 23:42
+50,farmers_herdsmen,Taraba,Gassol,Sabongida,12,8.7609,10.8839,North,ng-ta,2021,5/28/2021,8/21/2021 23:42,8/21/2021 23:42
+51,farmers_herdsmen,Kaduna,Giwa,Giwa,5,11.2803,7.4173,North,ng-kd,2021,5/28/2021,8/21/2021 23:42,8/21/2021 23:42
+52,farmers_herdsmen,Benue,Katsina Ala,Katsina-Ala,19,7.1693,9.2846,North,ng-be,2021,5/27/2021,8/21/2021 23:42,8/21/2021 23:42
+53,farmers_herdsmen,Benue,Gwer West,Naka,7,7.5887,8.2087,North,ng-be,2021,5/27/2021,8/21/2021 23:42,8/21/2021 23:42
+54,farmers_herdsmen,Niger,Tafa,Sabon Wuse,0,9.3032,7.2333,North,ng-ni,2021,5/27/2021,8/21/2021 23:42,8/21/2021 23:42
+55,farmers_herdsmen,Benue,Katsina Ala,Katsina-Ala,100,7.1693,9.2846,North,ng-be,2021,5/23/2021,8/21/2021 23:42,8/21/2021 23:42
+56,farmers_herdsmen,Ondo,Akure South,Akure,0,7.2526,5.1931,West,ng-on,2021,5/22/2021,8/21/2021 23:42,8/21/2021 23:42
+57,farmers_herdsmen,Kwara,Edu,Lafiagi,2,8.8529,5.4164,North,ng-kw,2021,5/18/2021,8/21/2021 23:42,8/21/2021 23:42
+58,farmers_herdsmen,Kaduna,Chikun,Kunai,4,10.5672,7.1852,North,ng-kd,2021,5/17/2021,8/21/2021 23:42,8/21/2021 23:42
+59,farmers_herdsmen,Benue,Gwer West,Sengev,1,7.811,8.1441,North,ng-be,2021,5/16/2021,8/21/2021 23:42,8/21/2021 23:42
+60,farmers_herdsmen,Benue,Gwer West,Naka,2,7.5887,8.2087,North,ng-be,2021,5/16/2021,8/21/2021 23:42,8/21/2021 23:42
+61,farmers_herdsmen,Benue,Gwer West,Naka,1,7.5887,8.2087,North,ng-be,2021,5/15/2021,8/21/2021 23:42,8/21/2021 23:42
+62,farmers_herdsmen,Nassarawa,Keana,Giza,3,8.2,8.6333,North,ng-na,2021,5/15/2021,8/21/2021 23:42,8/21/2021 23:42
+63,farmers_herdsmen,Benue,Guma,Gbajimba,2,7.8155,8.8604,North,ng-be,2021,5/15/2021,8/21/2021 23:42,8/21/2021 23:42
+64,farmers_herdsmen,Taraba,Bali,Bali,6,7.8667,10.9667,North,ng-ta,2021,5/13/2021,8/21/2021 23:42,8/21/2021 23:42
+65,farmers_herdsmen,Oyo,Iwajowa,Iwere-Ile,1,8,3.0833,West,ng-oy,2021,5/10/2021,8/21/2021 23:42,8/21/2021 23:42
+66,farmers_herdsmen,Kwara,Offa,Erin Ile,0,8.1166,4.7,North,ng-kw,2021,5/8/2021,8/21/2021 23:42,8/21/2021 23:42
+67,farmers_herdsmen,Benue,Gwer West,Naka,11,7.5887,8.2087,North,ng-be,2021,5/3/2021,8/21/2021 23:42,8/21/2021 23:42
+68,farmers_herdsmen,Benue,Gwer West,Naka,5,7.5887,8.2087,North,ng-be,2021,5/2/2021,8/21/2021 23:42,8/21/2021 23:42
+69,farmers_herdsmen,Benue,Guma,Mbabai,2,7.9205,8.6931,North,ng-be,2021,4/27/2021,8/21/2021 23:42,8/21/2021 23:42
+70,farmers_herdsmen,Benue,Makurdi,Makurdi,7,7.7411,8.5121,North,ng-be,2021,4/26/2021,8/21/2021 23:42,8/21/2021 23:42
+71,farmers_herdsmen,Nassarawa,Doma,Doma,8,8.3833,8.35,North,ng-na,2021,4/24/2021,8/21/2021 23:42,8/21/2021 23:42
+72,farmers_herdsmen,Benue,Guma,Gbajimba,8,7.8155,8.8604,North,ng-be,2021,4/24/2021,8/21/2021 23:42,8/21/2021 23:42
+73,farmers_herdsmen,Benue,Makurdi,Makurdi,2,7.7411,8.5121,North,ng-be,2021,4/21/2021,8/21/2021 23:42,8/21/2021 23:42
+74,farmers_herdsmen,Benue,Guma,Gbajimba,2,7.8155,8.8604,North,ng-be,2021,4/21/2021,8/21/2021 23:42,8/21/2021 23:42
+75,farmers_herdsmen,Benue,Agatu,Odugbeho,2,7.8,8.0355,North,ng-be,2021,4/21/2021,8/21/2021 23:42,8/21/2021 23:42
+76,farmers_herdsmen,Benue,Gwer West,Naka,11,7.5887,8.2087,North,ng-be,2021,4/17/2021,8/21/2021 23:42,8/21/2021 23:42
+77,farmers_herdsmen,Benue,Makurdi,Makurdi,7,7.7411,8.5121,North,ng-be,2021,4/17/2021,8/21/2021 23:42,8/21/2021 23:42
+78,farmers_herdsmen,Oyo,Ibarapa North,Ayete,1,7.5428,3.2226,West,ng-oy,2021,4/14/2021,8/21/2021 23:42,8/21/2021 23:42
+79,farmers_herdsmen,Benue,Gwer West,Naka,6,7.5887,8.2087,North,ng-be,2021,4/14/2021,8/21/2021 23:42,8/21/2021 23:42
+80,farmers_herdsmen,Ebonyi,Ohaukwu,Ezamgbo,1,6.3945,7.9765,East,ng-eb,2021,4/12/2021,8/21/2021 23:42,8/21/2021 23:42
+81,farmers_herdsmen,Ogun,Imeko-Afon,Imeko,0,7.45,2.85,West,ng-og,2021,4/10/2021,8/21/2021 23:42,8/21/2021 23:42
+82,farmers_herdsmen,Plateau,Jos South,Kuru,8,9.7279,8.8355,North,ng-pl,2021,4/9/2021,8/21/2021 23:42,8/21/2021 23:42
+83,farmers_herdsmen,Ogun,Abeokuta South,Abeokuta,0,7.15,3.35,West,ng-og,2021,4/7/2021,8/21/2021 23:42,8/21/2021 23:42
+84,farmers_herdsmen,Oyo,Ibarapa Central,Igbo Ora,0,7.4338,3.2879,West,ng-oy,2021,4/7/2021,8/21/2021 23:42,8/21/2021 23:42
+85,farmers_herdsmen,Ekiti,Ado Ekiti,Ado-Ekiti,0,7.621,5.2215,West,ng-ek,2021,4/6/2021,8/21/2021 23:42,8/21/2021 23:42
+86,farmers_herdsmen,Oyo,Ibarapa North,Igangan,0,7.6833,3.1833,West,ng-oy,2021,4/2/2021,8/21/2021 23:42,8/21/2021 23:42
+87,farmers_herdsmen,Ondo,Akure North,Iju,0,7.3939,5.2633,West,ng-on,2021,4/1/2021,8/21/2021 23:42,8/21/2021 23:42
+88,farmers_herdsmen,Ebonyi,Ishielu,Umuhuali,5,6.5285,7.8189,East,ng-eb,2021,3/29/2021,8/21/2021 23:42,8/21/2021 23:42
+89,farmers_herdsmen,Ebonyi,Ishielu,Umuhuali,5,6.5285,7.8189,East,ng-eb,2021,3/29/2021,8/21/2021 23:42,8/21/2021 23:42
+90,farmers_herdsmen,Federal Capital Territory,Abuja Municipal,Kuje,0,8.8964,7.2431,,ng-fc,2021,3/24/2021,8/21/2021 23:42,8/21/2021 23:42
+91,farmers_herdsmen,Anambra,Ayamelum,Anaku,1,6.4664,6.9316,East,ng-an,2021,3/19/2021,8/21/2021 23:42,8/21/2021 23:42
+92,farmers_herdsmen,Rivers,Eleme,Agbonchia,0,4.7942,7.1228,South,ng-ri,2021,3/15/2021,8/21/2021 23:42,8/21/2021 23:42
+93,farmers_herdsmen,Oyo,Saki West,Saki,0,8.6667,3.3833,West,ng-oy,2021,3/14/2021,8/21/2021 23:42,8/21/2021 23:42
+94,farmers_herdsmen,Oyo,Saki West,Saki,1,8.6667,3.3833,West,ng-oy,2021,3/13/2021,8/21/2021 23:42,8/21/2021 23:42
+95,farmers_herdsmen,Oyo,Saki East,Ogboro,2,8.7699,3.6095,West,ng-oy,2021,3/9/2021,8/21/2021 23:42,8/21/2021 23:42
+96,farmers_herdsmen,Taraba,Wukari,Wukari,0,7.85,9.7833,North,ng-ta,2021,3/9/2021,8/21/2021 23:42,8/21/2021 23:42
+97,farmers_herdsmen,Oyo,Ibarapa North,Igangan,4,7.6833,3.1833,West,ng-oy,2021,3/8/2021,8/21/2021 23:42,8/21/2021 23:42
+98,farmers_herdsmen,Taraba,Wukari,Wukari,0,7.85,9.7833,North,ng-ta,2021,3/7/2021,8/21/2021 23:42,8/21/2021 23:42
+99,farmers_herdsmen,Sokoto,Sabon Birni,Sabon Birni,15,13.5552,6.3116,North,ng-so,2021,3/5/2021,8/21/2021 23:42,8/21/2021 23:42
+100,farmers_herdsmen,Osun,Obokun,Ibokun,1,7.7873,4.7295,West,ng-os,2021,3/2/2021,8/21/2021 23:42,8/21/2021 23:42
+101,farmers_herdsmen,Ogun,Imeko-Afon,Imeko,1,7.45,2.85,West,ng-og,2021,3/1/2021,8/21/2021 23:42,8/21/2021 23:42
+102,farmers_herdsmen,Kaduna,Zangon Kataf,Gora,5,9.7873,8.4557,North,ng-kd,2021,2/28/2021,8/21/2021 23:42,8/21/2021 23:42
+103,farmers_herdsmen,Oyo,Akinyele,Agoro Ibadan,0,7.6333,4.0333,West,ng-oy,2021,2/22/2021,8/21/2021 23:42,8/21/2021 23:42
+104,farmers_herdsmen,Bayelsa,Ogbia,Otuaka,0,4.7832,6.3132,South,ng-by,2021,2/19/2021,8/21/2021 23:42,8/21/2021 23:42
+105,farmers_herdsmen,Edo,Ovia North East,Okada,7,6.7327,5.3899,South,ng-ed,2021,2/17/2021,8/21/2021 23:42,8/21/2021 23:42
+106,farmers_herdsmen,Ogun,Egbado North,Ijoun,3,7.1449,2.8589,West,ng-og,2021,2/15/2021,8/21/2021 23:42,8/21/2021 23:42
+107,farmers_herdsmen,Ogun,Egbado North,Aiyetoro,4,7.2333,3.0333,West,ng-og,2021,2/14/2021,8/21/2021 23:42,8/21/2021 23:42
+108,farmers_herdsmen,Ondo,Owo,Owo,3,7.1962,5.5868,West,ng-on,2021,2/13/2021,8/21/2021 23:42,8/21/2021 23:42
+109,farmers_herdsmen,Ogun,Egbado North,Ebute,4,6.9,2.9,West,ng-og,2021,2/12/2021,8/21/2021 23:42,8/21/2021 23:42
+110,farmers_herdsmen,Benue,Apa,Ikobi,2,7.7295,7.9734,North,ng-be,2021,2/11/2021,8/21/2021 23:42,8/21/2021 23:42
+111,farmers_herdsmen,Ogun,Egbado North,Aiyetoro,1,7.2333,3.0333,West,ng-og,2021,2/11/2021,8/21/2021 23:42,8/21/2021 23:42
+112,farmers_herdsmen,Ogun,Egbado North,Ijoun,1,7.1449,2.8589,West,ng-og,2021,2/11/2021,8/21/2021 23:42,8/21/2021 23:42
+113,farmers_herdsmen,Oyo,Ibarapa North,Igangan,1,7.6833,3.1833,West,ng-oy,2021,2/11/2021,8/21/2021 23:42,8/21/2021 23:42
+114,farmers_herdsmen,Ogun,Imeko-Afon,Imeko,1,7.45,2.85,West,ng-og,2021,2/7/2021,8/21/2021 23:42,8/21/2021 23:42
+115,farmers_herdsmen,Ondo,Akoko North West,Uro Ajowa,1,7.6932,5.833,West,ng-on,2021,2/6/2021,8/21/2021 23:42,8/21/2021 23:42
+116,farmers_herdsmen,Plateau,Bassa,Bassa,12,9.9333,8.7333,North,ng-pl,2021,2/5/2021,8/21/2021 23:42,8/21/2021 23:42
+117,farmers_herdsmen,Ondo,Akoko North West,Uro Ajowa,1,7.6932,5.833,West,ng-on,2021,2/5/2021,8/21/2021 23:42,8/21/2021 23:42
+118,farmers_herdsmen,Kogi,Kabba,Kabba,0,7.8287,6.0731,,ng-ko,2021,2/3/2021,8/21/2021 23:42,8/21/2021 23:42
+119,farmers_herdsmen,Ondo,Akure North,Iju,1,7.3939,5.2633,West,ng-on,2021,2/2/2021,8/21/2021 23:42,8/21/2021 23:42
+120,farmers_herdsmen,Kaduna,Zangon Kataf,Zonkwa,2,9.7833,8.2833,North,ng-kd,2021,1/31/2021,8/21/2021 23:42,8/21/2021 23:42
+121,farmers_herdsmen,Oyo,Ibarapa North,Igangan,0,7.6833,3.1833,West,ng-oy,2021,1/30/2021,8/21/2021 23:42,8/21/2021 23:42
+122,farmers_herdsmen,Ondo,Ondo West,Ondo,0,7.0932,4.8353,West,ng-on,2021,1/28/2021,8/21/2021 23:42,8/21/2021 23:42
+123,farmers_herdsmen,Oyo,Ibarapa North,Ayete,0,7.5428,3.2226,West,ng-oy,2021,1/27/2021,8/21/2021 23:42,8/21/2021 23:42
+124,farmers_herdsmen,Ekiti,Ado Ekiti,Ado-Ekiti,0,7.621,5.2215,West,ng-ek,2021,1/26/2021,8/21/2021 23:42,8/21/2021 23:42
+125,farmers_herdsmen,Ondo,Akure South,Akure,0,7.2526,5.1931,West,ng-on,2021,1/22/2021,8/21/2021 23:42,8/21/2021 23:42
+126,farmers_herdsmen,Osun,Odo-Otin,Ijabe,1,8.0333,4.7,West,ng-os,2021,1/12/2021,8/21/2021 23:42,8/21/2021 23:42
+127,farmers_herdsmen,Ogun,Ijebu North,Ijebu-Igbo,0,6.9798,4.0033,West,ng-og,2021,1/11/2021,8/21/2021 23:42,8/21/2021 23:42
+128,farmers_herdsmen,Nassarawa,Keana,Keana,0,8.1333,8.8,North,ng-na,2021,1/8/2021,8/21/2021 23:42,8/21/2021 23:42
+129,farmers_herdsmen,Oyo,Ibarapa North,Igangan,0,7.6833,3.1833,West,ng-oy,2021,1/4/2021,8/21/2021 23:42,8/21/2021 23:42
+130,farmers_herdsmen,Oyo,Ori Ire,Budo-Musa,1,8.3678,4.2437,West,ng-oy,2020,12/27/2020,8/21/2021 23:42,8/21/2021 23:42
+131,farmers_herdsmen,Oyo,Ori Ire,Ikoyi-Ile,2,8.2444,4.1718,West,ng-oy,2020,12/27/2020,8/21/2021 23:42,8/21/2021 23:42
+132,farmers_herdsmen,Federal Capital Territory,Kwali,Kwali,0,8.8672,7.005,,ng-fc,2020,12/15/2020,8/21/2021 23:42,8/21/2021 23:42
+133,farmers_herdsmen,Bauchi,Misau,Misau,2,11.3163,10.4703,North,ng-ba,2020,12/14/2020,8/21/2021 23:42,8/21/2021 23:42
+134,farmers_herdsmen,Oyo,Ibarapa North,Igangan,1,7.6833,3.1833,West,ng-oy,2020,12/11/2020,8/21/2021 23:42,8/21/2021 23:42
+135,farmers_herdsmen,Benue,Makurdi,Makurdi,4,7.7411,8.5121,North,ng-be,2020,12/11/2020,8/21/2021 23:42,8/21/2021 23:42
+136,farmers_herdsmen,Plateau,Jos South,Vwang,3,9.6857,8.7398,North,ng-pl,2020,12/1/2020,8/21/2021 23:42,8/21/2021 23:42
+137,farmers_herdsmen,Ekiti,Ikere,Ikere,1,7.4913,5.2323,West,ng-ek,2020,11/27/2020,8/21/2021 23:42,8/21/2021 23:42
+138,farmers_herdsmen,Ondo,Idanre,Owena-Egbeda,0,7.0065,5.0187,West,ng-on,2020,11/26/2020,8/21/2021 23:42,8/21/2021 23:42
+139,farmers_herdsmen,Federal Capital Territory,Gwagwalada,Gwagwalada,2,8.9414,7.0919,,ng-fc,2020,11/24/2020,8/21/2021 23:42,8/21/2021 23:42
+140,farmers_herdsmen,Ondo,Owo,Owo,0,7.1962,5.5868,West,ng-on,2020,11/11/2020,8/21/2021 23:42,8/21/2021 23:42
+141,farmers_herdsmen,Lagos,Ikeja,Ikeja,0,6.5942,3.3375,West,ng-la,2020,11/7/2020,8/21/2021 23:42,8/21/2021 23:42
+142,farmers_herdsmen,Kaduna,Kajuru,Kallah,1,10.4182,7.7634,North,ng-kd,2020,10/31/2020,8/21/2021 23:42,8/21/2021 23:42
+143,farmers_herdsmen,Anambra,Dunukofia,Ukpo-Akpu,0,6.2129,6.9642,East,ng-an,2020,10/28/2020,8/21/2021 23:42,8/21/2021 23:42
+144,farmers_herdsmen,Kaduna,Zangon Kataf,Zangon Katab,1,9.8333,8.4,North,ng-kd,2020,10/26/2020,8/21/2021 23:42,8/21/2021 23:42
+145,farmers_herdsmen,Enugu,Uzo Uwani,Ukpabi-Nimbo,0,6.8,7.1467,East,ng-en,2020,10/14/2020,8/21/2021 23:42,8/21/2021 23:42
+146,farmers_herdsmen,Plateau,Bassa,Bassa,2,9.9333,8.7333,North,ng-pl,2020,10/7/2020,8/21/2021 23:42,8/21/2021 23:42
+147,farmers_herdsmen,Plateau,Riyom,Unguwar Wereng,5,9.55,8.7333,North,ng-pl,2020,10/5/2020,8/21/2021 23:42,8/21/2021 23:42
+148,farmers_herdsmen,Kaduna,Kaduna North,Kaduna,0,10.5222,7.4383,North,ng-kd,2020,10/1/2020,8/21/2021 23:42,8/21/2021 23:42
+149,farmers_herdsmen,Zamfara,Maru,Kanoma,0,12.2284,6.2962,North,ng-za,2020,9/28/2020,8/21/2021 23:42,8/21/2021 23:42
+150,farmers_herdsmen,Katsina,Sandamu,Safana,0,12.9604,8.3621,North,ng-kt,2020,9/28/2020,8/21/2021 23:42,8/21/2021 23:42
+151,farmers_herdsmen,Delta,Aniocha North,Issele Mkpitime,0,6.3345,6.5397,South,ng-de,2020,9/26/2020,8/21/2021 23:42,8/21/2021 23:42
+152,farmers_herdsmen,Plateau,Riyom,Jol,0,9.55,8.8,North,ng-pl,2020,9/23/2020,8/21/2021 23:42,8/21/2021 23:42
+153,farmers_herdsmen,Jigawa,Gwiwa,Gwiwa,2,12.7817,8.3372,North,ng-ji,2020,9/23/2020,8/21/2021 23:42,8/21/2021 23:42
+154,farmers_herdsmen,Benue,Guma,Gbajimba,2,7.8155,8.8604,North,ng-be,2020,9/20/2020,8/21/2021 23:42,8/21/2021 23:42
+155,farmers_herdsmen,Jigawa,Guri,Guri,1,12.7267,10.4205,North,ng-ji,2020,9/19/2020,8/21/2021 23:42,8/21/2021 23:42
+156,farmers_herdsmen,Katsina,Malumfashi,Malumfashi,5,11.7853,7.6218,North,ng-kt,2020,9/17/2020,8/21/2021 23:42,8/21/2021 23:42
+157,farmers_herdsmen,Kogi,Dekina,Egume,1,7.4732,7.249,,ng-ko,2020,9/17/2020,8/21/2021 23:42,8/21/2021 23:42
+158,farmers_herdsmen,Ogun,Ewekoro,Afowowa,0,6.9495,3.2482,West,ng-og,2020,9/13/2020,8/21/2021 23:42,8/21/2021 23:42
+159,farmers_herdsmen,Kaduna,Zangon Kataf,Zonkwa,2,9.7833,8.2833,North,ng-kd,2020,9/11/2020,8/21/2021 23:42,8/21/2021 23:42
+160,farmers_herdsmen,Nassarawa,Keana,Kadarko,2,8.2333,8.5667,North,ng-na,2020,9/9/2020,8/21/2021 23:42,8/21/2021 23:42
+161,farmers_herdsmen,Kaduna,Zangon Kataf,Kurmin Masara,2,9.8433,8.4407,North,ng-kd,2020,9/8/2020,8/21/2021 23:42,8/21/2021 23:42
+162,farmers_herdsmen,Kaduna,Zangon Kataf,Gora,1,9.7873,8.4557,North,ng-kd,2020,9/8/2020,8/21/2021 23:42,8/21/2021 23:42
+163,farmers_herdsmen,Kaduna,Kauru,Kauru,1,10.576,8.1509,North,ng-kd,2020,9/8/2020,8/21/2021 23:42,8/21/2021 23:42
+164,farmers_herdsmen,Kaduna,Zangon Kataf,Zonkwa,1,9.7833,8.2833,North,ng-kd,2020,9/8/2020,8/21/2021 23:42,8/21/2021 23:42
+165,farmers_herdsmen,Kaduna,Kajuru,Kajuru,3,10.3192,7.6892,North,ng-kd,2020,9/6/2020,8/21/2021 23:42,8/21/2021 23:42
+166,farmers_herdsmen,Kaduna,Chikun,Rido,3,10.4567,7.5119,North,ng-kd,2020,8/28/2020,8/21/2021 23:42,8/21/2021 23:42
+167,farmers_herdsmen,Enugu,Isi Uzo,Eha Amufu,0,6.6592,7.7596,East,ng-en,2020,8/24/2020,8/21/2021 23:42,8/21/2021 23:42
+168,farmers_herdsmen,Plateau,Langtang North,Langtang,10,9.1333,9.7833,North,ng-pl,2020,8/24/2020,8/21/2021 23:42,8/21/2021 23:42
+169,farmers_herdsmen,Kaduna,Zangon Kataf,Zonkwa,0,9.7833,8.2833,North,ng-kd,2020,8/20/2020,8/21/2021 23:42,8/21/2021 23:42
+170,farmers_herdsmen,Kaduna,Zangon Kataf,Gora,2,9.7873,8.4557,North,ng-kd,2020,8/18/2020,8/21/2021 23:42,8/21/2021 23:42
+171,farmers_herdsmen,Kaduna,Kachia,Kachia,1,9.8734,7.9541,North,ng-kd,2020,8/17/2020,8/21/2021 23:42,8/21/2021 23:42
+172,farmers_herdsmen,Kaduna,Kachia,Kachia,4,9.8734,7.9541,North,ng-kd,2020,8/16/2020,8/21/2021 23:42,8/21/2021 23:42
+173,farmers_herdsmen,Kaduna,Kajuru,Maro,1,10.0817,7.7247,North,ng-kd,2020,8/16/2020,8/21/2021 23:42,8/21/2021 23:42
+174,farmers_herdsmen,Kaduna,Chikun,Chikun,0,10.2691,7.1085,North,ng-kd,2020,8/7/2020,8/21/2021 23:42,8/21/2021 23:42
+175,farmers_herdsmen,Kaduna,Zangon Kataf,Zonkwa,21,9.7833,8.2833,North,ng-kd,2020,8/6/2020,8/21/2021 23:42,8/21/2021 23:42
+176,farmers_herdsmen,Nassarawa,Kokona,Ninkoro,0,8.9918,8.0247,North,ng-na,2020,8/3/2020,8/21/2021 23:42,8/21/2021 23:42
+177,farmers_herdsmen,Nassarawa,Toto,Umaish,6,8.0019,7.2008,North,ng-na,2020,8/3/2020,8/21/2021 23:42,8/21/2021 23:42
+178,farmers_herdsmen,Plateau,Barkin Ladi,Barkin Ladi,1,9.5333,8.9,North,ng-pl,2020,7/30/2020,8/21/2021 23:42,8/21/2021 23:42
+179,farmers_herdsmen,Plateau,Langtang North,Langtang,10,9.1333,9.7833,North,ng-pl,2020,7/27/2020,8/21/2021 23:42,8/21/2021 23:42
+180,farmers_herdsmen,Kaduna,Jema'a,Jemaa,4,9.4667,8.3833,North,ng-kd,2020,7/24/2020,8/21/2021 23:42,8/21/2021 23:42
+181,farmers_herdsmen,Kaduna,Jema'a,Kafanchan,12,9.5833,8.3,North,ng-kd,2020,7/24/2020,8/21/2021 23:42,8/21/2021 23:42
+182,farmers_herdsmen,Kaduna,Kaura,Kagoro,5,9.6078,8.3904,North,ng-kd,2020,7/24/2020,8/21/2021 23:42,8/21/2021 23:42
+183,farmers_herdsmen,Kaduna,Kajuru,Kajuru,7,10.3192,7.6892,North,ng-kd,2020,7/23/2020,8/21/2021 23:42,8/21/2021 23:42
+184,farmers_herdsmen,Kaduna,Kauru,Kauru,3,10.576,8.1509,North,ng-kd,2020,7/21/2020,8/21/2021 23:42,8/21/2021 23:42
+185,farmers_herdsmen,Niger,Rafi,Bako,0,10.2991,6.2379,North,ng-ni,2020,7/20/2020,8/21/2021 23:42,8/21/2021 23:42
+186,farmers_herdsmen,Plateau,Barkin Ladi,Barkin Ladi,1,9.5333,8.9,North,ng-pl,2020,7/20/2020,8/21/2021 23:42,8/21/2021 23:42
+187,farmers_herdsmen,Niger,Rafi,Kagara,0,10.1844,6.2534,North,ng-ni,2020,7/20/2020,8/21/2021 23:42,8/21/2021 23:42
+188,farmers_herdsmen,Kaduna,Zangon Kataf,Gora,8,9.7873,8.4557,North,ng-kd,2020,7/20/2020,8/21/2021 23:42,8/21/2021 23:42
+189,farmers_herdsmen,Kaduna,Kaura,Kukum,18,9.6081,8.3529,North,ng-kd,2020,7/19/2020,8/21/2021 23:42,8/21/2021 23:42
+190,farmers_herdsmen,Kaduna,Zangon Kataf,Zonkwa,11,9.7833,8.2833,North,ng-kd,2020,7/18/2020,8/21/2021 23:42,8/21/2021 23:42
+191,farmers_herdsmen,Nassarawa,Akwanga,Gudi,1,8.8833,8.2667,North,ng-na,2020,7/14/2020,8/21/2021 23:42,8/21/2021 23:42
+192,farmers_herdsmen,Kaduna,Zangon Kataf,Zangon Katab,1,9.8333,8.4,North,ng-kd,2020,7/12/2020,8/21/2021 23:42,8/21/2021 23:42
+193,farmers_herdsmen,Kaduna,Zangon Kataf,Kigudu,12,9.9,8.4167,North,ng-kd,2020,7/11/2020,8/21/2021 23:42,8/21/2021 23:42
+194,farmers_herdsmen,Benue,Logo,Ugba,2,7.5,9.3333,North,ng-be,2020,7/10/2020,8/21/2021 23:42,8/21/2021 23:42
+195,farmers_herdsmen,Kaduna,Zangon Kataf,Zonkwa,7,9.7833,8.2833,North,ng-kd,2020,7/10/2020,8/21/2021 23:42,8/21/2021 23:42
+196,farmers_herdsmen,Kaduna,Zangon Kataf,Sabon Kaura,15,9.924,8.4187,North,ng-kd,2020,7/10/2020,8/21/2021 23:42,8/21/2021 23:42
+197,farmers_herdsmen,Benue,Logo,Ayilamo,2,7.5134,9.3212,North,ng-be,2020,7/6/2020,8/21/2021 23:42,8/21/2021 23:42
+198,farmers_herdsmen,Kaduna,Kajuru,Kajuru,1,10.3192,7.6892,North,ng-kd,2020,7/5/2020,8/21/2021 23:42,8/21/2021 23:42
+199,farmers_herdsmen,Nassarawa,Nasarawa,Nasarawa,6,8.5458,7.7119,North,ng-na,2020,7/3/2020,8/21/2021 23:42,8/21/2021 23:42
+200,farmers_herdsmen,Bauchi,Misau,Zadawa,9,11.4496,10.3672,North,ng-ba,2020,6/29/2020,8/21/2021 23:42,8/21/2021 23:42
+201,farmers_herdsmen,Katsina,Kankara,Bakai,9,11.9054,7.2818,North,ng-kt,2020,6/28/2020,8/21/2021 23:42,8/21/2021 23:42
+202,farmers_herdsmen,Benue,Guma,Torkula,0,7.9334,8.5435,North,ng-be,2020,6/24/2020,8/21/2021 23:42,8/21/2021 23:42
+203,farmers_herdsmen,Katsina,Faskari,Faskari,1,11.7196,7.0272,North,ng-kt,2020,6/23/2020,8/21/2021 23:42,8/21/2021 23:42
+204,farmers_herdsmen,Katsina,Batsari,Karare,0,12.7244,7.375,North,ng-kt,2020,6/23/2020,8/21/2021 23:42,8/21/2021 23:42
+205,farmers_herdsmen,Katsina,Dandume,Maikwama,3,11.4676,7.1939,North,ng-kt,2020,6/22/2020,8/21/2021 23:42,8/21/2021 23:42
+206,farmers_herdsmen,Jigawa,Guri,Guri,3,12.7267,10.4205,North,ng-ji,2020,6/21/2020,8/21/2021 23:42,8/21/2021 23:42
+207,farmers_herdsmen,Zamfara,Maru,Ruwan-Tofa,10,11.325,6.3388,North,ng-za,2020,6/20/2020,8/21/2021 23:42,8/21/2021 23:42
+208,farmers_herdsmen,Niger,Shiroro,Shiroro,1,9.96,6.8346,North,ng-ni,2020,6/18/2020,8/21/2021 23:42,8/21/2021 23:42
+209,farmers_herdsmen,Ebonyi,Onicha,Onicha,1,6.1141,7.8338,East,ng-eb,2020,6/15/2020,8/21/2021 23:42,8/21/2021 23:42
+210,farmers_herdsmen,Plateau,Bokkos,Daffo,2,9.2333,8.85,North,ng-pl,2020,6/14/2020,8/21/2021 23:42,8/21/2021 23:42
+211,farmers_herdsmen,Kwara,Pategi,Lata,1,8.6825,5.4716,North,ng-kw,2020,6/14/2020,8/21/2021 23:42,8/21/2021 23:42
+212,farmers_herdsmen,Rivers,Eleme,Ogali,0,4.786,7.1269,South,ng-ri,2020,6/13/2020,8/21/2021 23:42,8/21/2021 23:42
+213,farmers_herdsmen,Imo,Oguta,Obudi-Agwa,1,5.5599,6.8834,East,ng-im,2020,6/13/2020,8/21/2021 23:42,8/21/2021 23:42
+214,farmers_herdsmen,Benue,Guma,Torkula,3,7.9334,8.5435,North,ng-be,2020,6/6/2020,8/21/2021 23:42,8/21/2021 23:42
+215,farmers_herdsmen,Benue,Kwande,Kwande,3,6.801,9.4702,North,ng-be,2020,6/6/2020,8/21/2021 23:42,8/21/2021 23:42
+216,farmers_herdsmen,Benue,Guma,Gbajimba,5,7.8155,8.8604,North,ng-be,2020,6/4/2020,8/21/2021 23:42,8/21/2021 23:42
+217,farmers_herdsmen,Imo,Aboh Mbaise,Aboh,1,5.4757,7.2716,East,ng-im,2020,5/31/2020,8/21/2021 23:42,8/21/2021 23:42
+218,farmers_herdsmen,Oyo,Akinyele,Ikereku,0,7.6319,3.9753,West,ng-oy,2020,5/31/2020,8/21/2021 23:42,8/21/2021 23:42
+219,farmers_herdsmen,Oyo,Akinyele,Moniya,0,7.5283,3.9119,West,ng-oy,2020,5/31/2020,8/21/2021 23:42,8/21/2021 23:42
+220,farmers_herdsmen,Oyo,Akinyele,Olanla,3,7.6514,3.9961,West,ng-oy,2020,5/31/2020,8/21/2021 23:42,8/21/2021 23:42
+221,farmers_herdsmen,Nassarawa,Obi,Obi,13,8.3667,8.7667,North,ng-na,2020,5/31/2020,8/21/2021 23:42,8/21/2021 23:42
+222,farmers_herdsmen,Katsina,Faskari,Sheme,3,11.7048,7.1131,North,ng-kt,2020,5/30/2020,8/21/2021 23:42,8/21/2021 23:42
+223,farmers_herdsmen,Ondo,Akoko North West,Onyin Akoko,1,7.6736,5.7568,West,ng-on,2020,5/29/2020,8/21/2021 23:42,8/21/2021 23:42
+224,farmers_herdsmen,Delta,Ika North East,Owa-Oyibu,0,6.1808,6.2012,South,ng-de,2020,5/29/2020,8/21/2021 23:42,8/21/2021 23:42
+225,farmers_herdsmen,Katsina,Faskari,Faskari,4,11.7196,7.0272,North,ng-kt,2020,5/28/2020,8/21/2021 23:42,8/21/2021 23:42
+226,farmers_herdsmen,Katsina,Mani,Machika,3,12.8211,7.861,North,ng-kt,2020,5/28/2020,8/21/2021 23:42,8/21/2021 23:42
+227,farmers_herdsmen,Katsina,Faskari,Mai Gora,3,11.5552,7.0228,North,ng-kt,2020,5/28/2020,8/21/2021 23:42,8/21/2021 23:42
+228,farmers_herdsmen,Katsina,Faskari,Sabon Layi,3,11.5711,7.019,North,ng-kt,2020,5/28/2020,8/21/2021 23:42,8/21/2021 23:42
+229,farmers_herdsmen,Katsina,Faskari,Yankara,0,11.7825,7.0778,North,ng-kt,2020,5/23/2020,8/21/2021 23:42,8/21/2021 23:42
+230,farmers_herdsmen,Kaduna,Kajuru,Gefe,1,10.4878,7.8209,North,ng-kd,2020,5/21/2020,8/21/2021 23:42,8/21/2021 23:42
+231,farmers_herdsmen,Kaduna,Kajuru,Kallah,1,10.4182,7.7634,North,ng-kd,2020,5/21/2020,8/21/2021 23:42,8/21/2021 23:42
+232,farmers_herdsmen,Kaduna,Kajuru,Libere,1,10.2902,7.7839,North,ng-kd,2020,5/21/2020,8/21/2021 23:42,8/21/2021 23:42
+233,farmers_herdsmen,Kaduna,Kajuru,Gefe,1,10.4878,7.8209,North,ng-kd,2020,5/20/2020,8/21/2021 23:42,8/21/2021 23:42
+234,farmers_herdsmen,Kaduna,Kajuru,Kallah,2,10.4182,7.7634,North,ng-kd,2020,5/20/2020,8/21/2021 23:42,8/21/2021 23:42
+235,farmers_herdsmen,Kaduna,Kajuru,Libere,2,10.2902,7.7839,North,ng-kd,2020,5/20/2020,8/21/2021 23:42,8/21/2021 23:42
+236,farmers_herdsmen,Kaduna,Kajuru,Gefe,2,10.4878,7.8209,North,ng-kd,2020,5/19/2020,8/21/2021 23:42,8/21/2021 23:42
+237,farmers_herdsmen,Kaduna,Kajuru,Kallah,2,10.4182,7.7634,North,ng-kd,2020,5/19/2020,8/21/2021 23:42,8/21/2021 23:42
+238,farmers_herdsmen,Kaduna,Kajuru,Libere,2,10.2902,7.7839,North,ng-kd,2020,5/19/2020,8/21/2021 23:42,8/21/2021 23:42
+239,farmers_herdsmen,Kaduna,Kajuru,Gefe,2,10.4878,7.8209,North,ng-kd,2020,5/18/2020,8/21/2021 23:42,8/21/2021 23:42
+240,farmers_herdsmen,Kaduna,Kajuru,Kallah,2,10.4182,7.7634,North,ng-kd,2020,5/18/2020,8/21/2021 23:42,8/21/2021 23:42
+241,farmers_herdsmen,Kaduna,Kajuru,Libere,2,10.2902,7.7839,North,ng-kd,2020,5/18/2020,8/21/2021 23:42,8/21/2021 23:42
+242,farmers_herdsmen,Delta,Oshimili North,Ibusa,3,6.1767,6.6284,South,ng-de,2020,5/17/2020,8/21/2021 23:42,8/21/2021 23:42
+243,farmers_herdsmen,Katsina,Faskari,Faskari,0,11.7196,7.0272,North,ng-kt,2020,5/17/2020,8/21/2021 23:42,8/21/2021 23:42
+244,farmers_herdsmen,Katsina,Faskari,Daudawa,0,11.6291,7.1564,North,ng-kt,2020,5/17/2020,8/21/2021 23:42,8/21/2021 23:42
+245,farmers_herdsmen,Niger,Shiroro,Shiroro,5,9.96,6.8346,North,ng-ni,2020,5/17/2020,8/21/2021 23:42,8/21/2021 23:42
+246,farmers_herdsmen,Adamawa,Lamurde,Lamurde,0,9.6,11.8,North,ng-ad,2020,5/16/2020,8/21/2021 23:42,8/21/2021 23:42
+247,farmers_herdsmen,Enugu,Enugu North,Enugu,0,6.4426,7.5022,East,ng-en,2020,5/16/2020,8/21/2021 23:42,8/21/2021 23:42
+248,farmers_herdsmen,Katsina,Faskari,Yankara,1,11.7825,7.0778,North,ng-kt,2020,5/14/2020,8/21/2021 23:42,8/21/2021 23:42
+249,farmers_herdsmen,Kaduna,Kajuru,Makyali,7,10.185,7.9144,North,ng-kd,2020,5/13/2020,8/21/2021 23:42,8/21/2021 23:42
+250,farmers_herdsmen,Kaduna,Kajuru,Doka,1,10.2489,7.9107,North,ng-kd,2020,5/12/2020,8/21/2021 23:42,8/21/2021 23:42
+251,farmers_herdsmen,Kaduna,Kajuru,Kajuru,15,10.3192,7.6892,North,ng-kd,2020,5/12/2020,8/21/2021 23:42,8/21/2021 23:42
+252,farmers_herdsmen,Benue,Guma,Mbabai,3,7.9205,8.6931,North,ng-be,2020,5/12/2020,8/21/2021 23:42,8/21/2021 23:42
+253,farmers_herdsmen,Benue,Logo,Ugba,1,7.5,9.3333,North,ng-be,2020,5/12/2020,8/21/2021 23:42,8/21/2021 23:42
+254,farmers_herdsmen,Adamawa,Numan,Gon,1,9.4551,11.6846,North,ng-ad,2020,5/12/2020,8/21/2021 23:42,8/21/2021 23:42
+255,farmers_herdsmen,Adamawa,Numan,Bolki,1,9.3833,11.6167,North,ng-ad,2020,5/12/2020,8/21/2021 23:42,8/21/2021 23:42
+256,farmers_herdsmen,Benue,Guma,Agasha,2,7.7166,8.899,North,ng-be,2020,5/11/2020,8/21/2021 23:42,8/21/2021 23:42
+257,farmers_herdsmen,Nassarawa,Keana,Kadarko,2,8.2333,8.5667,North,ng-na,2020,5/9/2020,8/21/2021 23:42,8/21/2021 23:42
+258,farmers_herdsmen,Benue,Gwer West,Naka,9,7.5887,8.2087,North,ng-be,2020,5/8/2020,8/21/2021 23:42,8/21/2021 23:42
+259,farmers_herdsmen,Zamfara,Bungudu,Karakai,3,12.3738,6.4497,North,ng-za,2020,5/8/2020,8/21/2021 23:42,8/21/2021 23:42
+260,farmers_herdsmen,Katsina,Batsari,Batsari,1,12.7515,7.2447,North,ng-kt,2020,5/7/2020,8/21/2021 23:42,8/21/2021 23:42
+261,farmers_herdsmen,Benue,Guma,Gbajimba,2,7.8155,8.8604,North,ng-be,2020,5/6/2020,8/21/2021 23:42,8/21/2021 23:42
+262,farmers_herdsmen,Katsina,Sabuwa,Sabuwa,5,11.173,7.1172,North,ng-kt,2020,5/6/2020,8/21/2021 23:42,8/21/2021 23:42
+263,farmers_herdsmen,Plateau,Barkin Ladi,Ropp,0,9.5,8.9167,North,ng-pl,2020,5/6/2020,8/21/2021 23:42,8/21/2021 23:42
+264,farmers_herdsmen,Benue,Makurdi,Makurdi,0,7.7411,8.5121,North,ng-be,2020,5/5/2020,8/21/2021 23:42,8/21/2021 23:42
+265,farmers_herdsmen,Ogun,Abeokuta South,Abeokuta,1,7.15,3.35,West,ng-og,2020,5/5/2020,8/21/2021 23:42,8/21/2021 23:42
+266,farmers_herdsmen,Benue,Gwer West,Naka,2,7.5887,8.2087,North,ng-be,2020,5/2/2020,8/21/2021 23:42,8/21/2021 23:42
+267,farmers_herdsmen,Benue,Gwer West,Naka,0,7.5887,8.2087,North,ng-be,2020,4/30/2020,8/21/2021 23:42,8/21/2021 23:42
+268,farmers_herdsmen,Niger,Shiroro,Shiroro,2,9.96,6.8346,North,ng-ni,2020,4/26/2020,8/21/2021 23:42,8/21/2021 23:42
+269,farmers_herdsmen,Ebonyi,Ohaozara,Uburu,1,6.0446,7.7692,East,ng-eb,2020,4/25/2020,8/21/2021 23:42,8/21/2021 23:42
+270,farmers_herdsmen,Kaduna,Kajuru,Kajuru,3,10.3192,7.6892,North,ng-kd,2020,4/25/2020,8/21/2021 23:42,8/21/2021 23:42
+271,farmers_herdsmen,Anambra,Ayamelum,Anaku,0,6.4664,6.9316,East,ng-an,2020,4/24/2020,8/21/2021 23:42,8/21/2021 23:42
+272,farmers_herdsmen,Kaduna,Kajuru,Kajuru,2,10.3192,7.6892,North,ng-kd,2020,4/24/2020,8/21/2021 23:42,8/21/2021 23:42
+273,farmers_herdsmen,Delta,Aniocha South,Issele-Azagba,2,6.2658,6.5973,South,ng-de,2020,4/22/2020,8/21/2021 23:42,8/21/2021 23:42
+274,farmers_herdsmen,Ondo,Idanre,Ala-Ajagbusi,0,7.0841,5.3627,West,ng-on,2020,4/20/2020,8/21/2021 23:42,8/21/2021 23:42
+275,farmers_herdsmen,Akwa Ibom,Itu,Itu,0,5.2004,7.9848,South,ng-ak,2020,4/20/2020,8/21/2021 23:42,8/21/2021 23:42
+276,farmers_herdsmen,Benue,Guma,Mbawa,1,7.9836,8.5899,North,ng-be,2020,4/20/2020,8/21/2021 23:42,8/21/2021 23:42
+277,farmers_herdsmen,Ondo,Akure South,Adejubu,0,7.1761,5.2837,West,ng-on,2020,4/19/2020,8/21/2021 23:42,8/21/2021 23:42
+278,farmers_herdsmen,Ondo,Akure South,Ijojo,0,7.1468,5.3206,West,ng-on,2020,4/19/2020,8/21/2021 23:42,8/21/2021 23:42
+279,farmers_herdsmen,Ondo,Akure North,Iju,0,7.3939,5.2633,West,ng-on,2020,4/19/2020,8/21/2021 23:42,8/21/2021 23:42
+280,farmers_herdsmen,Kaduna,Kachia,Kachia,2,9.8734,7.9541,North,ng-kd,2020,4/19/2020,8/21/2021 23:42,8/21/2021 23:42
+281,farmers_herdsmen,Kaduna,Kauru,Kamaru,6,9.8195,8.6031,North,ng-kd,2020,4/19/2020,8/21/2021 23:42,8/21/2021 23:42
+282,farmers_herdsmen,Niger,Rafi,Kusheriki,2,10.5328,6.4422,North,ng-ni,2020,4/19/2020,8/21/2021 23:42,8/21/2021 23:42
+283,farmers_herdsmen,Delta,Aniocha North,Issele Mkpitime,0,6.3345,6.5397,South,ng-de,2020,4/18/2020,8/21/2021 23:42,8/21/2021 23:42
+284,farmers_herdsmen,Benue,Makurdi,Makurdi,1,7.7411,8.5121,North,ng-be,2020,4/16/2020,8/21/2021 23:42,8/21/2021 23:42
+285,farmers_herdsmen,Kaduna,Kachia,Maigoro,2,9.8987,7.6937,North,ng-kd,2020,4/16/2020,8/21/2021 23:42,8/21/2021 23:42
+286,farmers_herdsmen,Kogi,Omala,Abejukolo,0,7.8681,7.5091,,ng-ko,2020,4/16/2020,8/21/2021 23:42,8/21/2021 23:42
+287,farmers_herdsmen,Edo,Ovia North East,Odighi,2,6.6395,5.7645,South,ng-ed,2020,4/15/2020,8/21/2021 23:42,8/21/2021 23:42
+288,farmers_herdsmen,Plateau,Bassa,Kwal,9,9.8167,8.65,North,ng-pl,2020,4/14/2020,8/21/2021 23:42,8/21/2021 23:42
+289,farmers_herdsmen,Oyo,Ibarapa Central,Igbo Ora,0,7.4338,3.2879,West,ng-oy,2020,4/13/2020,8/21/2021 23:42,8/21/2021 23:42
+290,farmers_herdsmen,Benue,Agatu,Bagagi,2,7.8917,7.9094,North,ng-be,2020,4/13/2020,8/21/2021 23:42,8/21/2021 23:42
+291,farmers_herdsmen,Plateau,Bokkos,Daffo,2,9.2333,8.85,North,ng-pl,2020,4/11/2020,8/21/2021 23:42,8/21/2021 23:42
+292,farmers_herdsmen,Delta,Oshimili North,Ibusa,1,6.1767,6.6284,South,ng-de,2020,4/10/2020,8/21/2021 23:42,8/21/2021 23:42
+293,farmers_herdsmen,Imo,Okigwe,Okigwi,0,5.8352,7.3599,East,ng-im,2020,4/10/2020,8/21/2021 23:42,8/21/2021 23:42
+294,farmers_herdsmen,Delta,Oshimili South,Asaba,1,6.2006,6.7339,South,ng-de,2020,4/9/2020,8/21/2021 23:42,8/21/2021 23:42
+295,farmers_herdsmen,Kogi,Omala,Abejukolo,1,7.8681,7.5091,,ng-ko,2020,4/9/2020,8/21/2021 23:42,8/21/2021 23:42
+296,farmers_herdsmen,Plateau,Bassa,Bassa,4,9.9333,8.7333,North,ng-pl,2020,4/7/2020,8/21/2021 23:42,8/21/2021 23:42
+297,farmers_herdsmen,Delta,Oshimili North,Okpanam,1,6.2376,6.6486,South,ng-de,2020,4/7/2020,8/21/2021 23:42,8/21/2021 23:42
+298,farmers_herdsmen,Benue,Guma,Gbajimba,1,7.8155,8.8604,North,ng-be,2020,4/5/2020,8/21/2021 23:42,8/21/2021 23:42
+299,farmers_herdsmen,Kogi,Omala,Abejukolo,0,7.8681,7.5091,,ng-ko,2020,4/4/2020,8/21/2021 23:42,8/21/2021 23:42
+300,farmers_herdsmen,Enugu,Udi,Umulumgbe,0,6.5958,7.4193,East,ng-en,2020,4/3/2020,8/21/2021 23:42,8/21/2021 23:42
+301,farmers_herdsmen,Plateau,Bassa,Bassa,3,9.9333,8.7333,North,ng-pl,2020,4/1/2020,8/21/2021 23:42,8/21/2021 23:42
+302,farmers_herdsmen,Kaduna,Chikun,Chikun,6,10.2691,7.1085,North,ng-kd,2020,3/31/2020,8/21/2021 23:42,8/21/2021 23:42
+303,farmers_herdsmen,Kaduna,Jema'a,Jagindi,2,9.3829,8.2,North,ng-kd,2020,3/30/2020,8/21/2021 23:42,8/21/2021 23:42
+304,farmers_herdsmen,Kaduna,Birnin Gwari,Kuduru,3,10.9668,7.0634,North,ng-kd,2020,3/26/2020,8/21/2021 23:42,8/21/2021 23:42
+305,farmers_herdsmen,Ondo,Ose,Arimogija,3,6.8212,5.7048,West,ng-on,2020,3/25/2020,8/21/2021 23:42,8/21/2021 23:42
+306,farmers_herdsmen,Plateau,Bassa,Kwal,5,9.8167,8.65,North,ng-pl,2020,3/24/2020,8/21/2021 23:42,8/21/2021 23:42
+307,farmers_herdsmen,Kaduna,Kajuru,Afogo,1,10.3679,7.8224,North,ng-kd,2020,3/22/2020,8/21/2021 23:42,8/21/2021 23:42
+308,farmers_herdsmen,Benue,Kwande,Kwande,1,6.801,9.4702,North,ng-be,2020,3/21/2020,8/21/2021 23:42,8/21/2021 23:42
+309,farmers_herdsmen,Imo,Ihitte Uboma,Lowa,1,5.6329,7.3505,East,ng-im,2020,3/19/2020,8/21/2021 23:42,8/21/2021 23:42
+310,farmers_herdsmen,Katsina,Dutsinma,Dutsin Ma,1,12.4517,7.4981,North,ng-kt,2020,3/19/2020,8/21/2021 23:42,8/21/2021 23:42
+311,farmers_herdsmen,Katsina,Dutsinma,Garangamawa,0,12.2614,7.4663,North,ng-kt,2020,3/19/2020,8/21/2021 23:42,8/21/2021 23:42
+312,farmers_herdsmen,Kaduna,Chikun,Manini,2,10.6538,6.8526,North,ng-kd,2020,3/18/2020,8/21/2021 23:42,8/21/2021 23:42
+313,farmers_herdsmen,Kaduna,Chikun,Kugosi,2,10.1608,7.1659,North,ng-kd,2020,3/17/2020,8/21/2021 23:42,8/21/2021 23:42
+314,farmers_herdsmen,Kaduna,Chikun,Kajari,1,10.2073,7.1208,North,ng-kd,2020,3/17/2020,8/21/2021 23:42,8/21/2021 23:42
+315,farmers_herdsmen,Zamfara,Gusau,Gusau,4,12.1628,6.6614,North,ng-za,2020,3/13/2020,8/21/2021 23:42,8/21/2021 23:42
+316,farmers_herdsmen,Benue,Guma,Chongu,3,7.8641,8.6639,North,ng-be,2020,3/13/2020,8/21/2021 23:42,8/21/2021 23:42
+317,farmers_herdsmen,Benue,Guma,Tyohambe,2,7.879,8.6572,North,ng-be,2020,3/13/2020,8/21/2021 23:42,8/21/2021 23:42
+318,farmers_herdsmen,Benue,Guma,Ayev,5,7.9106,8.6761,North,ng-be,2020,3/13/2020,8/21/2021 23:42,8/21/2021 23:42
+319,farmers_herdsmen,Kaduna,Kaura,Kaura,2,9.6681,8.4583,North,ng-kd,2020,3/11/2020,8/21/2021 23:42,8/21/2021 23:42
+320,farmers_herdsmen,Ondo,Ondo West,Ondo,1,7.0932,4.8353,West,ng-on,2020,3/10/2020,8/21/2021 23:42,8/21/2021 23:42
+321,farmers_herdsmen,Benue,Kwande,Waya,0,6.8734,9.6062,North,ng-be,2020,3/10/2020,8/21/2021 23:42,8/21/2021 23:42
+322,farmers_herdsmen,Bayelsa,Yenagoa,Yenagoa,0,4.9247,6.2642,South,ng-by,2020,3/9/2020,8/21/2021 23:42,8/21/2021 23:42
+323,farmers_herdsmen,Sokoto,Sabon Birni,Tara,0,13.4667,6.3667,North,ng-so,2020,3/8/2020,8/21/2021 23:42,8/21/2021 23:42
+324,farmers_herdsmen,Rivers,Port Harcourt,Port Harcourt,1,4.7774,7.0134,South,ng-ri,2020,3/7/2020,8/21/2021 23:42,8/21/2021 23:42
+325,farmers_herdsmen,Adamawa,Mubi North,Mbawa,0,10.3008,13.1977,North,ng-ad,2020,3/5/2020,8/21/2021 23:42,8/21/2021 23:42
+326,farmers_herdsmen,Delta,Aniocha South,Issele-Azagba,3,6.2658,6.5973,South,ng-de,2020,3/4/2020,8/21/2021 23:42,8/21/2021 23:42
+327,farmers_herdsmen,Benue,Kwande,Waya,4,6.8734,9.6062,North,ng-be,2020,3/3/2020,8/21/2021 23:42,8/21/2021 23:42
+328,farmers_herdsmen,Benue,Guma,Gbajimba,0,7.8155,8.8604,North,ng-be,2020,2/24/2020,8/21/2021 23:42,8/21/2021 23:42
+329,farmers_herdsmen,Delta,Aniocha South,Issele-Azagba,1,6.2658,6.5973,South,ng-de,2020,2/23/2020,8/21/2021 23:42,8/21/2021 23:42
+330,farmers_herdsmen,Plateau,Mangu,Mangu,1,9.5206,9.0977,North,ng-pl,2020,2/21/2020,8/21/2021 23:42,8/21/2021 23:42
+331,farmers_herdsmen,Niger,Rafi,Madaka,0,10.0116,6.4587,North,ng-ni,2020,2/19/2020,8/21/2021 23:42,8/21/2021 23:42
+332,farmers_herdsmen,Adamawa,Numan,Numan,2,9.4667,12.0333,North,ng-ad,2020,2/19/2020,8/21/2021 23:42,8/21/2021 23:42
+333,farmers_herdsmen,Edo,Ovia North East,Owan,2,6.7604,5.7696,South,ng-ed,2020,2/18/2020,8/21/2021 23:42,8/21/2021 23:42
+334,farmers_herdsmen,Delta,Ughelli North,Uwheru,2,5.2411,6.0125,South,ng-de,2020,2/15/2020,8/21/2021 23:42,8/21/2021 23:42
+335,farmers_herdsmen,Delta,Ughelli North,Uwheru,4,5.2411,6.0125,South,ng-de,2020,2/14/2020,8/21/2021 23:42,8/21/2021 23:42
+336,farmers_herdsmen,Delta,Ughelli North,Uwheru,2,5.2411,6.0125,South,ng-de,2020,2/13/2020,8/21/2021 23:42,8/21/2021 23:42
+337,farmers_herdsmen,Delta,Ughelli North,Afiesere,1,5.5252,6.0135,South,ng-de,2020,2/11/2020,8/21/2021 23:42,8/21/2021 23:42
+338,farmers_herdsmen,Delta,Aniocha South,Issele-Azagba,1,6.2658,6.5973,South,ng-de,2020,2/5/2020,8/21/2021 23:42,8/21/2021 23:42
+339,farmers_herdsmen,Delta,Oshimili North,Illah,1,6.4222,6.6506,South,ng-de,2020,2/4/2020,8/21/2021 23:42,8/21/2021 23:42
+340,farmers_herdsmen,Kaduna,Birnin Gwari,Kakangi,6,10.7106,6.2066,North,ng-kd,2020,2/3/2020,8/21/2021 23:42,8/21/2021 23:42
+341,farmers_herdsmen,Edo,Ovia North East,Okada,1,6.7327,5.3899,South,ng-ed,2020,2/3/2020,8/21/2021 23:42,8/21/2021 23:42
+342,farmers_herdsmen,Benue,Makurdi,Makurdi,0,7.7411,8.5121,North,ng-be,2020,1/29/2020,8/21/2021 23:42,8/21/2021 23:42
+343,farmers_herdsmen,Benue,Ado,Igumale,1,6.7918,7.985,North,ng-be,2020,1/29/2020,8/21/2021 23:42,8/21/2021 23:42
+344,farmers_herdsmen,Ogun,Egbado North,Oja Odan,1,6.8964,2.8438,West,ng-og,2020,1/28/2020,8/21/2021 23:42,8/21/2021 23:42
+345,farmers_herdsmen,Kwara,Asa,Ote Etile,1,8.3833,4.4333,North,ng-kw,2020,1/27/2020,8/21/2021 23:42,8/21/2021 23:42
+346,farmers_herdsmen,Taraba,Bali,Pangri,3,8.1288,10.9861,North,ng-ta,2020,1/26/2020,8/21/2021 23:42,8/21/2021 23:42
+347,farmers_herdsmen,Plateau,Bokkos,Kwatas,14,9.3407,8.9985,North,ng-pl,2020,1/26/2020,8/21/2021 23:42,8/21/2021 23:42
+348,farmers_herdsmen,Niger,Shiroro,Shiroro,11,9.96,6.8346,North,ng-ni,2020,1/25/2020,8/21/2021 23:42,8/21/2021 23:42
+349,farmers_herdsmen,Edo,Ovia North East,Owan,1,6.7604,5.7696,South,ng-ed,2020,1/25/2020,8/21/2021 23:42,8/21/2021 23:42
+350,farmers_herdsmen,Edo,Ovia North East,Owan,1,6.7604,5.7696,South,ng-ed,2020,1/25/2020,8/21/2021 23:42,8/21/2021 23:42
+351,farmers_herdsmen,Nassarawa,Keana,Keana,4,8.1333,8.8,North,ng-na,2020,1/20/2020,8/21/2021 23:42,8/21/2021 23:42
+352,farmers_herdsmen,Kogi,Igalamela,Oforachi,1,7.0927,6.8742,,ng-ko,2020,1/17/2020,8/21/2021 23:42,8/21/2021 23:42
+353,farmers_herdsmen,Edo,Owan West,Sobe,1,6.8498,5.7784,South,ng-ed,2020,1/12/2020,8/21/2021 23:42,8/21/2021 23:42
+354,farmers_herdsmen,Taraba,Wukari,Wukari,2,7.85,9.7833,North,ng-ta,2020,1/10/2020,8/21/2021 23:42,8/21/2021 23:42
+355,farmers_herdsmen,Ogun,Remo North,Ipara,0,7,3.6667,West,ng-og,2020,1/10/2020,8/21/2021 23:42,8/21/2021 23:42
+356,farmers_herdsmen,Plateau,Mangu,Kombun,12,9.4057,9.1232,North,ng-pl,2020,1/8/2020,8/21/2021 23:42,8/21/2021 23:42
+357,farmers_herdsmen,Kaduna,Birnin Gwari,Birnin Gwari,7,10.6637,6.54,North,ng-kd,2020,1/6/2020,8/21/2021 23:42,8/21/2021 23:42
+358,farmers_herdsmen,Kaduna,Chikun,Chikun,7,10.2691,7.1085,North,ng-kd,2020,1/6/2020,8/21/2021 23:42,8/21/2021 23:42
+359,farmers_herdsmen,Kaduna,Chikun,Zankoro,7,10.6422,7.1649,North,ng-kd,2020,1/6/2020,8/21/2021 23:42,8/21/2021 23:42
+360,farmers_herdsmen,Kaduna,Chikun,Badna,7,10.3962,6.9557,North,ng-kd,2020,1/6/2020,8/21/2021 23:42,8/21/2021 23:42
+361,farmers_herdsmen,Kaduna,Chikun,Rumana,7,10.6667,7.1809,North,ng-kd,2020,1/6/2020,8/21/2021 23:42,8/21/2021 23:42
+362,farmers_herdsmen,Kogi,Kogi,Tawari,15,8.25,6.8833,,ng-ko,2020,1/2/2020,8/21/2021 23:42,8/21/2021 23:42
+363,farmers_herdsmen,Katsina,Dutsinma,Maisani,0,12.4836,7.4488,North,ng-kt,2019,12/28/2019,8/21/2021 23:42,8/21/2021 23:42
+364,farmers_herdsmen,Katsina,Dutsinma,Darawa,0,12.475,7.4909,North,ng-kt,2019,12/28/2019,8/21/2021 23:42,8/21/2021 23:42
+365,farmers_herdsmen,Katsina,Dutsinma,Dutsin Ma,1,12.4517,7.4981,North,ng-kt,2019,12/28/2019,8/21/2021 23:42,8/21/2021 23:42
+366,farmers_herdsmen,Katsina,Kurfi,Kurfi,0,12.6684,7.4841,North,ng-kt,2019,12/28/2019,8/21/2021 23:42,8/21/2021 23:42
+367,farmers_herdsmen,Zamfara,Zurmi,Zurmi,1,12.7776,6.7834,North,ng-za,2019,12/27/2019,8/21/2021 23:42,8/21/2021 23:42
+368,farmers_herdsmen,Taraba,Gassol,Gassol,2,8.5333,10.4667,North,ng-ta,2019,12/26/2019,8/21/2021 23:42,8/21/2021 23:42
+369,farmers_herdsmen,Kebbi,Danko,Wasagu,2,11.3764,5.7954,North,ng-ke,2019,12/23/2019,8/21/2021 23:42,8/21/2021 23:42
+370,farmers_herdsmen,Delta,Aniocha North,Issele Mkpitime,0,6.3345,6.5397,South,ng-de,2019,12/15/2019,8/21/2021 23:42,8/21/2021 23:42
+371,farmers_herdsmen,Ogun,Abeokuta North,Imala,1,7.2763,3.1282,West,ng-og,2019,12/7/2019,8/21/2021 23:42,8/21/2021 23:42
+372,farmers_herdsmen,Jigawa,Guri,Guri,1,12.7267,10.4205,North,ng-ji,2019,12/5/2019,8/21/2021 23:42,8/21/2021 23:42
+373,farmers_herdsmen,Niger,Rafi,Kukoki,0,10.1261,6.4399,North,ng-ni,2019,12/4/2019,8/21/2021 23:42,8/21/2021 23:42
+374,farmers_herdsmen,Ekiti,Ise,Asolo,0,7.31,5.3792,West,ng-ek,2019,12/2/2019,8/21/2021 23:42,8/21/2021 23:42
+375,farmers_herdsmen,Adamawa,Hong,Holma,2,10.1588,12.8823,North,ng-ad,2019,12/1/2019,8/21/2021 23:42,8/21/2021 23:42
+376,farmers_herdsmen,Adamawa,Yola-North,Bole,0,9.1333,12.5167,North,ng-ad,2019,11/28/2019,8/21/2021 23:42,8/21/2021 23:42
+377,farmers_herdsmen,Adamawa,Hong,Shuwa,3,10.2586,13.0462,North,ng-ad,2019,11/23/2019,8/21/2021 23:42,8/21/2021 23:42
+378,farmers_herdsmen,Kaduna,Kaura,Kaura,2,9.6681,8.4583,North,ng-kd,2019,11/21/2019,8/21/2021 23:42,8/21/2021 23:42
+379,farmers_herdsmen,Zamfara,Gummi,Karaye,14,11.9857,5.0453,North,ng-za,2019,11/17/2019,8/21/2021 23:42,8/21/2021 23:42
+380,farmers_herdsmen,Delta,Aniocha North,Issele-Uku,0,6.3152,6.4741,South,ng-de,2019,11/16/2019,8/21/2021 23:42,8/21/2021 23:42
+381,farmers_herdsmen,Delta,Aniocha North,Issele-Uku,1,6.3152,6.4741,South,ng-de,2019,11/16/2019,8/21/2021 23:42,8/21/2021 23:42
+382,farmers_herdsmen,Kaduna,Kaura,Agban,4,9.5849,8.3695,North,ng-kd,2019,11/15/2019,8/21/2021 23:42,8/21/2021 23:42
+383,farmers_herdsmen,Kaduna,Kaura,Kaura,1,9.6681,8.4583,North,ng-kd,2019,11/11/2019,8/21/2021 23:42,8/21/2021 23:42
+384,farmers_herdsmen,Jigawa,Kiri-Kasamma,Lyo,0,12.5471,10.2957,North,ng-ji,2019,11/1/2019,8/21/2021 23:42,8/21/2021 23:42
+385,farmers_herdsmen,Jigawa,Kiri-Kasamma,Kiri Kasamma,0,12.6932,10.2551,North,ng-ji,2019,11/1/2019,8/21/2021 23:42,8/21/2021 23:42
+386,farmers_herdsmen,Kebbi,Bunza,Bangalasa,1,12.0957,3.8186,North,ng-ke,2019,10/30/2019,8/21/2021 23:42,8/21/2021 23:42
+387,farmers_herdsmen,Enugu,Udi,Eke,0,6.4579,7.3592,East,ng-en,2019,10/27/2019,8/21/2021 23:42,8/21/2021 23:42
+388,farmers_herdsmen,Niger,Shiroro,Shiroro,2,9.96,6.8346,North,ng-ni,2019,10/27/2019,8/21/2021 23:42,8/21/2021 23:42
+389,farmers_herdsmen,Niger,Shiroro,Gini,1,9.9985,6.7004,North,ng-ni,2019,10/27/2019,8/21/2021 23:42,8/21/2021 23:42
+390,farmers_herdsmen,Katsina,Jibia,Jibia,0,13.0978,7.2225,North,ng-kt,2019,10/17/2019,8/21/2021 23:42,8/21/2021 23:42
+391,farmers_herdsmen,Imo,Owerri West,Amakohia,0,5.5272,6.9641,East,ng-im,2019,10/15/2019,8/21/2021 23:42,8/21/2021 23:42
+392,farmers_herdsmen,Benue,Guma,Gbajimba,0,7.8155,8.8604,North,ng-be,2019,10/13/2019,8/21/2021 23:42,8/21/2021 23:42
+393,farmers_herdsmen,Jigawa,Kiri-Kasamma,Marma,0,12.6572,10.3429,North,ng-ji,2019,10/13/2019,8/21/2021 23:42,8/21/2021 23:42
+394,farmers_herdsmen,Plateau,Bassa,Miango,1,9.85,8.7333,North,ng-pl,2019,10/12/2019,8/21/2021 23:42,8/21/2021 23:42
+395,farmers_herdsmen,Sokoto,Tureta,Tureta,2,12.5937,5.5439,North,ng-so,2019,10/7/2019,8/21/2021 23:42,8/21/2021 23:42
+396,farmers_herdsmen,Sokoto,Tureta,Mahuta,1,12.5284,5.5787,North,ng-so,2019,10/7/2019,8/21/2021 23:42,8/21/2021 23:42
+397,farmers_herdsmen,Akwa Ibom,Ukanafun,Nkek,1,4.9479,7.617,South,ng-ak,2019,10/4/2019,8/21/2021 23:42,8/21/2021 23:42
+398,farmers_herdsmen,Niger,Rafi,Pan Dongari,0,10.41,6.3985,North,ng-ni,2019,9/28/2019,8/21/2021 23:42,8/21/2021 23:42
+399,farmers_herdsmen,Niger,Rafi,Kusheriki,8,10.5328,6.4422,North,ng-ni,2019,9/28/2019,8/21/2021 23:42,8/21/2021 23:42
+400,farmers_herdsmen,Plateau,Bassa,Miango,3,9.85,8.7333,North,ng-pl,2019,9/23/2019,8/21/2021 23:42,8/21/2021 23:42
+401,farmers_herdsmen,Adamawa,Numan,Shafrau,1,9.46,11.9167,North,ng-ad,2019,9/22/2019,8/21/2021 23:42,8/21/2021 23:42
+402,farmers_herdsmen,Adamawa,Numan,Kadamti,1,9.4553,11.9302,North,ng-ad,2019,9/22/2019,8/21/2021 23:42,8/21/2021 23:42
+403,farmers_herdsmen,Kaduna,Igabi,Sabon Birni,3,10.8121,7.3022,North,ng-kd,2019,9/17/2019,8/21/2021 23:42,8/21/2021 23:42
+404,farmers_herdsmen,Kaduna,Chikun,Udawa,6,10.4721,7.0599,North,ng-kd,2019,9/14/2019,8/21/2021 23:42,8/21/2021 23:42
+405,farmers_herdsmen,Kaduna,Igabi,Sabon Birni,3,10.8121,7.3022,North,ng-kd,2019,9/14/2019,8/21/2021 23:42,8/21/2021 23:42
+406,farmers_herdsmen,Plateau,Barkin Ladi,Nding,2,9.5667,8.9333,North,ng-pl,2019,9/8/2019,8/21/2021 23:42,8/21/2021 23:42
+407,farmers_herdsmen,Plateau,Barkin Ladi,Foron,2,9.7,8.95,North,ng-pl,2019,9/4/2019,8/21/2021 23:42,8/21/2021 23:42
+408,farmers_herdsmen,Katsina,Batsari,Batsari,0,12.7515,7.2447,North,ng-kt,2019,9/1/2019,8/21/2021 23:42,8/21/2021 23:42
+409,farmers_herdsmen,Plateau,Riyom,Ataka,5,9.5841,8.6007,North,ng-pl,2019,8/30/2019,8/21/2021 23:42,8/21/2021 23:42
+410,farmers_herdsmen,Katsina,Kurfi,Wurma,0,12.5782,7.4347,North,ng-kt,2019,8/28/2019,8/21/2021 23:42,8/21/2021 23:42
+411,farmers_herdsmen,Plateau,Barkin Ladi,Foron,0,9.7,8.95,North,ng-pl,2019,8/21/2019,8/21/2021 23:42,8/21/2021 23:42
+412,farmers_herdsmen,Enugu,Enugu East,Emene,1,6.4759,7.584,East,ng-en,2019,8/21/2019,8/21/2021 23:42,8/21/2021 23:42
+413,farmers_herdsmen,Zamfara,Maru,Dan Sadau,1,11.2962,6.4952,North,ng-za,2019,8/18/2019,8/21/2021 23:42,8/21/2021 23:42
+414,farmers_herdsmen,Oyo,Akinyele,Araro,0,7.5225,3.8453,West,ng-oy,2019,8/18/2019,8/21/2021 23:42,8/21/2021 23:42
+415,farmers_herdsmen,Akwa Ibom,Mkpat Enin,Mkpat Enin,1,4.7348,7.749,South,ng-ak,2019,8/8/2019,8/21/2021 23:42,8/21/2021 23:42
+416,farmers_herdsmen,Enugu,Agwu,Agbogugu,0,6.2563,7.4739,East,ng-en,2019,8/5/2019,8/21/2021 23:42,8/21/2021 23:42
+417,farmers_herdsmen,Anambra,Awka South,Awka,0,6.2101,7.0741,East,ng-an,2019,8/5/2019,8/21/2021 23:42,8/21/2021 23:42
+418,farmers_herdsmen,Federal Capital Territory,Abuja Municipal,Abuja,0,9.0833,7.5333,,ng-fc,2019,8/2/2019,8/21/2021 23:42,8/21/2021 23:42
+419,farmers_herdsmen,Enugu,Agwu,Ihe,1,6.2235,7.4487,East,ng-en,2019,8/1/2019,8/21/2021 23:42,8/21/2021 23:42
+420,farmers_herdsmen,Katsina,Batsari,Nahuta,0,12.7227,7.1678,North,ng-kt,2019,7/31/2019,8/21/2021 23:42,8/21/2021 23:42
+421,farmers_herdsmen,Katsina,Batsari,Batsari,3,12.7515,7.2447,North,ng-kt,2019,7/31/2019,8/21/2021 23:42,8/21/2021 23:42
+422,farmers_herdsmen,Katsina,Safana,Baure,0,12.6324,7.2635,North,ng-kt,2019,7/26/2019,8/21/2021 23:42,8/21/2021 23:42
+423,farmers_herdsmen,Katsina,Sandamu,Safana,0,12.9604,8.3621,North,ng-kt,2019,7/26/2019,8/21/2021 23:42,8/21/2021 23:42
+424,farmers_herdsmen,Taraba,Yorro,Kona,3,8.95,11.35,North,ng-ta,2019,7/24/2019,8/21/2021 23:42,8/21/2021 23:42
+425,farmers_herdsmen,Ogun,Odedah,Alabata,1,7.3167,3.5,West,ng-og,2019,7/14/2019,8/21/2021 23:42,8/21/2021 23:42
+426,farmers_herdsmen,Delta,Oshimili North,Ibusa,1,6.1767,6.6284,South,ng-de,2019,7/14/2019,8/21/2021 23:42,8/21/2021 23:42
+427,farmers_herdsmen,Delta,Aniocha North,Issele-Uku,0,6.3152,6.4741,South,ng-de,2019,7/7/2019,8/21/2021 23:42,8/21/2021 23:42
+428,farmers_herdsmen,Imo,Ohaji,Obokofia Plantation,0,5.4927,6.8149,East,ng-im,2019,7/3/2019,8/21/2021 23:42,8/21/2021 23:42
+429,farmers_herdsmen,Ekiti,Ido-Osi,Orin,1,7.8323,5.2382,West,ng-ek,2019,6/28/2019,8/21/2021 23:42,8/21/2021 23:42
+430,farmers_herdsmen,Ogun,Odedah,Seriki,0,7.35,3.25,West,ng-og,2019,6/27/2019,8/21/2021 23:42,8/21/2021 23:42
+431,farmers_herdsmen,Kogi,Kogi,Koton Karifi,4,8.1,6.8,,ng-ko,2019,6/25/2019,8/21/2021 23:42,8/21/2021 23:42
+432,farmers_herdsmen,Kogi,Kogi,Onzo,3,8.1,6.8333,,ng-ko,2019,6/25/2019,8/21/2021 23:42,8/21/2021 23:42
+433,farmers_herdsmen,Taraba,Ardo Kola,Sunkani,6,8.703,11.2576,North,ng-ta,2019,6/17/2019,8/21/2021 23:42,8/21/2021 23:42
+434,farmers_herdsmen,Taraba,Ardo Kola,Sunkani,0,8.703,11.2576,North,ng-ta,2019,6/16/2019,8/21/2021 23:42,8/21/2021 23:42
+435,farmers_herdsmen,Taraba,Jalingo,Jalingo,1,8.8833,11.3667,North,ng-ta,2019,6/16/2019,8/21/2021 23:42,8/21/2021 23:42
+436,farmers_herdsmen,Enugu,Nkanu West,Agbani,0,6.3079,7.5519,East,ng-en,2019,6/14/2019,8/21/2021 23:42,8/21/2021 23:42
+437,farmers_herdsmen,Osun,Isokan,Ikire,1,7.35,4.1833,West,ng-os,2019,6/12/2019,8/21/2021 23:42,8/21/2021 23:42
+438,farmers_herdsmen,Federal Capital Territory,Abuja Municipal,Orozo,0,8.9001,7.5728,,ng-fc,2019,6/6/2019,8/21/2021 23:42,8/21/2021 23:42
+439,farmers_herdsmen,Plateau,Riyom,Nakai Danwai,6,9.724,8.695,North,ng-pl,2019,5/27/2019,8/21/2021 23:42,8/21/2021 23:42
+440,farmers_herdsmen,Anambra,Anambra East,Aguleri,3,6.3224,6.8902,East,ng-an,2019,5/25/2019,8/21/2021 23:42,8/21/2021 23:42
+441,farmers_herdsmen,Kogi,Dekina,Dekina,2,7.6897,7.0438,,ng-ko,2019,5/21/2019,8/21/2021 23:42,8/21/2021 23:42
+442,farmers_herdsmen,Delta,Aniocha South,Ubulu-Uku,1,6.2456,6.4217,South,ng-de,2019,5/20/2019,8/21/2021 23:42,8/21/2021 23:42
+443,farmers_herdsmen,Kogi,Yagba East,Ogga,1,8.1833,5.65,,ng-ko,2019,5/18/2019,8/21/2021 23:42,8/21/2021 23:42
+444,farmers_herdsmen,Taraba,Jalingo,Abare,0,9,11.2333,North,ng-ta,2019,5/8/2019,8/21/2021 23:42,8/21/2021 23:42
+445,farmers_herdsmen,Taraba,Jalingo,Kisbap,0,8.9877,11.2585,North,ng-ta,2019,5/8/2019,8/21/2021 23:42,8/21/2021 23:42
+446,farmers_herdsmen,Taraba,Jalingo,Murbai,5,8.9722,11.2543,North,ng-ta,2019,5/8/2019,8/21/2021 23:42,8/21/2021 23:42
+447,farmers_herdsmen,Taraba,Jalingo,Sembe,6,8.9719,11.255,North,ng-ta,2019,5/8/2019,8/21/2021 23:42,8/21/2021 23:42
+448,farmers_herdsmen,Ogun,Imeko-Afon,Iwoye,2,7.55,2.75,West,ng-og,2019,5/7/2019,8/21/2021 23:42,8/21/2021 23:42
+449,farmers_herdsmen,Imo,Owerri North,Uratta,1,5.4944,7.0733,East,ng-im,2019,5/5/2019,8/21/2021 23:42,8/21/2021 23:42
+450,farmers_herdsmen,Ogun,Imeko-Afon,Igbogbo,1,7.4833,2.8,West,ng-og,2019,5/3/2019,8/21/2021 23:42,8/21/2021 23:42
+451,farmers_herdsmen,Ogun,Imeko-Afon,Igbogbo,3,7.4833,2.8,West,ng-og,2019,5/3/2019,8/21/2021 23:42,8/21/2021 23:42
+452,farmers_herdsmen,Adamawa,Girei,Girei,5,9.3667,12.55,North,ng-ad,2019,5/2/2019,8/21/2021 23:42,8/21/2021 23:42
+453,farmers_herdsmen,Rivers,Oyigbo,Obigbo,1,4.8755,7.1488,South,ng-ri,2019,4/24/2019,8/21/2021 23:42,8/21/2021 23:42
+454,farmers_herdsmen,Adamawa,Numan,Bolki,4,9.3833,11.6167,North,ng-ad,2019,4/17/2019,8/21/2021 23:42,8/21/2021 23:42
+455,farmers_herdsmen,Adamawa,Demsa,Bolon,4,9.4095,11.995,North,ng-ad,2019,4/17/2019,8/21/2021 23:42,8/21/2021 23:42
+456,farmers_herdsmen,Adamawa,Numan,Numan,3,9.4667,12.0333,North,ng-ad,2019,4/17/2019,8/21/2021 23:42,8/21/2021 23:42
+457,farmers_herdsmen,Adamawa,Numan,Bujum Kasuwa,4,9.3233,11.6781,North,ng-ad,2019,4/17/2019,8/21/2021 23:42,8/21/2021 23:42
+458,farmers_herdsmen,Taraba,Wukari,Vaase,10,7.8878,9.5564,North,ng-ta,2019,4/11/2019,8/21/2021 23:42,8/21/2021 23:42
+459,farmers_herdsmen,Delta,Ethiope East,Abraka,4,5.7902,6.1047,South,ng-de,2019,4/9/2019,8/21/2021 23:42,8/21/2021 23:42
+460,farmers_herdsmen,Kogi,Omala,Bugana,6,7.9992,7.5836,,ng-ko,2019,4/7/2019,8/21/2021 23:42,8/21/2021 23:42
+461,farmers_herdsmen,Anambra,Anambra West,Nzam,6,6.4512,6.7292,East,ng-an,2019,4/6/2019,8/21/2021 23:42,8/21/2021 23:42
+462,farmers_herdsmen,Benue,Logo,Gaambetiev,5,7.8029,9.3436,North,ng-be,2019,4/2/2019,8/21/2021 23:42,8/21/2021 23:42
+463,farmers_herdsmen,Kogi,Omala,Abejukolo,3,7.8681,7.5091,,ng-ko,2019,3/27/2019,8/21/2021 23:42,8/21/2021 23:42
+464,farmers_herdsmen,Nassarawa,Akwanga,Mante,1,9.0022,8.3516,North,ng-na,2019,3/23/2019,8/21/2021 23:42,8/21/2021 23:42
+465,farmers_herdsmen,Nassarawa,Akwanga,Mante,0,9.0022,8.3516,North,ng-na,2019,3/23/2019,8/21/2021 23:42,8/21/2021 23:42
+466,farmers_herdsmen,Nassarawa,Akwanga,Akwanga,0,8.9167,8.3833,North,ng-na,2019,3/23/2019,8/21/2021 23:42,8/21/2021 23:42
+467,farmers_herdsmen,Enugu,Ezeagu,Ezeagu,1,6.3832,7.2898,East,ng-en,2019,3/20/2019,8/21/2021 23:42,8/21/2021 23:42
+468,farmers_herdsmen,Benue,Guma,Gbajimba,10,7.8155,8.8604,North,ng-be,2019,3/19/2019,8/21/2021 23:42,8/21/2021 23:42
+469,farmers_herdsmen,Kaduna,Chikun,Kyamara,2,10.3555,7.5609,North,ng-kd,2019,3/12/2019,8/21/2021 23:42,8/21/2021 23:42
+470,farmers_herdsmen,Kaduna,Kajuru,Inkirimi,26,10.299,7.629,North,ng-kd,2019,3/11/2019,8/21/2021 23:42,8/21/2021 23:42
+471,farmers_herdsmen,Kaduna,Kajuru,Anguman Gamu,46,10.274,7.59,North,ng-kd,2019,3/11/2019,8/21/2021 23:42,8/21/2021 23:42
+472,farmers_herdsmen,Kaduna,Kajuru,Dogonnoma,26,10.31,7.609,North,ng-kd,2019,3/11/2019,8/21/2021 23:42,8/21/2021 23:42
+473,farmers_herdsmen,Kaduna,Chikun,Ungwan Gora,0,10.288,7.37,North,ng-kd,2019,3/11/2019,8/21/2021 23:42,8/21/2021 23:42
+474,farmers_herdsmen,Kaduna,Chikun,Gidan Barde,16,10.2167,7.45,North,ng-kd,2019,3/10/2019,8/21/2021 23:42,8/21/2021 23:42
+475,farmers_herdsmen,Benue,Gwer West,Agagbe,16,7.7164,8.1359,North,ng-be,2019,3/2/2019,8/21/2021 23:42,8/21/2021 23:42
+476,farmers_herdsmen,Benue,Guma,Umenge,0,7.8469,8.8546,North,ng-be,2019,2/22/2019,8/21/2021 23:42,8/21/2021 23:42
+477,farmers_herdsmen,Benue,Guma,Gbajimba,2,7.8155,8.8604,North,ng-be,2019,2/20/2019,8/21/2021 23:42,8/21/2021 23:42
+478,farmers_herdsmen,Benue,Agatu,Obangedde,16,7.828,7.8141,North,ng-be,2019,2/20/2019,8/21/2021 23:42,8/21/2021 23:42
+479,farmers_herdsmen,Enugu,Udi,Afa,1,6.5883,7.3269,East,ng-en,2019,2/13/2019,8/21/2021 23:42,8/21/2021 23:42
+480,farmers_herdsmen,Ekiti,Ido-Osi,Ido Ekiti,1,7.8452,5.1831,West,ng-ek,2019,2/13/2019,8/21/2021 23:42,8/21/2021 23:42
+481,farmers_herdsmen,Delta,Ika South,Ndemili,2,6.0245,6.2821,South,ng-de,2019,2/12/2019,8/21/2021 23:42,8/21/2021 23:42
+482,farmers_herdsmen,Benue,Guma,Gbajimba,2,7.8155,8.8604,North,ng-be,2019,2/11/2019,8/21/2021 23:42,8/21/2021 23:42
+483,farmers_herdsmen,Delta,Ughelli South,Effurun Tor,2,5.4792,5.9393,South,ng-de,2019,2/10/2019,8/21/2021 23:42,8/21/2021 23:42
+484,farmers_herdsmen,Kaduna,Kajuru,Kajuru,11,10.3192,7.6892,North,ng-kd,2019,2/10/2019,8/21/2021 23:42,8/21/2021 23:42
+485,farmers_herdsmen,Benue,Guma,Akumba,3,8.0667,8.7833,North,ng-be,2019,2/4/2019,8/21/2021 23:42,8/21/2021 23:42
+486,farmers_herdsmen,Adamawa,Numan,Bare,0,9.6,12.05,North,ng-ad,2019,1/19/2019,8/21/2021 23:42,8/21/2021 23:42
+487,farmers_herdsmen,Delta,Ughelli North,Ohoro,1,5.2829,6.072,South,ng-de,2019,1/12/2019,8/21/2021 23:42,8/21/2021 23:42
+488,farmers_herdsmen,Anambra,Anambra East,Umueze-Anam,1,6.3295,6.8325,East,ng-an,2019,1/7/2019,8/21/2021 23:42,8/21/2021 23:42
+489,farmers_herdsmen,Ebonyi,Onicha,Abba Omega,0,6.0033,8.0037,East,ng-eb,2019,1/5/2019,8/21/2021 23:42,8/21/2021 23:42
+490,farmers_herdsmen,Benue,Logo,Gaambetiev,1,7.8029,9.3436,North,ng-be,2018,12/24/2018,8/21/2021 23:42,8/21/2021 23:42
+491,farmers_herdsmen,Benue,Logo,Ugba,4,7.5,9.3333,North,ng-be,2018,12/22/2018,8/21/2021 23:42,8/21/2021 23:42
+492,farmers_herdsmen,Benue,Logo,Ugba,0,7.5,9.3333,North,ng-be,2018,12/21/2018,8/21/2021 23:42,8/21/2021 23:42
+493,farmers_herdsmen,Delta,Oshimili South,Asaba,0,6.2006,6.7339,South,ng-de,2018,12/18/2018,8/21/2021 23:42,8/21/2021 23:42
+494,farmers_herdsmen,Osun,Obokun,Esa Oke,1,7.7667,4.9,West,ng-os,2018,12/4/2018,8/21/2021 23:42,8/21/2021 23:42
+495,farmers_herdsmen,Delta,Ndokwa East,Asaba Okpai,0,5.7894,6.5871,South,ng-de,2018,12/2/2018,8/21/2021 23:42,8/21/2021 23:42
+496,farmers_herdsmen,Delta,Ndokwa West,Utagba Uno,0,5.888,6.3869,South,ng-de,2018,12/2/2018,8/21/2021 23:42,8/21/2021 23:42
+497,farmers_herdsmen,Delta,Ughelli North,Ughelli,1,5.4899,6.0074,South,ng-de,2018,11/24/2018,8/21/2021 23:42,8/21/2021 23:42
+498,farmers_herdsmen,Katsina,Safana,Gora,1,12.3581,7.3419,North,ng-kt,2018,11/20/2018,8/21/2021 23:42,8/21/2021 23:42
+499,farmers_herdsmen,Delta,Ethiope East,Abraka,0,5.7902,6.1047,South,ng-de,2018,11/6/2018,8/21/2021 23:42,8/21/2021 23:42
+500,farmers_herdsmen,Delta,Ughelli South,Urhobo Camp,1,5.1877,5.9914,South,ng-de,2018,11/5/2018,8/21/2021 23:42,8/21/2021 23:42
+501,farmers_herdsmen,Nassarawa,Lafia,Lafia,0,8.4833,8.5167,North,ng-na,2018,11/4/2018,8/21/2021 23:42,8/21/2021 23:42
+502,farmers_herdsmen,Adamawa,Yola-North,Yolde Pate,0,9.2,12.45,North,ng-ad,2018,10/23/2018,8/21/2021 23:42,8/21/2021 23:42
+503,farmers_herdsmen,Plateau,Bassa,Bassa,4,9.9333,8.7333,North,ng-pl,2018,10/4/2018,8/21/2021 23:42,8/21/2021 23:42
+504,farmers_herdsmen,Plateau,Bassa,Ariri,19,9.8627,8.6766,North,ng-pl,2018,10/3/2018,8/21/2021 23:42,8/21/2021 23:42
+505,farmers_herdsmen,Plateau,Riyom,Jol,13,9.55,8.8,North,ng-pl,2018,10/2/2018,8/21/2021 23:42,8/21/2021 23:42
+506,farmers_herdsmen,Plateau,Jos North,Jos,1,9.9285,8.8921,North,ng-pl,2018,9/30/2018,8/21/2021 23:42,8/21/2021 23:42
+507,farmers_herdsmen,Plateau,Riyom,Jol,1,9.55,8.8,North,ng-pl,2018,9/29/2018,8/21/2021 23:42,8/21/2021 23:42
+508,farmers_herdsmen,Adamawa,Numan,Bolki,4,9.3833,11.6167,North,ng-ad,2018,9/13/2018,8/21/2021 23:42,8/21/2021 23:42
+509,farmers_herdsmen,Adamawa,Numan,Nzumosu,3,9.4318,11.8766,North,ng-ad,2018,9/13/2018,8/21/2021 23:42,8/21/2021 23:42
+510,farmers_herdsmen,Adamawa,Numan,Nyanga,3,9.3587,11.6604,North,ng-ad,2018,9/13/2018,8/21/2021 23:42,8/21/2021 23:42
+511,farmers_herdsmen,Adamawa,Numan,Gon,4,9.4551,11.6846,North,ng-ad,2018,9/13/2018,8/21/2021 23:42,8/21/2021 23:42
+512,farmers_herdsmen,Adamawa,Numan,Bukuto,4,9.3657,11.6062,North,ng-ad,2018,9/13/2018,8/21/2021 23:42,8/21/2021 23:42
+513,farmers_herdsmen,Plateau,Barkin Ladi,Nding,2,9.5667,8.9333,North,ng-pl,2018,9/6/2018,8/21/2021 23:42,8/21/2021 23:42
+514,farmers_herdsmen,Plateau,Barkin Ladi,Nding,3,9.5667,8.9333,North,ng-pl,2018,9/6/2018,8/21/2021 23:42,8/21/2021 23:42
+515,farmers_herdsmen,Plateau,Barkin Ladi,Ropp,5,9.5,8.9167,North,ng-pl,2018,9/4/2018,8/21/2021 23:42,8/21/2021 23:42
+516,farmers_herdsmen,Plateau,Jos South,Du,11,9.75,8.8833,North,ng-pl,2018,9/2/2018,8/21/2021 23:42,8/21/2021 23:42
+517,farmers_herdsmen,Adamawa,Numan,Bare,1,9.6,12.05,North,ng-ad,2018,8/29/2018,8/21/2021 23:42,8/21/2021 23:42
+518,farmers_herdsmen,Plateau,Barkin Ladi,Wereh,3,9.5097,8.9212,North,ng-pl,2018,8/28/2018,8/21/2021 23:42,8/21/2021 23:42
+519,farmers_herdsmen,Plateau,Barkin Ladi,Foron,7,9.7,8.95,North,ng-pl,2018,8/28/2018,8/21/2021 23:42,8/21/2021 23:42
+520,farmers_herdsmen,Plateau,Bokkos,Bokkos,1,9.3,9,North,ng-pl,2018,8/22/2018,8/21/2021 23:42,8/21/2021 23:42
+521,farmers_herdsmen,Plateau,Barkin Ladi,Nding,3,9.5667,8.9333,North,ng-pl,2018,8/19/2018,8/21/2021 23:42,8/21/2021 23:42
+522,farmers_herdsmen,Plateau,Barkin Ladi,Barkin Ladi,3,9.5333,8.9,North,ng-pl,2018,8/19/2018,8/21/2021 23:42,8/21/2021 23:42
+523,farmers_herdsmen,Plateau,Jos South,Riyom,2,9.6333,8.7667,North,ng-pl,2018,8/18/2018,8/21/2021 23:42,8/21/2021 23:42
+524,farmers_herdsmen,Plateau,Riyom,Kwi,2,9.6243,8.8483,North,ng-pl,2018,8/18/2018,8/21/2021 23:42,8/21/2021 23:42
+525,farmers_herdsmen,Benue,Guma,Gbajimba,1,7.8155,8.8604,North,ng-be,2018,8/18/2018,8/21/2021 23:42,8/21/2021 23:42
+526,farmers_herdsmen,Benue,Guma,Gbajimba,16,7.8155,8.8604,North,ng-be,2018,8/18/2018,8/21/2021 23:42,8/21/2021 23:42
+527,farmers_herdsmen,Kaduna,Zangon Kataf,Jankasa,4,9.7167,8.4667,North,ng-kd,2018,8/11/2018,8/21/2021 23:42,8/21/2021 23:42
+528,farmers_herdsmen,Plateau,Bassa,Bassa,3,9.9333,8.7333,North,ng-pl,2018,8/10/2018,8/21/2021 23:42,8/21/2021 23:42
+529,farmers_herdsmen,Adamawa,Fufore,Ngurore,1,8.9667,12.6167,North,ng-ad,2018,8/8/2018,8/21/2021 23:42,8/21/2021 23:42
+530,farmers_herdsmen,Taraba,Lau,Kunini,8,9.2333,11.4,North,ng-ta,2018,8/4/2018,8/21/2021 23:42,8/21/2021 23:42
+531,farmers_herdsmen,Benue,Guma,Gbajimba,6,7.8155,8.8604,North,ng-be,2018,8/4/2018,8/21/2021 23:42,8/21/2021 23:42
+532,farmers_herdsmen,Plateau,Bassa,Miango,1,9.85,8.7333,North,ng-pl,2018,8/3/2018,8/21/2021 23:42,8/21/2021 23:42
+533,farmers_herdsmen,Plateau,Bassa,Miango,2,9.85,8.7333,North,ng-pl,2018,8/2/2018,8/21/2021 23:42,8/21/2021 23:42
+534,farmers_herdsmen,Edo,Owan East,Afuze,0,6.9675,6.0432,South,ng-ed,2018,7/31/2018,8/21/2021 23:42,8/21/2021 23:42
+535,farmers_herdsmen,Taraba,Ardo Kola,Iware,6,8.8167,11.1,North,ng-ta,2018,7/17/2018,8/21/2021 23:42,8/21/2021 23:42
+536,farmers_herdsmen,Adamawa,Fufore,Wakka,4,9.0437,12.2243,North,ng-ad,2018,7/10/2018,8/21/2021 23:42,8/21/2021 23:42
+537,farmers_herdsmen,Adamawa,Fufore,Ugbakka,5,9.1318,12.2301,North,ng-ad,2018,7/10/2018,8/21/2021 23:42,8/21/2021 23:42
+538,farmers_herdsmen,Adamawa,Mayo-Belwa,Mayo Lope,5,9.1185,12.0166,North,ng-ad,2018,7/10/2018,8/21/2021 23:42,8/21/2021 23:42
+539,farmers_herdsmen,Adamawa,Mayo-Belwa,Yojjin,5,9.1903,12.0244,North,ng-ad,2018,7/10/2018,8/21/2021 23:42,8/21/2021 23:42
+540,farmers_herdsmen,Adamawa,Fufore,Bujun,5,9.1841,12.1626,North,ng-ad,2018,7/10/2018,8/21/2021 23:42,8/21/2021 23:42
+541,farmers_herdsmen,Taraba,Yorro,Bunzum,5,9.0953,11.6615,North,ng-ta,2018,7/9/2018,8/21/2021 23:42,8/21/2021 23:42
+542,farmers_herdsmen,Taraba,Lau,Bamga,5,9.1833,11.5833,North,ng-ta,2018,7/9/2018,8/21/2021 23:42,8/21/2021 23:42
+543,farmers_herdsmen,Adamawa,Mayo-Belwa,Yojjin,5,9.1903,12.0244,North,ng-ad,2018,7/9/2018,8/21/2021 23:42,8/21/2021 23:42
+544,farmers_herdsmen,Adamawa,Numan,Gojefa,5,9.4395,11.7167,North,ng-ad,2018,7/9/2018,8/21/2021 23:42,8/21/2021 23:42
+545,farmers_herdsmen,Taraba,Yorro,Budon,5,9.1107,11.6094,North,ng-ta,2018,7/9/2018,8/21/2021 23:42,8/21/2021 23:42
+546,farmers_herdsmen,Adamawa,Fufore,Wakka,4,9.0437,12.2243,North,ng-ad,2018,7/9/2018,8/21/2021 23:42,8/21/2021 23:42
+547,farmers_herdsmen,Taraba,Lau,Anguwan Bishop Yotti,5,9.1898,11.6405,North,ng-ta,2018,7/9/2018,8/21/2021 23:42,8/21/2021 23:42
+548,farmers_herdsmen,Adamawa,Mayo-Belwa,Mayo Lope,5,9.1185,12.0166,North,ng-ad,2018,7/9/2018,8/21/2021 23:42,8/21/2021 23:42
+549,farmers_herdsmen,Adamawa,Numan,Bujum Waya,5,9.3828,11.7039,North,ng-ad,2018,7/9/2018,8/21/2021 23:42,8/21/2021 23:42
+550,farmers_herdsmen,Adamawa,Fufore,Bujun,5,9.1841,12.1626,North,ng-ad,2018,7/9/2018,8/21/2021 23:42,8/21/2021 23:42
+551,farmers_herdsmen,Adamawa,Numan,Bujum Yashi,5,9.4014,11.7029,North,ng-ad,2018,7/9/2018,8/21/2021 23:42,8/21/2021 23:42
+552,farmers_herdsmen,Adamawa,Numan,Sabonlayi,5,9.3555,11.7069,North,ng-ad,2018,7/9/2018,8/21/2021 23:42,8/21/2021 23:42
+553,farmers_herdsmen,Taraba,Lau,Todung,5,9.1568,11.6553,North,ng-ta,2018,7/9/2018,8/21/2021 23:42,8/21/2021 23:42
+554,farmers_herdsmen,Adamawa,Fufore,Ugbakka,5,9.1318,12.2301,North,ng-ad,2018,7/9/2018,8/21/2021 23:42,8/21/2021 23:42
+555,farmers_herdsmen,Adamawa,Numan,Bujum Kasuwa,5,9.3233,11.6781,North,ng-ad,2018,7/9/2018,8/21/2021 23:42,8/21/2021 23:42
+556,farmers_herdsmen,Adamawa,Guyuk,Guyuk,5,9.9056,11.9283,North,ng-ad,2018,7/4/2018,8/21/2021 23:42,8/21/2021 23:42
+557,farmers_herdsmen,Benue,Logo,Tombo,3,7.4819,9.2948,North,ng-be,2018,7/4/2018,8/21/2021 23:42,8/21/2021 23:42
+558,farmers_herdsmen,Plateau,Barkin Ladi,Sabon Angwa,6,9.5099,8.8667,North,ng-pl,2018,7/1/2018,8/21/2021 23:42,8/21/2021 23:42
+559,farmers_herdsmen,Plateau,Jos South,Bukuru,1,9.794,8.864,North,ng-pl,2018,6/30/2018,8/21/2021 23:42,8/21/2021 23:42
+560,farmers_herdsmen,Adamawa,Numan,Bare,2,9.6,12.05,North,ng-ad,2018,6/27/2018,8/21/2021 23:42,8/21/2021 23:42
+561,farmers_herdsmen,Plateau,Mangu,Mongu,10,9.5333,9.0833,North,ng-pl,2018,6/25/2018,8/21/2021 23:42,8/21/2021 23:42
+562,farmers_herdsmen,Plateau,Barkin Ladi,Barkin Ladi,10,9.5333,8.9,North,ng-pl,2018,6/25/2018,8/21/2021 23:42,8/21/2021 23:42
+563,farmers_herdsmen,Plateau,Jos South,Riyom,10,9.6333,8.7667,North,ng-pl,2018,6/25/2018,8/21/2021 23:42,8/21/2021 23:42
+564,farmers_herdsmen,Plateau,Barkin Ladi,Ruku,10,9.4167,8.85,North,ng-pl,2018,6/24/2018,8/21/2021 23:42,8/21/2021 23:42
+565,farmers_herdsmen,Plateau,Barkin Ladi,Razat,10,9.5616,8.9382,North,ng-pl,2018,6/24/2018,8/21/2021 23:42,8/21/2021 23:42
+566,farmers_herdsmen,Plateau,Barkin Ladi,Rakok,10,9.4906,8.9451,North,ng-pl,2018,6/24/2018,8/21/2021 23:42,8/21/2021 23:42
+567,farmers_herdsmen,Plateau,Barkin Ladi,Kok,10,9.5191,8.9348,North,ng-pl,2018,6/24/2018,8/21/2021 23:42,8/21/2021 23:42
+568,farmers_herdsmen,Plateau,Mangu,Gindiri,11,9.6,9.2333,North,ng-pl,2018,6/23/2018,8/21/2021 23:42,8/21/2021 23:42
+569,farmers_herdsmen,Plateau,Barkin Ladi,Ruku,11,9.4167,8.85,North,ng-pl,2018,6/23/2018,8/21/2021 23:42,8/21/2021 23:42
+570,farmers_herdsmen,Plateau,Riyom,Kurra Falls,11,9.4493,8.7344,North,ng-pl,2018,6/23/2018,8/21/2021 23:42,8/21/2021 23:42
+571,farmers_herdsmen,Plateau,Riyom,Kakuruk,11,9.4277,8.716,North,ng-pl,2018,6/23/2018,8/21/2021 23:42,8/21/2021 23:42
+572,farmers_herdsmen,Plateau,Barkin Ladi,Gnar,11,9.4252,8.8356,North,ng-pl,2018,6/23/2018,8/21/2021 23:42,8/21/2021 23:42
+573,farmers_herdsmen,Plateau,Barkin Ladi,Gindi Akwati,11,9.4667,8.8333,North,ng-pl,2018,6/23/2018,8/21/2021 23:42,8/21/2021 23:42
+574,farmers_herdsmen,Plateau,Barkin Ladi,Kafi Abu,11,9.4828,8.8826,North,ng-pl,2018,6/23/2018,8/21/2021 23:42,8/21/2021 23:42
+575,farmers_herdsmen,Plateau,Barkin Ladi,Nekan,11,9.4616,8.8769,North,ng-pl,2018,6/23/2018,8/21/2021 23:42,8/21/2021 23:42
+576,farmers_herdsmen,Plateau,Barkin Ladi,Kufang,11,9.4411,8.8679,North,ng-pl,2018,6/23/2018,8/21/2021 23:42,8/21/2021 23:42
+577,farmers_herdsmen,Plateau,Barkin Ladi,Razat,11,9.5616,8.9382,North,ng-pl,2018,6/23/2018,8/21/2021 23:42,8/21/2021 23:42
+578,farmers_herdsmen,Plateau,Barkin Ladi,Rakok,10,9.4906,8.9451,North,ng-pl,2018,6/23/2018,8/21/2021 23:42,8/21/2021 23:42
+579,farmers_herdsmen,Plateau,Barkin Ladi,Kok,10,9.5191,8.9348,North,ng-pl,2018,6/23/2018,8/21/2021 23:42,8/21/2021 23:42
+580,farmers_herdsmen,Adamawa,Demsa,Dowaya,18,9.45,12.0667,North,ng-ad,2018,6/22/2018,8/21/2021 23:42,8/21/2021 23:42
+581,farmers_herdsmen,Plateau,Barkin Ladi,Barkin Ladi,4,9.5333,8.9,North,ng-pl,2018,6/20/2018,8/21/2021 23:42,8/21/2021 23:42
+582,farmers_herdsmen,Benue,Otukpo,Tseaudu,1,7.1624,8.2409,North,ng-be,2018,6/14/2018,8/21/2021 23:42,8/21/2021 23:42
+583,farmers_herdsmen,Nassarawa,Keana,Keana,4,8.1333,8.8,North,ng-na,2018,6/13/2018,8/21/2021 23:42,8/21/2021 23:42
+584,farmers_herdsmen,Benue,Logo,Tombo,2,7.4819,9.2948,North,ng-be,2018,6/12/2018,8/21/2021 23:42,8/21/2021 23:42
+585,farmers_herdsmen,Benue,Logo,Ugba,1,7.5,9.3333,North,ng-be,2018,6/12/2018,8/21/2021 23:42,8/21/2021 23:42
+586,farmers_herdsmen,Nassarawa,Obi,Obi,1,8.3667,8.7667,North,ng-na,2018,6/12/2018,8/21/2021 23:42,8/21/2021 23:42
+587,farmers_herdsmen,Plateau,Bassa,Kwal,2,9.8167,8.65,North,ng-pl,2018,6/10/2018,8/21/2021 23:42,8/21/2021 23:42
+588,farmers_herdsmen,Osun,Iwo,Iwo,0,7.6333,4.1833,West,ng-os,2018,6/10/2018,8/21/2021 23:42,8/21/2021 23:42
+589,farmers_herdsmen,Plateau,Bassa,Bassa,3,9.9333,8.7333,North,ng-pl,2018,6/6/2018,8/21/2021 23:42,8/21/2021 23:42
+590,farmers_herdsmen,Nassarawa,Doma,Doma,1,8.3833,8.35,North,ng-na,2018,6/6/2018,8/21/2021 23:42,8/21/2021 23:42
+591,farmers_herdsmen,Benue,Logo,Ugba,5,7.5,9.3333,North,ng-be,2018,6/6/2018,8/21/2021 23:42,8/21/2021 23:42
+592,farmers_herdsmen,Benue,Guma,Gbajimba,8,7.8155,8.8604,North,ng-be,2018,6/6/2018,8/21/2021 23:42,8/21/2021 23:42
+593,farmers_herdsmen,Nassarawa,Nasarawa,Nasarawa,11,8.5458,7.7119,North,ng-na,2018,6/5/2018,8/21/2021 23:42,8/21/2021 23:42
+594,farmers_herdsmen,Taraba,Takum,Takum,5,7.2667,9.9833,North,ng-ta,2018,6/4/2018,8/21/2021 23:42,8/21/2021 23:42
+595,farmers_herdsmen,Taraba,Gassol,Mutum Biyu,0,8.6333,10.7667,North,ng-ta,2018,6/4/2018,8/21/2021 23:42,8/21/2021 23:42
+596,farmers_herdsmen,Benue,Guma,Gbajimba,2,7.8155,8.8604,North,ng-be,2018,6/4/2018,8/21/2021 23:42,8/21/2021 23:42
+597,farmers_herdsmen,Taraba,Yorro,Gampu,0,8.8167,11.6333,North,ng-ta,2018,6/3/2018,8/21/2021 23:42,8/21/2021 23:42
+598,farmers_herdsmen,Delta,Aniocha North,Issele-Uku,0,6.3152,6.4741,South,ng-de,2018,6/3/2018,8/21/2021 23:42,8/21/2021 23:42
+599,farmers_herdsmen,Benue,Ukum,Tseaondo,10,7.5965,9.7056,North,ng-be,2018,6/3/2018,8/21/2021 23:42,8/21/2021 23:42
+600,farmers_herdsmen,Delta,Aniocha North,Onicha-Olona,0,6.3709,6.5668,South,ng-de,2018,6/3/2018,8/21/2021 23:42,8/21/2021 23:42
+601,farmers_herdsmen,Benue,Kwande,Tsedyugh,19,6.5754,9.5668,North,ng-be,2018,6/2/2018,8/21/2021 23:42,8/21/2021 23:42
+602,farmers_herdsmen,Plateau,Barkin Ladi,Gashit,2,9.45,8.7667,North,ng-pl,2018,6/2/2018,8/21/2021 23:42,8/21/2021 23:42
+603,farmers_herdsmen,Plateau,Barkin Ladi,Gashit,1,9.45,8.7667,North,ng-pl,2018,6/1/2018,8/21/2021 23:42,8/21/2021 23:42
+604,farmers_herdsmen,Plateau,Barkin Ladi,Barkin Ladi,3,9.5333,8.9,North,ng-pl,2018,5/31/2018,8/21/2021 23:42,8/21/2021 23:42
+605,farmers_herdsmen,Plateau,Jos South,Riyom,3,9.6333,8.7667,North,ng-pl,2018,5/31/2018,8/21/2021 23:42,8/21/2021 23:42
+606,farmers_herdsmen,Plateau,Jos South,Bukuru,4,9.794,8.864,North,ng-pl,2018,5/31/2018,8/21/2021 23:42,8/21/2021 23:42
+607,farmers_herdsmen,Benue,Logo,Anyiin,2,7.8188,9.2453,North,ng-be,2018,5/31/2018,8/21/2021 23:42,8/21/2021 23:42
+608,farmers_herdsmen,Plateau,Barkin Ladi,Ropp,1,9.5,8.9167,North,ng-pl,2018,5/29/2018,8/21/2021 23:42,8/21/2021 23:42
+609,farmers_herdsmen,Plateau,Barkin Ladi,Gashit,2,9.45,8.7667,North,ng-pl,2018,5/28/2018,8/21/2021 23:42,8/21/2021 23:42
+610,farmers_herdsmen,Taraba,Jalingo,Jalingo,0,8.8833,11.3667,North,ng-ta,2018,5/27/2018,8/21/2021 23:42,8/21/2021 23:42
+611,farmers_herdsmen,Benue,Logo,Anyiin,2,7.8188,9.2453,North,ng-be,2018,5/26/2018,8/21/2021 23:42,8/21/2021 23:42
+612,farmers_herdsmen,Benue,Guma,Gbajimba,1,7.8155,8.8604,North,ng-be,2018,5/26/2018,8/21/2021 23:42,8/21/2021 23:42
+613,farmers_herdsmen,Ekiti,Ado Ekiti,Ado-Ekiti,3,7.621,5.2215,West,ng-ek,2018,5/25/2018,8/21/2021 23:42,8/21/2021 23:42
+614,farmers_herdsmen,Taraba,Yorro,Yorro,6,8.7167,11.6167,North,ng-ta,2018,5/24/2018,8/21/2021 23:42,8/21/2021 23:42
+615,farmers_herdsmen,Plateau,Barkin Ladi,Barkin Ladi,2,9.5333,8.9,North,ng-pl,2018,5/23/2018,8/21/2021 23:42,8/21/2021 23:42
+616,farmers_herdsmen,Plateau,Barkin Ladi,Barkin Ladi,2,9.5333,8.9,North,ng-pl,2018,5/22/2018,8/21/2021 23:42,8/21/2021 23:42
+617,farmers_herdsmen,Benue,Logo,Ugba,3,7.5,9.3333,North,ng-be,2018,5/17/2018,8/21/2021 23:42,8/21/2021 23:42
+618,farmers_herdsmen,Benue,Makurdi,Makurdi,6,7.7411,8.5121,North,ng-be,2018,5/16/2018,8/21/2021 23:42,8/21/2021 23:42
+619,farmers_herdsmen,Benue,Gwer East,Aliade,6,7.2964,8.487,North,ng-be,2018,5/16/2018,8/21/2021 23:42,8/21/2021 23:42
+620,farmers_herdsmen,Ebonyi,Onicha,Isu,0,6.1667,7.8167,East,ng-eb,2018,5/15/2018,8/21/2021 23:42,8/21/2021 23:42
+621,farmers_herdsmen,Kogi,Kabba,Kabba,1,7.8287,6.0731,,ng-ko,2018,5/15/2018,8/21/2021 23:42,8/21/2021 23:42
+622,farmers_herdsmen,Kogi,Ijumu,Iyara,10,7.843,5.974,,ng-ko,2018,5/13/2018,8/21/2021 23:42,8/21/2021 23:42
+623,farmers_herdsmen,Anambra,Awka South,Awka,0,6.2101,7.0741,East,ng-an,2018,5/12/2018,8/21/2021 23:42,8/21/2021 23:42
+624,farmers_herdsmen,Enugu,Enugu North,Enugu,0,6.4426,7.5022,East,ng-en,2018,5/10/2018,8/21/2021 23:42,8/21/2021 23:42
+625,farmers_herdsmen,Adamawa,Numan,Numan,8,9.4667,12.0333,North,ng-ad,2018,5/9/2018,8/21/2021 23:42,8/21/2021 23:42
+626,farmers_herdsmen,Taraba,Ussa,Lissam,22,7.1833,10.0333,North,ng-ta,2018,5/9/2018,8/21/2021 23:42,8/21/2021 23:42
+627,farmers_herdsmen,Kaduna,Birnin Gwari,Gwaska,71,10.9063,6.5682,North,ng-kd,2018,5/5/2018,8/21/2021 23:42,8/21/2021 23:42
+628,farmers_herdsmen,Benue,Guma,Gbajimba,0,7.8155,8.8604,North,ng-be,2018,5/4/2018,8/21/2021 23:42,8/21/2021 23:42
+629,farmers_herdsmen,Nassarawa,Awe,Awe,0,8.1,9.1333,North,ng-na,2018,5/4/2018,8/21/2021 23:42,8/21/2021 23:42
+630,farmers_herdsmen,Nassarawa,Awe,Azara,0,8.3667,9.25,North,ng-na,2018,5/4/2018,8/21/2021 23:42,8/21/2021 23:42
+631,farmers_herdsmen,Nassarawa,Awe,Awe,1,8.1,9.1333,North,ng-na,2018,5/3/2018,8/21/2021 23:42,8/21/2021 23:42
+632,farmers_herdsmen,Nassarawa,Awe,Azara,0,8.3667,9.25,North,ng-na,2018,5/3/2018,8/21/2021 23:42,8/21/2021 23:42
+633,farmers_herdsmen,Adamawa,Numan,Bolki,7,9.3833,11.6167,North,ng-ad,2018,5/3/2018,8/21/2021 23:42,8/21/2021 23:42
+634,farmers_herdsmen,Adamawa,Numan,Numan,8,9.4667,12.0333,North,ng-ad,2018,5/3/2018,8/21/2021 23:42,8/21/2021 23:42
+635,farmers_herdsmen,Benue,Guma,Gbajimba,6,7.8155,8.8604,North,ng-be,2018,5/1/2018,8/21/2021 23:42,8/21/2021 23:42
+636,farmers_herdsmen,Ekiti,Ado Ekiti,Ado-Ekiti,1,7.621,5.2215,West,ng-ek,2018,4/28/2018,8/21/2021 23:42,8/21/2021 23:42
+637,farmers_herdsmen,Oyo,Ibarapa North,Igangan,1,7.6833,3.1833,West,ng-oy,2018,4/28/2018,8/21/2021 23:42,8/21/2021 23:42
+638,farmers_herdsmen,Benue,Gwer West,Agagbe,8,7.7164,8.1359,North,ng-be,2018,4/27/2018,8/21/2021 23:42,8/21/2021 23:42
+639,farmers_herdsmen,Benue,Logo,Tsevii,7,7.7718,9.2439,North,ng-be,2018,4/26/2018,8/21/2021 23:42,8/21/2021 23:42
+640,farmers_herdsmen,Benue,Guma,Gbajimba,19,7.8155,8.8604,North,ng-be,2018,4/25/2018,8/21/2021 23:42,8/21/2021 23:42
+641,farmers_herdsmen,Nassarawa,Keana,Kadarko,1,8.2333,8.5667,North,ng-na,2018,4/25/2018,8/21/2021 23:42,8/21/2021 23:42
+642,farmers_herdsmen,Benue,Gwer West,Naka,8,7.5887,8.2087,North,ng-be,2018,4/25/2018,8/21/2021 23:42,8/21/2021 23:42
+643,farmers_herdsmen,Nassarawa,Awe,Awe,7,8.1,9.1333,North,ng-na,2018,4/24/2018,8/21/2021 23:42,8/21/2021 23:42
+644,farmers_herdsmen,Benue,Guma,Gbajimba,20,7.8155,8.8604,North,ng-be,2018,4/24/2018,8/21/2021 23:42,8/21/2021 23:42
+645,farmers_herdsmen,Benue,Gwer East,Aliade,19,7.2964,8.487,North,ng-be,2018,4/24/2018,8/21/2021 23:42,8/21/2021 23:42
+646,farmers_herdsmen,Delta,Aniocha North,Onicha-Olona,1,6.3709,6.5668,South,ng-de,2018,4/23/2018,8/21/2021 23:42,8/21/2021 23:42
+647,farmers_herdsmen,Benue,Guma,Gbajimba,16,7.8155,8.8604,North,ng-be,2018,4/21/2018,8/21/2021 23:42,8/21/2021 23:42
+648,farmers_herdsmen,Benue,Guma,Gbajimba,15,7.8155,8.8604,North,ng-be,2018,4/20/2018,8/21/2021 23:42,8/21/2021 23:42
+649,farmers_herdsmen,Benue,Logo,Anyiin,1,7.8188,9.2453,North,ng-be,2018,4/19/2018,8/21/2021 23:42,8/21/2021 23:42
+650,farmers_herdsmen,Benue,Guma,Agasha,10,7.7166,8.899,North,ng-be,2018,4/19/2018,8/21/2021 23:42,8/21/2021 23:42
+651,farmers_herdsmen,Plateau,Bassa,Miango,4,9.85,8.7333,North,ng-pl,2018,4/18/2018,8/21/2021 23:42,8/21/2021 23:42
+652,farmers_herdsmen,Delta,Aniocha North,Onicha-Olona,1,6.3709,6.5668,South,ng-de,2018,4/18/2018,8/21/2021 23:42,8/21/2021 23:42
+653,farmers_herdsmen,Benue,Logo,Ugba,1,7.5,9.3333,North,ng-be,2018,4/17/2018,8/21/2021 23:42,8/21/2021 23:42
+654,farmers_herdsmen,Nassarawa,Obi,Obi,20,8.3667,8.7667,North,ng-na,2018,4/15/2018,8/21/2021 23:42,8/21/2021 23:42
+655,farmers_herdsmen,Nassarawa,Awe,Awe,20,8.1,9.1333,North,ng-na,2018,4/15/2018,8/21/2021 23:42,8/21/2021 23:42
+656,farmers_herdsmen,Delta,Ndokwa East,Umuachi-Ator,5,5.7882,6.4587,South,ng-de,2018,4/15/2018,8/21/2021 23:42,8/21/2021 23:42
+657,farmers_herdsmen,Nassarawa,Lafia,Lafia,5,8.4833,8.5167,North,ng-na,2018,4/15/2018,8/21/2021 23:42,8/21/2021 23:42
+658,farmers_herdsmen,Nassarawa,Keana,Keana,19,8.1333,8.8,North,ng-na,2018,4/15/2018,8/21/2021 23:42,8/21/2021 23:42
+659,farmers_herdsmen,Nassarawa,Doma,Doma,19,8.3833,8.35,North,ng-na,2018,4/15/2018,8/21/2021 23:42,8/21/2021 23:42
+660,farmers_herdsmen,Benue,Makurdi,Makurdi,3,7.7411,8.5121,North,ng-be,2018,4/12/2018,8/21/2021 23:42,8/21/2021 23:42
+661,farmers_herdsmen,Kwara,Moro,Oloworu,1,8.8,4.3333,North,ng-kw,2018,4/12/2018,8/21/2021 23:42,8/21/2021 23:42
+662,farmers_herdsmen,Benue,Ukum,Tse Akanga,28,7.7365,9.5126,North,ng-be,2018,4/12/2018,8/21/2021 23:42,8/21/2021 23:42
+663,farmers_herdsmen,Benue,Buruku,Ukum,28,7.5021,9.1318,North,ng-be,2018,4/12/2018,8/21/2021 23:42,8/21/2021 23:42
+664,farmers_herdsmen,Taraba,Wukari,Wukari,51,7.85,9.7833,North,ng-ta,2018,4/12/2018,8/21/2021 23:42,8/21/2021 23:42
+665,farmers_herdsmen,Benue,Logo,Ugba,1,7.5,9.3333,North,ng-be,2018,4/11/2018,8/21/2021 23:42,8/21/2021 23:42
+666,farmers_herdsmen,Benue,Ukum,Zaki Biam,22,7.5167,9.6167,North,ng-be,2018,4/11/2018,8/21/2021 23:42,8/21/2021 23:42
+667,farmers_herdsmen,Nassarawa,Obi,Obi,4,8.3667,8.7667,North,ng-na,2018,4/11/2018,8/21/2021 23:42,8/21/2021 23:42
+668,farmers_herdsmen,Nassarawa,Doma,Doma,1,8.3833,8.35,North,ng-na,2018,4/10/2018,8/21/2021 23:42,8/21/2021 23:42
+669,farmers_herdsmen,Nassarawa,Awe,Awe,1,8.1,9.1333,North,ng-na,2018,4/10/2018,8/21/2021 23:42,8/21/2021 23:42
+670,farmers_herdsmen,Benue,Ukum,Zaki Biam,7,7.5167,9.6167,North,ng-be,2018,4/10/2018,8/21/2021 23:42,8/21/2021 23:42
+671,farmers_herdsmen,Anambra,Oyi,Nteje,1,6.2674,6.9228,East,ng-an,2018,4/10/2018,8/21/2021 23:42,8/21/2021 23:42
+672,farmers_herdsmen,Nassarawa,Keana,Kadarko,4,8.2333,8.5667,North,ng-na,2018,4/9/2018,8/21/2021 23:42,8/21/2021 23:42
+673,farmers_herdsmen,Anambra,Oyi,Nteje,1,6.2674,6.9228,East,ng-an,2018,4/8/2018,8/21/2021 23:42,8/21/2021 23:42
+674,farmers_herdsmen,Taraba,Bali,Bali,1,7.8667,10.9667,North,ng-ta,2018,4/7/2018,8/21/2021 23:42,8/21/2021 23:42
+675,farmers_herdsmen,Nassarawa,Keana,Aloshi,2,8.2333,8.8,North,ng-na,2018,4/7/2018,8/21/2021 23:42,8/21/2021 23:42
+676,farmers_herdsmen,Taraba,Bali,Bali,1,7.8667,10.9667,North,ng-ta,2018,4/6/2018,8/21/2021 23:42,8/21/2021 23:42
+677,farmers_herdsmen,Kaduna,Jema'a,Jemaa,2,9.4667,8.3833,North,ng-kd,2018,4/5/2018,8/21/2021 23:42,8/21/2021 23:42
+678,farmers_herdsmen,Benue,Guma,Agasha,2,7.7166,8.899,North,ng-be,2018,4/5/2018,8/21/2021 23:42,8/21/2021 23:42
+679,farmers_herdsmen,Taraba,Bali,Bali,1,7.8667,10.9667,North,ng-ta,2018,4/5/2018,8/21/2021 23:42,8/21/2021 23:42
+680,farmers_herdsmen,Taraba,Donga,Donga,5,7.7167,10.05,North,ng-ta,2018,4/5/2018,8/21/2021 23:42,8/21/2021 23:42
+681,farmers_herdsmen,Benue,Gwer West,Enger,5,7.7215,8.2529,North,ng-be,2018,4/5/2018,8/21/2021 23:42,8/21/2021 23:42
+682,farmers_herdsmen,Benue,Gwer West,Agagbe,5,7.7164,8.1359,North,ng-be,2018,4/5/2018,8/21/2021 23:42,8/21/2021 23:42
+683,farmers_herdsmen,Kaduna,Sabon Gari,Samaru,6,11.1667,7.6333,North,ng-kd,2018,4/5/2018,8/21/2021 23:42,8/21/2021 23:42
+684,farmers_herdsmen,Kogi,Kogi,Koton Karifi,1,8.1,6.8,,ng-ko,2018,4/4/2018,8/21/2021 23:42,8/21/2021 23:42
+685,farmers_herdsmen,Benue,Vandeikya,Mbara,0,6.905,9.0757,North,ng-be,2018,4/4/2018,8/21/2021 23:42,8/21/2021 23:42
+686,farmers_herdsmen,Taraba,Takum,Takum,4,7.2667,9.9833,North,ng-ta,2018,4/4/2018,8/21/2021 23:42,8/21/2021 23:42
+687,farmers_herdsmen,Taraba,Bali,Bali,1,7.8667,10.9667,North,ng-ta,2018,4/4/2018,8/21/2021 23:42,8/21/2021 23:42
+688,farmers_herdsmen,Benue,Logo,Ugba,0,7.5,9.3333,North,ng-be,2018,4/2/2018,8/21/2021 23:42,8/21/2021 23:42
+689,farmers_herdsmen,Edo,Ovia North East,Odighi,2,6.6395,5.7645,South,ng-ed,2018,3/29/2018,8/21/2021 23:42,8/21/2021 23:42
+690,farmers_herdsmen,Kaduna,Jema'a,Bakin Kogi,6,9.4833,8.2667,North,ng-kd,2018,3/29/2018,8/21/2021 23:42,8/21/2021 23:42
+691,farmers_herdsmen,Edo,Ovia North East,Odighi,1,6.6395,5.7645,South,ng-ed,2018,3/28/2018,8/21/2021 23:42,8/21/2021 23:42
+692,farmers_herdsmen,Benue,Guma,Gbajimba,2,7.8155,8.8604,North,ng-be,2018,3/25/2018,8/21/2021 23:42,8/21/2021 23:42
+693,farmers_herdsmen,Benue,Agatu,Obangedde,3,7.828,7.8141,North,ng-be,2018,3/25/2018,8/21/2021 23:42,8/21/2021 23:42
+694,farmers_herdsmen,Plateau,Jos South,Bukuru,3,9.794,8.864,North,ng-pl,2018,3/22/2018,8/21/2021 23:42,8/21/2021 23:42
+695,farmers_herdsmen,Benue,Guma,Gbajimba,2,7.8155,8.8604,North,ng-be,2018,3/22/2018,8/21/2021 23:42,8/21/2021 23:42
+696,farmers_herdsmen,Delta,Ughelli North,Uwheru,4,5.2411,6.0125,South,ng-de,2018,3/17/2018,8/21/2021 23:42,8/21/2021 23:42
+697,farmers_herdsmen,Edo,Ovia North East,Odigietue,2,6.6719,5.7696,South,ng-ed,2018,3/17/2018,8/21/2021 23:42,8/21/2021 23:42
+698,farmers_herdsmen,Edo,Esan South East,Ugboha,3,6.7458,6.4707,South,ng-ed,2018,3/16/2018,8/21/2021 23:42,8/21/2021 23:42
+699,farmers_herdsmen,Edo,Ovia North East,Odigietue,2,6.6719,5.7696,South,ng-ed,2018,3/16/2018,8/21/2021 23:42,8/21/2021 23:42
+700,farmers_herdsmen,Taraba,Takum,Muji,1,7.2667,10.0833,North,ng-ta,2018,3/15/2018,8/21/2021 23:42,8/21/2021 23:42
+701,farmers_herdsmen,Plateau,Bassa,Miango,1,9.85,8.7333,North,ng-pl,2018,3/15/2018,8/21/2021 23:42,8/21/2021 23:42
+702,farmers_herdsmen,Taraba,Ussa,Kpashimbe,2,7.2573,10.1342,North,ng-ta,2018,3/15/2018,8/21/2021 23:42,8/21/2021 23:42
+703,farmers_herdsmen,Taraba,Takum,Kando,2,7.338,10.0812,North,ng-ta,2018,3/15/2018,8/21/2021 23:42,8/21/2021 23:42
+704,farmers_herdsmen,Taraba,Ussa,Lissam,1,7.1833,10.0333,North,ng-ta,2018,3/15/2018,8/21/2021 23:42,8/21/2021 23:42
+705,farmers_herdsmen,Plateau,Jos South,Bukuru,25,9.794,8.864,North,ng-pl,2018,3/14/2018,8/21/2021 23:42,8/21/2021 23:42
+706,farmers_herdsmen,Plateau,Jos North,Jos,25,9.9285,8.8921,North,ng-pl,2018,3/14/2018,8/21/2021 23:42,8/21/2021 23:42
+707,farmers_herdsmen,Kogi,Dekina,Dekina,25,7.6897,7.0438,,ng-ko,2018,3/14/2018,8/21/2021 23:42,8/21/2021 23:42
+708,farmers_herdsmen,Kogi,Omala,Abajikolo,25,7.818,7.5309,,ng-ko,2018,3/14/2018,8/21/2021 23:42,8/21/2021 23:42
+709,farmers_herdsmen,Benue,Guma,Gbajimba,3,7.8155,8.8604,North,ng-be,2018,3/13/2018,8/21/2021 23:42,8/21/2021 23:42
+710,farmers_herdsmen,Plateau,Jos North,Jos,1,9.9285,8.8921,North,ng-pl,2018,3/13/2018,8/21/2021 23:42,8/21/2021 23:42
+711,farmers_herdsmen,Plateau,Bassa,Bassa,7,9.9333,8.7333,North,ng-pl,2018,3/12/2018,8/21/2021 23:42,8/21/2021 23:42
+712,farmers_herdsmen,Ebonyi,Izzi,Izi,4,6.5042,8.3995,East,ng-eb,2018,3/12/2018,8/21/2021 23:42,8/21/2021 23:42
+713,farmers_herdsmen,Plateau,Kanke,Kwal,25,9.3713,9.6192,North,ng-pl,2018,3/12/2018,8/21/2021 23:42,8/21/2021 23:42
+714,farmers_herdsmen,Plateau,Bokkos,Daffo,16,9.2333,8.85,North,ng-pl,2018,3/9/2018,8/21/2021 23:42,8/21/2021 23:42
+715,farmers_herdsmen,Plateau,Bassa,Miango,5,9.85,8.7333,North,ng-pl,2018,3/8/2018,8/21/2021 23:42,8/21/2021 23:42
+716,farmers_herdsmen,Taraba,Takum,Takum,1,7.2667,9.9833,North,ng-ta,2018,3/6/2018,8/21/2021 23:42,8/21/2021 23:42
+717,farmers_herdsmen,Taraba,Donga,Manya,1,7.3167,10.25,North,ng-ta,2018,3/6/2018,8/21/2021 23:42,8/21/2021 23:42
+718,farmers_herdsmen,Taraba,Bali,Maisamari,0,7.8333,10.95,North,ng-ta,2018,3/5/2018,8/21/2021 23:42,8/21/2021 23:42
+719,farmers_herdsmen,Taraba,Bali,Yelwa,0,7.9667,10.9167,North,ng-ta,2018,3/5/2018,8/21/2021 23:42,8/21/2021 23:42
+720,farmers_herdsmen,Benue,Okpokwu,Okpoga,24,7.0336,7.8134,North,ng-be,2018,3/5/2018,8/21/2021 23:42,8/21/2021 23:42
+721,farmers_herdsmen,Taraba,Bali,Bali,0,7.8667,10.9667,North,ng-ta,2018,3/5/2018,8/21/2021 23:42,8/21/2021 23:42
+722,farmers_herdsmen,Taraba,Sardauna,Mambilla Hill,3,7.2667,11.0333,North,ng-ta,2018,3/4/2018,8/21/2021 23:42,8/21/2021 23:42
+723,farmers_herdsmen,Delta,Ethiope East,Abraka,0,5.7902,6.1047,South,ng-de,2018,3/4/2018,8/21/2021 23:42,8/21/2021 23:42
+724,farmers_herdsmen,Benue,Guma,Gbajimba,5,7.8155,8.8604,North,ng-be,2018,3/4/2018,8/21/2021 23:42,8/21/2021 23:42
+725,farmers_herdsmen,Taraba,Sardauna,Mambilla Hill,15,7.2667,11.0333,North,ng-ta,2018,3/1/2018,8/21/2021 23:42,8/21/2021 23:42
+726,farmers_herdsmen,Adamawa,Demsa,Gwomba,20,9.6167,12.2,North,ng-ad,2018,2/27/2018,8/21/2021 23:42,8/21/2021 23:42
+727,farmers_herdsmen,Kogi,Lokoja,Kapu,1,8.6333,6.3,,ng-ko,2018,2/24/2018,8/21/2021 23:42,8/21/2021 23:42
+728,farmers_herdsmen,Benue,Makurdi,Mbalagh,0,7.8185,8.4634,North,ng-be,2018,2/24/2018,8/21/2021 23:42,8/21/2021 23:42
+729,farmers_herdsmen,Adamawa,Yola-North,Yola,0,9.2,12.4833,North,ng-ad,2018,2/22/2018,8/21/2021 23:42,8/21/2021 23:42
+730,farmers_herdsmen,Delta,Ethiope East,Abraka,1,5.7902,6.1047,South,ng-de,2018,2/21/2018,8/21/2021 23:42,8/21/2021 23:42
+731,farmers_herdsmen,Kogi,Mopa-Muro,Mopa,1,8.1,5.9,,ng-ko,2018,2/20/2018,8/21/2021 23:42,8/21/2021 23:42
+732,farmers_herdsmen,Ondo,Akure South,Akure,0,7.2526,5.1931,West,ng-on,2018,2/13/2018,8/21/2021 23:42,8/21/2021 23:42
+733,farmers_herdsmen,Cross River,Abi,Itigidi,1,5.8828,8.0214,South,ng-cr,2018,2/12/2018,8/21/2021 23:42,8/21/2021 23:42
+734,farmers_herdsmen,Kogi,Ankpa,Ankpa,1,7.3706,7.6253,,ng-ko,2018,2/12/2018,8/21/2021 23:42,8/21/2021 23:42
+735,farmers_herdsmen,Nassarawa,Keana,Keana,0,8.1333,8.8,North,ng-na,2018,2/11/2018,8/21/2021 23:42,8/21/2021 23:42
+736,farmers_herdsmen,Cross River,Yakurr,Ugep,1,5.8086,8.0812,South,ng-cr,2018,2/11/2018,8/21/2021 23:42,8/21/2021 23:42
+737,farmers_herdsmen,Plateau,Bassa,Bassa,3,9.9333,8.7333,North,ng-pl,2018,2/10/2018,8/21/2021 23:42,8/21/2021 23:42
+738,farmers_herdsmen,Oyo,Iseyin,Iseyin,1,7.9667,3.6,West,ng-oy,2018,2/10/2018,8/21/2021 23:42,8/21/2021 23:42
+739,farmers_herdsmen,Kaduna,Jema'a,Bakin Kogi,4,9.4833,8.2667,North,ng-kd,2018,2/10/2018,8/21/2021 23:42,8/21/2021 23:42
+740,farmers_herdsmen,Benue,Logo,Ugba,0,7.5,9.3333,North,ng-be,2018,2/10/2018,8/21/2021 23:42,8/21/2021 23:42
+741,farmers_herdsmen,Adamawa,Shelleng,Libu,5,9.6667,12.1833,North,ng-ad,2018,2/9/2018,8/21/2021 23:42,8/21/2021 23:42
+742,farmers_herdsmen,Adamawa,Shelleng,Libu,1,9.6667,12.1833,North,ng-ad,2018,2/8/2018,8/21/2021 23:42,8/21/2021 23:42
+743,farmers_herdsmen,Benue,Logo,Anyiin,0,7.8188,9.2453,North,ng-be,2018,2/8/2018,8/21/2021 23:42,8/21/2021 23:42
+744,farmers_herdsmen,Delta,Ughelli North,Unenurhie,0,5.3676,6.0596,South,ng-de,2018,2/8/2018,8/21/2021 23:42,8/21/2021 23:42
+745,farmers_herdsmen,Nassarawa,Doma,Doma,5,8.3833,8.35,North,ng-na,2018,2/7/2018,8/21/2021 23:42,8/21/2021 23:42
+746,farmers_herdsmen,Nassarawa,Keana,Keana,5,8.1333,8.8,North,ng-na,2018,2/7/2018,8/21/2021 23:42,8/21/2021 23:42
+747,farmers_herdsmen,Nassarawa,Awe,Awe,5,8.1,9.1333,North,ng-na,2018,2/7/2018,8/21/2021 23:42,8/21/2021 23:42
+748,farmers_herdsmen,Nassarawa,Lafia,Agyaragu Gofa,5,8.45,8.5333,North,ng-na,2018,2/7/2018,8/21/2021 23:42,8/21/2021 23:42
+749,farmers_herdsmen,Benue,Guma,Gbajimba,2,7.8155,8.8604,North,ng-be,2018,2/5/2018,8/21/2021 23:42,8/21/2021 23:42
+750,farmers_herdsmen,Adamawa,Song,Song,5,9.8244,12.625,North,ng-ad,2018,2/3/2018,8/21/2021 23:42,8/21/2021 23:42
+751,farmers_herdsmen,Adamawa,Song,Song,4,9.8244,12.625,North,ng-ad,2018,2/3/2018,8/21/2021 23:42,8/21/2021 23:42
+752,farmers_herdsmen,Benue,Logo,Ugba,1,7.5,9.3333,North,ng-be,2018,2/3/2018,8/21/2021 23:42,8/21/2021 23:42
+753,farmers_herdsmen,Delta,Burutu,Torfagbene,0,5.3832,5.5811,South,ng-de,2018,2/1/2018,8/21/2021 23:42,8/21/2021 23:42
+754,farmers_herdsmen,Taraba,Gassol,Wuro Jam,4,8.4833,10.25,North,ng-ta,2018,2/1/2018,8/21/2021 23:42,8/21/2021 23:42
+755,farmers_herdsmen,Oyo,Akinyele,Moniya,2,7.5283,3.9119,West,ng-oy,2018,2/1/2018,8/21/2021 23:42,8/21/2021 23:42
+756,farmers_herdsmen,Taraba,Gassol,Mutum Biyu,6,8.6333,10.7667,North,ng-ta,2018,2/1/2018,8/21/2021 23:42,8/21/2021 23:42
+757,farmers_herdsmen,Taraba,Wukari,Wukari,5,7.85,9.7833,North,ng-ta,2018,2/1/2018,8/21/2021 23:42,8/21/2021 23:42
+758,farmers_herdsmen,Adamawa,Song,Song,10,9.8244,12.625,North,ng-ad,2018,2/1/2018,8/21/2021 23:42,8/21/2021 23:42
+759,farmers_herdsmen,Kaduna,Birnin Gwari,Birnin Gwari,7,10.6637,6.54,North,ng-kd,2018,1/31/2018,8/21/2021 23:42,8/21/2021 23:42
+760,farmers_herdsmen,Ondo,Akure South,Akure,1,7.2526,5.1931,West,ng-on,2018,1/30/2018,8/21/2021 23:42,8/21/2021 23:42
+761,farmers_herdsmen,Nassarawa,Keana,Kadarko,7,8.2333,8.5667,North,ng-na,2018,1/30/2018,8/21/2021 23:42,8/21/2021 23:42
+762,farmers_herdsmen,Plateau,Bassa,Bassa,1,9.9333,8.7333,North,ng-pl,2018,1/29/2018,8/21/2021 23:42,8/21/2021 23:42
+763,farmers_herdsmen,Nassarawa,Keana,Kadarko,7,8.2333,8.5667,North,ng-na,2018,1/29/2018,8/21/2021 23:42,8/21/2021 23:42
+764,farmers_herdsmen,Benue,Guma,Gbajimba,0,7.8155,8.8604,North,ng-be,2018,1/29/2018,8/21/2021 23:42,8/21/2021 23:42
+765,farmers_herdsmen,Plateau,Bassa,Igwara,1,9.9667,8.7167,North,ng-pl,2018,1/29/2018,8/21/2021 23:42,8/21/2021 23:42
+766,farmers_herdsmen,Plateau,Bassa,Rafin Bauna,2,9.8667,8.7833,North,ng-pl,2018,1/29/2018,8/21/2021 23:42,8/21/2021 23:42
+767,farmers_herdsmen,Nassarawa,Keana,Kadarko,0,8.2333,8.5667,North,ng-na,2018,1/28/2018,8/21/2021 23:42,8/21/2021 23:42
+768,farmers_herdsmen,Plateau,Bassa,Miango,2,9.85,8.7333,North,ng-pl,2018,1/28/2018,8/21/2021 23:42,8/21/2021 23:42
+769,farmers_herdsmen,Taraba,Wukari,Wukari,0,7.85,9.7833,North,ng-ta,2018,1/28/2018,8/21/2021 23:42,8/21/2021 23:42
+770,farmers_herdsmen,Edo,Akoko Edo,Igarra,1,7.2827,6.0878,South,ng-ed,2018,1/27/2018,8/21/2021 23:42,8/21/2021 23:42
+771,farmers_herdsmen,Plateau,Bassa,Bassa,3,9.9333,8.7333,North,ng-pl,2018,1/27/2018,8/21/2021 23:42,8/21/2021 23:42
+772,farmers_herdsmen,Taraba,Wukari,Wukari,1,7.85,9.7833,North,ng-ta,2018,1/27/2018,8/21/2021 23:42,8/21/2021 23:42
+773,farmers_herdsmen,Plateau,Bassa,Miango,3,9.85,8.7333,North,ng-pl,2018,1/26/2018,8/21/2021 23:42,8/21/2021 23:42
+774,farmers_herdsmen,Plateau,Bassa,Bassa,3,9.9333,8.7333,North,ng-pl,2018,1/25/2018,8/21/2021 23:42,8/21/2021 23:42
+775,farmers_herdsmen,Benue,Guma,Gbajimba,0,7.8155,8.8604,North,ng-be,2018,1/25/2018,8/21/2021 23:42,8/21/2021 23:42
+776,farmers_herdsmen,Plateau,Jos South,Riyom,1,9.6333,8.7667,North,ng-pl,2018,1/25/2018,8/21/2021 23:42,8/21/2021 23:42
+777,farmers_herdsmen,Plateau,Bassa,Miango,5,9.85,8.7333,North,ng-pl,2018,1/25/2018,8/21/2021 23:42,8/21/2021 23:42
+778,farmers_herdsmen,Plateau,Bokkos,Daffo,6,9.2333,8.85,North,ng-pl,2018,1/25/2018,8/21/2021 23:42,8/21/2021 23:42
+779,farmers_herdsmen,Ogun,Imeko-Afon,Imeko,0,7.45,2.85,West,ng-og,2018,1/24/2018,8/21/2021 23:42,8/21/2021 23:42
+780,farmers_herdsmen,Ogun,Obafemi,Owode,0,6.9486,3.5051,West,ng-og,2018,1/24/2018,8/21/2021 23:42,8/21/2021 23:42
+781,farmers_herdsmen,Ogun,Egbado North,Yewa Mata,2,6.95,2.9167,West,ng-og,2018,1/24/2018,8/21/2021 23:42,8/21/2021 23:42
+782,farmers_herdsmen,Oyo,Afijio,Lagun,0,7.7122,3.9628,West,ng-oy,2018,1/22/2018,8/21/2021 23:42,8/21/2021 23:42
+783,farmers_herdsmen,Plateau,Bassa,Bassa,3,9.9333,8.7333,North,ng-pl,2018,1/22/2018,8/21/2021 23:42,8/21/2021 23:42
+784,farmers_herdsmen,Adamawa,Numan,Numan,3,9.4667,12.0333,North,ng-ad,2018,1/21/2018,8/21/2021 23:42,8/21/2021 23:42
+785,farmers_herdsmen,Delta,Ughelli North,Ovwori,0,5.5983,5.9137,South,ng-de,2018,1/21/2018,8/21/2021 23:42,8/21/2021 23:42
+786,farmers_herdsmen,Ondo,Akure North,Ilado,0,7.1993,5.2738,West,ng-on,2018,1/21/2018,8/21/2021 23:42,8/21/2021 23:42
+787,farmers_herdsmen,Kebbi,Suru,Aljenaari,6,11.5872,3.9115,North,ng-ke,2018,1/20/2018,8/21/2021 23:42,8/21/2021 23:42
+788,farmers_herdsmen,Plateau,Barkin Ladi,Barkin Ladi,1,9.5333,8.9,North,ng-pl,2018,1/20/2018,8/21/2021 23:42,8/21/2021 23:42
+789,farmers_herdsmen,Kebbi,Dandi Kamba,Sabon Gari,1,11.6811,3.7934,North,ng-ke,2018,1/20/2018,8/21/2021 23:42,8/21/2021 23:42
+790,farmers_herdsmen,Ogun,Imeko-Afon,Imeko,1,7.45,2.85,West,ng-og,2018,1/19/2018,8/21/2021 23:42,8/21/2021 23:42
+791,farmers_herdsmen,Delta,Aniocha North,Onicha-Olona,1,6.3709,6.5668,South,ng-de,2018,1/19/2018,8/21/2021 23:42,8/21/2021 23:42
+792,farmers_herdsmen,Ekiti,Ido-Osi,Orin,1,7.8323,5.2382,West,ng-ek,2018,1/18/2018,8/21/2021 23:42,8/21/2021 23:42
+793,farmers_herdsmen,Benue,Okpokwu,Okpoga,2,7.0336,7.8134,North,ng-be,2018,1/17/2018,8/21/2021 23:42,8/21/2021 23:42
+794,farmers_herdsmen,Benue,Logo,Ugba,1,7.5,9.3333,North,ng-be,2018,1/17/2018,8/21/2021 23:42,8/21/2021 23:42
+795,farmers_herdsmen,Benue,Guma,Gbajimba,2,7.8155,8.8604,North,ng-be,2018,1/17/2018,8/21/2021 23:42,8/21/2021 23:42
+796,farmers_herdsmen,Taraba,Gassol,Gassol,6,8.5333,10.4667,North,ng-ta,2018,1/17/2018,8/21/2021 23:42,8/21/2021 23:42
+797,farmers_herdsmen,Taraba,Ibi,Ibi,3,8.1833,9.75,North,ng-ta,2018,1/17/2018,8/21/2021 23:42,8/21/2021 23:42
+798,farmers_herdsmen,Taraba,Wukari,Wukari,11,7.85,9.7833,North,ng-ta,2018,1/17/2018,8/21/2021 23:42,8/21/2021 23:42
+799,farmers_herdsmen,Taraba,Gassol,Gassol,3,8.5333,10.4667,North,ng-ta,2018,1/16/2018,8/21/2021 23:42,8/21/2021 23:42
+800,farmers_herdsmen,Taraba,Ibi,Ibi,1,8.1833,9.75,North,ng-ta,2018,1/16/2018,8/21/2021 23:42,8/21/2021 23:42
+801,farmers_herdsmen,Taraba,Lau,Donadda,2,9.2834,11.4497,North,ng-ta,2018,1/16/2018,8/21/2021 23:42,8/21/2021 23:42
+802,farmers_herdsmen,Taraba,Wukari,Gishiri River,3,7.8333,9.6833,North,ng-ta,2018,1/16/2018,8/21/2021 23:42,8/21/2021 23:42
+803,farmers_herdsmen,Taraba,Ibi,Kauyen Danwaza,3,8.1279,9.7673,North,ng-ta,2018,1/16/2018,8/21/2021 23:42,8/21/2021 23:42
+804,farmers_herdsmen,Plateau,Bassa,Bassa,1,9.9333,8.7333,North,ng-pl,2018,1/15/2018,8/21/2021 23:42,8/21/2021 23:42
+805,farmers_herdsmen,Nassarawa,Doma,Doka,4,8.2,8.45,North,ng-na,2018,1/15/2018,8/21/2021 23:42,8/21/2021 23:42
+806,farmers_herdsmen,Kaduna,Birnin Gwari,Dangaji,2,11.0393,6.7718,North,ng-kd,2018,1/13/2018,8/21/2021 23:42,8/21/2021 23:42
+807,farmers_herdsmen,Kaduna,Birnin Gwari,Ungwan Gajere,3,11.0085,6.7743,North,ng-kd,2018,1/13/2018,8/21/2021 23:42,8/21/2021 23:42
+808,farmers_herdsmen,Sokoto,Tangaza,Ruawuri,1,13.7117,4.9649,North,ng-so,2018,1/12/2018,8/21/2021 23:42,8/21/2021 23:42
+809,farmers_herdsmen,Kaduna,Birnin Gwari,Ungwan Gajere,3,11.0085,6.7743,North,ng-kd,2018,1/12/2018,8/21/2021 23:42,8/21/2021 23:42
+810,farmers_herdsmen,Kaduna,Birnin Gwari,Dangaji,2,11.0393,6.7718,North,ng-kd,2018,1/12/2018,8/21/2021 23:42,8/21/2021 23:42
+811,farmers_herdsmen,Nassarawa,Awe,Anfana,3,8.3698,9.2587,North,ng-na,2018,1/8/2018,8/21/2021 23:42,8/21/2021 23:42
+812,farmers_herdsmen,Nassarawa,Awe,Gidan Emon,4,8.3721,9.2471,North,ng-na,2018,1/8/2018,8/21/2021 23:42,8/21/2021 23:42
+813,farmers_herdsmen,Edo,Akoko Edo,Oja,0,7.3833,6.25,South,ng-ed,2018,1/8/2018,8/21/2021 23:42,8/21/2021 23:42
+814,farmers_herdsmen,Nassarawa,Awe,Azara,4,8.3667,9.25,North,ng-na,2018,1/8/2018,8/21/2021 23:42,8/21/2021 23:42
+815,farmers_herdsmen,Nassarawa,Awe,Awe,3,8.1,9.1333,North,ng-na,2018,1/7/2018,8/21/2021 23:42,8/21/2021 23:42
+816,farmers_herdsmen,Benue,Logo,Tse Akombo,3,7.5311,9.3132,North,ng-be,2018,1/6/2018,8/21/2021 23:42,8/21/2021 23:42
+817,farmers_herdsmen,Benue,Logo,Tsevii,3,7.7718,9.2439,North,ng-be,2018,1/6/2018,8/21/2021 23:42,8/21/2021 23:42
+818,farmers_herdsmen,Benue,Logo,Tse Agule,2,7.5524,9.3601,North,ng-be,2018,1/6/2018,8/21/2021 23:42,8/21/2021 23:42
+819,farmers_herdsmen,Taraba,Lau,Lau,14,9.2167,11.2833,North,ng-ta,2018,1/6/2018,8/21/2021 23:42,8/21/2021 23:42
+820,farmers_herdsmen,Benue,Logo,Tse Akombo,3,7.5311,9.3132,North,ng-be,2018,1/5/2018,8/21/2021 23:42,8/21/2021 23:42
+821,farmers_herdsmen,Benue,Logo,Tsevii,2,7.7718,9.2439,North,ng-be,2018,1/5/2018,8/21/2021 23:42,8/21/2021 23:42
+822,farmers_herdsmen,Benue,Logo,Tse Agule,3,7.5524,9.3601,North,ng-be,2018,1/5/2018,8/21/2021 23:42,8/21/2021 23:42
+823,farmers_herdsmen,Ondo,Akure South,Akure,1,7.2526,5.1931,West,ng-on,2018,1/4/2018,8/21/2021 23:42,8/21/2021 23:42
+824,farmers_herdsmen,Nassarawa,Keana,Keana,1,8.1333,8.8,North,ng-na,2018,1/3/2018,8/21/2021 23:42,8/21/2021 23:42
+825,farmers_herdsmen,Nassarawa,Keana,Kuduku,1,8.2036,8.9091,North,ng-na,2018,1/3/2018,8/21/2021 23:42,8/21/2021 23:42
+826,farmers_herdsmen,Nassarawa,Keana,Nyashashu,1,8.1636,8.828,North,ng-na,2018,1/3/2018,8/21/2021 23:42,8/21/2021 23:42
+827,farmers_herdsmen,Nassarawa,Keana,Obosidoma,0,8.1372,8.835,North,ng-na,2018,1/3/2018,8/21/2021 23:42,8/21/2021 23:42
+828,farmers_herdsmen,Benue,Guma,Gbajimba,1,7.8155,8.8604,North,ng-be,2018,1/3/2018,8/21/2021 23:42,8/21/2021 23:42
+829,farmers_herdsmen,Benue,Logo,Gaambetiev,3,7.8029,9.3436,North,ng-be,2018,1/3/2018,8/21/2021 23:42,8/21/2021 23:42
+830,farmers_herdsmen,Nassarawa,Keana,Keana,0,8.1333,8.8,North,ng-na,2018,1/3/2018,8/21/2021 23:42,8/21/2021 23:42
+831,farmers_herdsmen,Nassarawa,Keana,Tse Kwaghtser-Tunga,1,8.2383,8.7768,North,ng-na,2018,1/3/2018,8/21/2021 23:42,8/21/2021 23:42
+832,farmers_herdsmen,Benue,Logo,Ugba,0,7.5,9.3333,North,ng-be,2018,1/3/2018,8/21/2021 23:42,8/21/2021 23:42
+833,farmers_herdsmen,Benue,Logo,Ayilamo,6,7.5134,9.3212,North,ng-be,2018,1/2/2018,8/21/2021 23:42,8/21/2021 23:42
+834,farmers_herdsmen,Benue,Logo,Turan,6,7.5251,9.3483,North,ng-be,2018,1/2/2018,8/21/2021 23:42,8/21/2021 23:42
+835,farmers_herdsmen,Benue,Guma,Tom-Atar,6,7.8414,8.8881,North,ng-be,2018,1/2/2018,8/21/2021 23:42,8/21/2021 23:42
+836,farmers_herdsmen,Benue,Guma,Umenge,6,7.8469,8.8546,North,ng-be,2018,1/2/2018,8/21/2021 23:42,8/21/2021 23:42
+837,farmers_herdsmen,Benue,Guma,Akor,6,7.8446,8.8092,North,ng-be,2018,1/2/2018,8/21/2021 23:42,8/21/2021 23:42
+838,farmers_herdsmen,Benue,Logo,Ngambe-Tiev,7,7.537,9.371,North,ng-be,2018,1/2/2018,8/21/2021 23:42,8/21/2021 23:42
+839,farmers_herdsmen,Nassarawa,Awe,Awe,1,8.1,9.1333,North,ng-na,2018,1/1/2018,8/21/2021 23:42,8/21/2021 23:42
+840,farmers_herdsmen,Nassarawa,Awe,Bakin Kortaa,2,8.1546,9.1161,North,ng-na,2018,1/1/2018,8/21/2021 23:42,8/21/2021 23:42
+841,farmers_herdsmen,Benue,Logo,Ayilamo,6,7.5134,9.3212,North,ng-be,2018,1/1/2018,8/21/2021 23:42,8/21/2021 23:42
+842,farmers_herdsmen,Benue,Logo,Turan,6,7.5251,9.3483,North,ng-be,2018,1/1/2018,8/21/2021 23:42,8/21/2021 23:42
+843,farmers_herdsmen,Benue,Guma,Tom-Atar,6,7.8414,8.8881,North,ng-be,2018,1/1/2018,8/21/2021 23:42,8/21/2021 23:42
+844,farmers_herdsmen,Benue,Guma,Umenge,6,7.8469,8.8546,North,ng-be,2018,1/1/2018,8/21/2021 23:42,8/21/2021 23:42
+845,farmers_herdsmen,Nassarawa,Awe,Gidan Wurji,1,8.1412,9.1208,North,ng-na,2018,1/1/2018,8/21/2021 23:42,8/21/2021 23:42
+846,farmers_herdsmen,Benue,Guma,Akor,6,7.8446,8.8092,North,ng-be,2018,1/1/2018,8/21/2021 23:42,8/21/2021 23:42
+847,farmers_herdsmen,Benue,Logo,Ngambe-Tiev,6,7.537,9.371,North,ng-be,2018,1/1/2018,8/21/2021 23:42,8/21/2021 23:42
+848,farmers_herdsmen,Taraba,Lau,Minda,4,9.05,11.3167,North,ng-ta,2017,12/30/2017,8/21/2021 23:42,8/21/2021 23:42
+849,farmers_herdsmen,Kaduna,Jema'a,Jemaa,6,9.4667,8.3833,North,ng-kd,2017,12/24/2017,8/21/2021 23:42,8/21/2021 23:42
+850,farmers_herdsmen,Benue,Otukpo,Aukpa,2,7.4742,8.0079,North,ng-be,2017,12/23/2017,8/21/2021 23:42,8/21/2021 23:42
+851,farmers_herdsmen,Kaduna,Jema'a,Nindam,4,9.4167,8.3167,North,ng-kd,2017,12/22/2017,8/21/2021 23:42,8/21/2021 23:42
+852,farmers_herdsmen,Kebbi,Bagudo,Bagudo,2,11.4033,4.2296,North,ng-ke,2017,12/20/2017,8/21/2021 23:42,8/21/2021 23:42
+853,farmers_herdsmen,Ogun,Egbado South,Oke Odan,0,6.7,2.9,West,ng-og,2017,12/13/2017,8/21/2021 23:42,8/21/2021 23:42
+854,farmers_herdsmen,Kogi,Omala,Abejukolo,10,7.8681,7.5091,,ng-ko,2017,12/8/2017,8/21/2021 23:42,8/21/2021 23:42
+855,farmers_herdsmen,Kogi,Yagba West,Odo Ere,0,8.25,5.55,,ng-ko,2017,12/8/2017,8/21/2021 23:42,8/21/2021 23:42
+856,farmers_herdsmen,Adamawa,Demsa,Laweru,10,9.4056,11.9342,North,ng-ad,2017,12/4/2017,8/21/2021 23:42,8/21/2021 23:42
+857,farmers_herdsmen,Adamawa,Demsa,Dong,10,9.4023,11.9157,North,ng-ad,2017,12/4/2017,8/21/2021 23:42,8/21/2021 23:42
+858,farmers_herdsmen,Adamawa,Numan,Numan,10,9.4667,12.0333,North,ng-ad,2017,12/4/2017,8/21/2021 23:42,8/21/2021 23:42
+859,farmers_herdsmen,Plateau,Riyom,Rim,11,9.55,8.75,North,ng-pl,2017,12/4/2017,8/21/2021 23:42,8/21/2021 23:42
+860,farmers_herdsmen,Kebbi,Suru,Bakoshi,1,12.012,4.0458,North,ng-ke,2017,11/17/2017,8/21/2021 23:42,8/21/2021 23:42
+861,farmers_herdsmen,Plateau,Riyom,Unguwar Wereng,2,9.55,8.7333,North,ng-pl,2017,11/12/2017,8/21/2021 23:42,8/21/2021 23:42
+862,farmers_herdsmen,Nassarawa,Awe,Awe,20,8.1,9.1333,North,ng-na,2017,11/8/2017,8/21/2021 23:42,8/21/2021 23:42
+863,farmers_herdsmen,Plateau,Riyom,Arim,11,9.5333,8.7333,North,ng-pl,2017,11/7/2017,8/21/2021 23:42,8/21/2021 23:42
+864,farmers_herdsmen,Benue,Logo,Ugba,0,7.5,9.3333,North,ng-be,2017,11/6/2017,8/21/2021 23:42,8/21/2021 23:42
+865,farmers_herdsmen,Plateau,Barkin Ladi,Foron,0,9.7,8.95,North,ng-pl,2017,11/1/2017,8/21/2021 23:42,8/21/2021 23:42
+866,farmers_herdsmen,Plateau,Bassa,Bassa,0,9.9333,8.7333,North,ng-pl,2017,11/1/2017,8/21/2021 23:42,8/21/2021 23:42
+867,farmers_herdsmen,Plateau,Barkin Ladi,Barkin Ladi,0,9.5333,8.9,North,ng-pl,2017,11/1/2017,8/21/2021 23:42,8/21/2021 23:42
+868,farmers_herdsmen,Plateau,Bassa,Miango,0,9.85,8.7333,North,ng-pl,2017,11/1/2017,8/21/2021 23:42,8/21/2021 23:42
+869,farmers_herdsmen,Cross River,Yala,Ugaga,1,6.666,8.7296,South,ng-cr,2017,11/1/2017,8/21/2021 23:42,8/21/2021 23:42
+870,farmers_herdsmen,Benue,Logo,Ugba,1,7.5,9.3333,North,ng-be,2017,11/1/2017,8/21/2021 23:42,8/21/2021 23:42
+871,farmers_herdsmen,Adamawa,Yola-North,Yola,4,9.2,12.4833,North,ng-ad,2017,10/27/2017,8/21/2021 23:42,8/21/2021 23:42
+872,farmers_herdsmen,Adamawa,Yola-North,Yola,2,9.2,12.4833,North,ng-ad,2017,10/25/2017,8/21/2021 23:42,8/21/2021 23:42
+873,farmers_herdsmen,Plateau,Bassa,Bassa,2,9.9333,8.7333,North,ng-pl,2017,10/17/2017,8/21/2021 23:42,8/21/2021 23:42
+874,farmers_herdsmen,Plateau,Bassa,Igwara,1,9.9667,8.7167,North,ng-pl,2017,10/16/2017,8/21/2021 23:42,8/21/2021 23:42
+875,farmers_herdsmen,Plateau,Bassa,Bassa,29,9.9333,8.7333,North,ng-pl,2017,10/16/2017,8/21/2021 23:42,8/21/2021 23:42
+876,farmers_herdsmen,Plateau,Bassa,Bassa,2,9.9333,8.7333,North,ng-pl,2017,10/15/2017,8/21/2021 23:42,8/21/2021 23:42
+877,farmers_herdsmen,Plateau,Bassa,Bassa,29,9.9333,8.7333,North,ng-pl,2017,10/14/2017,8/21/2021 23:42,8/21/2021 23:42
+878,farmers_herdsmen,Plateau,Bassa,Bassa,2,9.9333,8.7333,North,ng-pl,2017,10/13/2017,8/21/2021 23:42,8/21/2021 23:42
+879,farmers_herdsmen,Plateau,Bassa,Bassa,2,9.9333,8.7333,North,ng-pl,2017,10/12/2017,8/21/2021 23:42,8/21/2021 23:42
+880,farmers_herdsmen,Plateau,Bassa,Bassa,2,9.9333,8.7333,North,ng-pl,2017,10/11/2017,8/21/2021 23:42,8/21/2021 23:42
+881,farmers_herdsmen,Plateau,Bassa,Bassa,2,9.9333,8.7333,North,ng-pl,2017,10/10/2017,8/21/2021 23:42,8/21/2021 23:42
+882,farmers_herdsmen,Plateau,Bassa,Bassa,2,9.9333,8.7333,North,ng-pl,2017,10/9/2017,8/21/2021 23:42,8/21/2021 23:42
+883,farmers_herdsmen,Plateau,Bassa,Bassa,2,9.9333,8.7333,North,ng-pl,2017,10/8/2017,8/21/2021 23:42,8/21/2021 23:42
+884,farmers_herdsmen,Plateau,Bassa,Miango,19,9.85,8.7333,North,ng-pl,2017,9/7/2017,8/21/2021 23:42,8/21/2021 23:42
+885,farmers_herdsmen,Edo,Orhionwon,Oben,1,5.9937,5.8995,South,ng-ed,2017,9/2/2017,8/21/2021 23:42,8/21/2021 23:42
+886,farmers_herdsmen,Enugu,Nkanu West,Agbani,0,6.3079,7.5519,East,ng-en,2017,8/26/2017,8/21/2021 23:42,8/21/2021 23:42
+887,farmers_herdsmen,Ondo,Odigbo,Ore,0,6.7457,4.8775,West,ng-on,2017,8/23/2017,8/21/2021 23:42,8/21/2021 23:42
+888,farmers_herdsmen,Benue,Ogbadibo,Otukpa,2,7.0892,7.6499,North,ng-be,2017,8/10/2017,8/21/2021 23:42,8/21/2021 23:42
+889,farmers_herdsmen,Benue,Ogbadibo,Otukpa,1,7.0892,7.6499,North,ng-be,2017,8/9/2017,8/21/2021 23:42,8/21/2021 23:42
+890,farmers_herdsmen,Ondo,Odigbo,Ore,1,6.7457,4.8775,West,ng-on,2017,8/2/2017,8/21/2021 23:42,8/21/2021 23:42
+891,farmers_herdsmen,Kaduna,Kajuru,Kajuru,5,10.3192,7.6892,North,ng-kd,2017,7/16/2017,8/21/2021 23:42,8/21/2021 23:42
+892,farmers_herdsmen,Edo,Esan West,Ekpoma,1,6.7421,6.139,South,ng-ed,2017,6/21/2017,8/21/2021 23:42,8/21/2021 23:42
+893,farmers_herdsmen,Delta,Ndokwa East,Umueze,1,5.9417,6.5091,South,ng-de,2017,6/20/2017,8/21/2021 23:42,8/21/2021 23:42
+894,farmers_herdsmen,Ondo,Akure North,Kajola,1,7.2092,5.3782,West,ng-on,2017,6/19/2017,8/21/2021 23:42,8/21/2021 23:42
+895,farmers_herdsmen,Edo,Etsako West,Auchi,1,7.0667,6.2667,South,ng-ed,2017,6/10/2017,8/21/2021 23:42,8/21/2021 23:42
+896,farmers_herdsmen,Ondo,Akure North,Kajola,0,7.2092,5.3782,West,ng-on,2017,6/10/2017,8/21/2021 23:42,8/21/2021 23:42
+897,farmers_herdsmen,Rivers,Tai,Afam Uku,2,4.7833,7.3167,South,ng-ri,2017,5/18/2017,8/21/2021 23:42,8/21/2021 23:42
+898,farmers_herdsmen,Niger,Paikoro,Tungan,5,9.4833,6.6833,North,ng-ni,2017,5/14/2017,8/21/2021 23:42,8/21/2021 23:42
+899,farmers_herdsmen,Niger,Paikoro,Tungan,1,9.4833,6.6833,North,ng-ni,2017,5/14/2017,8/21/2021 23:42,8/21/2021 23:42
+900,farmers_herdsmen,Niger,Mokwa,Mokwa,27,9.2833,5.05,North,ng-ni,2017,5/13/2017,8/21/2021 23:42,8/21/2021 23:42
+901,farmers_herdsmen,Delta,Ndokwa East,Ossissa-Stat,5,5.9231,6.4885,South,ng-de,2017,5/12/2017,8/21/2021 23:42,8/21/2021 23:42
+902,farmers_herdsmen,Benue,Logo,Ugba,6,7.5,9.3333,North,ng-be,2017,5/10/2017,8/21/2021 23:42,8/21/2021 23:42
+903,farmers_herdsmen,Benue,Buruku,Gburuku,2,7.4667,9.2,North,ng-be,2017,5/10/2017,8/21/2021 23:42,8/21/2021 23:42
+904,farmers_herdsmen,Benue,Logo,Ugondo,7,7.4847,9.3717,North,ng-be,2017,5/7/2017,8/21/2021 23:42,8/21/2021 23:42
+905,farmers_herdsmen,Benue,Logo,Ugba,8,7.5,9.3333,North,ng-be,2017,5/7/2017,8/21/2021 23:42,8/21/2021 23:42
+906,farmers_herdsmen,Delta,Ethiope East,Abraka,1,5.7902,6.1047,South,ng-de,2017,4/26/2017,8/21/2021 23:42,8/21/2021 23:42
+907,farmers_herdsmen,Benue,Gwer East,Aliade,1,7.2964,8.487,North,ng-be,2017,4/19/2017,8/21/2021 23:42,8/21/2021 23:42
+908,farmers_herdsmen,Benue,Ukum,Ikpayongo,3,7.5816,9.6904,North,ng-be,2017,4/19/2017,8/21/2021 23:42,8/21/2021 23:42
+909,farmers_herdsmen,Benue,Makurdi,Makurdi,3,7.7411,8.5121,North,ng-be,2017,4/19/2017,8/21/2021 23:42,8/21/2021 23:42
+910,farmers_herdsmen,Federal Capital Territory,Abuja Municipal,Aso,13,9.0478,7.5322,,ng-fc,2017,4/15/2017,8/21/2021 23:42,8/21/2021 23:42
+911,farmers_herdsmen,Benue,Kwande,Adikpo,5,6.8879,9.2355,North,ng-be,2017,4/3/2017,8/21/2021 23:42,8/21/2021 23:42
+912,farmers_herdsmen,Benue,Kwande,Adikpo,5,6.8879,9.2355,North,ng-be,2017,4/2/2017,8/21/2021 23:42,8/21/2021 23:42
+913,farmers_herdsmen,Kwara,Baruten,Yashikera,0,9.7667,3.4,North,ng-kw,2017,3/26/2017,8/21/2021 23:42,8/21/2021 23:42
+914,farmers_herdsmen,Cross River,Odukpani,Odukpani,10,5.132,8.3395,South,ng-cr,2017,3/26/2017,8/21/2021 23:42,8/21/2021 23:42
+915,farmers_herdsmen,Delta,Ika South,Abavo,0,6.119,6.1842,South,ng-de,2017,3/26/2017,8/21/2021 23:42,8/21/2021 23:42
+916,farmers_herdsmen,Delta,Ika South,Emuhu,3,6.272,6.2621,South,ng-de,2017,3/26/2017,8/21/2021 23:42,8/21/2021 23:42
+917,farmers_herdsmen,Benue,Kwande,Jato Aka,1,6.8898,9.5056,North,ng-be,2017,3/25/2017,8/21/2021 23:42,8/21/2021 23:42
+918,farmers_herdsmen,Delta,Ethiope East,Abraka,1,5.7902,6.1047,South,ng-de,2017,3/24/2017,8/21/2021 23:42,8/21/2021 23:42
+919,farmers_herdsmen,Abia,Bende,Ozu-Item,1,5.5989,7.6038,East,ng-ab,2017,3/12/2017,8/21/2021 23:42,8/21/2021 23:42
+920,farmers_herdsmen,Benue,Buruku,Gburuku,0,7.4667,9.2,North,ng-be,2017,3/12/2017,8/21/2021 23:42,8/21/2021 23:42
+921,farmers_herdsmen,Benue,Buruku,Gburuku,7,7.4667,9.2,North,ng-be,2017,3/12/2017,8/21/2021 23:42,8/21/2021 23:42
+922,farmers_herdsmen,Benue,Buruku,Gburuku,0,7.4667,9.2,North,ng-be,2017,3/11/2017,8/21/2021 23:42,8/21/2021 23:42
+923,farmers_herdsmen,Benue,Buruku,Gburuku,0,7.4667,9.2,North,ng-be,2017,3/10/2017,8/21/2021 23:42,8/21/2021 23:42
+924,farmers_herdsmen,Benue,Gwer East,Aliade,4,7.2964,8.487,North,ng-be,2017,3/1/2017,8/21/2021 23:42,8/21/2021 23:42
+925,farmers_herdsmen,Rivers,Ogba,Omoku,1,5.3435,6.6532,South,ng-ri,2017,2/27/2017,8/21/2021 23:42,8/21/2021 23:42
+926,farmers_herdsmen,Delta,Ika South,Agbor,2,6.2518,6.1934,South,ng-de,2017,2/27/2017,8/21/2021 23:42,8/21/2021 23:42
+927,farmers_herdsmen,Benue,Gwer East,Aliade,8,7.2964,8.487,North,ng-be,2017,2/24/2017,8/21/2021 23:42,8/21/2021 23:42
+928,farmers_herdsmen,Kaduna,Jema'a,Bakin Kogi,11,9.4833,8.2667,North,ng-kd,2017,2/20/2017,8/21/2021 23:42,8/21/2021 23:42
+929,farmers_herdsmen,Kaduna,Kaura,Kaura,11,9.6681,8.4583,North,ng-kd,2017,2/19/2017,8/21/2021 23:42,8/21/2021 23:42
+930,farmers_herdsmen,Delta,Ughelli North,Ohoro,4,5.2829,6.072,South,ng-de,2017,2/10/2017,8/21/2021 23:42,8/21/2021 23:42
+931,farmers_herdsmen,Delta,Ughelli North,Uwheru,4,5.2411,6.0125,South,ng-de,2017,2/10/2017,8/21/2021 23:42,8/21/2021 23:42
+932,farmers_herdsmen,Zamfara,Tsafe,Yan Wari,3,12.0638,7.0914,North,ng-za,2017,2/8/2017,8/21/2021 23:42,8/21/2021 23:42
+933,farmers_herdsmen,Delta,Ughelli North,Ohoro,1,5.2829,6.072,South,ng-de,2017,2/5/2017,8/21/2021 23:42,8/21/2021 23:42
+934,farmers_herdsmen,Benue,Logo,Ugba,1,7.5,9.3333,North,ng-be,2017,2/1/2017,8/21/2021 23:42,8/21/2021 23:42
+935,farmers_herdsmen,Adamawa,Girei,Girei,3,9.3667,12.55,North,ng-ad,2017,1/31/2017,8/21/2021 23:42,8/21/2021 23:42
+936,farmers_herdsmen,Taraba,Lau,Lau,9,9.2167,11.2833,North,ng-ta,2017,1/28/2017,8/21/2021 23:42,8/21/2021 23:42
+937,farmers_herdsmen,Taraba,Lau,Garin Dogo,9,9.15,11.3333,North,ng-ta,2017,1/28/2017,8/21/2021 23:42,8/21/2021 23:42
+938,farmers_herdsmen,Benue,Okpokwu,Okpoga,1,7.0336,7.8134,North,ng-be,2017,1/25/2017,8/21/2021 23:42,8/21/2021 23:42
+939,farmers_herdsmen,Taraba,Lau,Lau,1,9.2167,11.2833,North,ng-ta,2017,1/24/2017,8/21/2021 23:42,8/21/2021 23:42
+940,farmers_herdsmen,Taraba,Lau,Lau,1,9.2167,11.2833,North,ng-ta,2017,1/23/2017,8/21/2021 23:42,8/21/2021 23:42
+941,farmers_herdsmen,Benue,Ohimini,Idekpa-Okpiko,10,7.2295,7.9282,North,ng-be,2017,1/23/2017,8/21/2021 23:42,8/21/2021 23:42
+942,farmers_herdsmen,Taraba,Lau,Lau,1,9.2167,11.2833,North,ng-ta,2017,1/22/2017,8/21/2021 23:42,8/21/2021 23:42
+943,farmers_herdsmen,Kaduna,Jema'a,Gidan-Waya,5,9.4641,8.4513,North,ng-kd,2017,1/22/2017,8/21/2021 23:42,8/21/2021 23:42
+944,farmers_herdsmen,Benue,Ohimini,Idekpa-Okpiko,0,7.2295,7.9282,North,ng-be,2017,1/22/2017,8/21/2021 23:42,8/21/2021 23:42
+945,farmers_herdsmen,Taraba,Lau,Lau,1,9.2167,11.2833,North,ng-ta,2017,1/21/2017,8/21/2021 23:42,8/21/2021 23:42
+946,farmers_herdsmen,Taraba,Lau,Lau,2,9.2167,11.2833,North,ng-ta,2017,1/20/2017,8/21/2021 23:42,8/21/2021 23:42
+947,farmers_herdsmen,Kaduna,Zangon Kataf,Zonkwa,3,9.7833,8.2833,North,ng-kd,2017,1/19/2017,8/21/2021 23:42,8/21/2021 23:42
+948,farmers_herdsmen,Kaduna,Jema'a,Kafanchan,3,9.5833,8.3,North,ng-kd,2017,1/17/2017,8/21/2021 23:42,8/21/2021 23:42
+949,farmers_herdsmen,Ogun,Egbado North,Aiyetoro,5,7.2333,3.0333,West,ng-og,2017,1/16/2017,8/21/2021 23:42,8/21/2021 23:42
+950,farmers_herdsmen,Ogun,Yewa North,Isuku,6,7.0333,2.75,West,ng-og,2017,1/16/2017,8/21/2021 23:42,8/21/2021 23:42
+951,farmers_herdsmen,Niger,Bosso,Sabon Dagga,4,9.4827,6.4848,North,ng-ni,2017,1/13/2017,8/21/2021 23:42,8/21/2021 23:42
+952,farmers_herdsmen,Niger,Bosso,Maikonkele,5,9.6825,6.4683,North,ng-ni,2017,1/13/2017,8/21/2021 23:42,8/21/2021 23:42
+953,farmers_herdsmen,Adamawa,Demsa,Demsa,0,9.4667,12.15,North,ng-ad,2017,1/9/2017,8/21/2021 23:42,8/21/2021 23:42
+954,farmers_herdsmen,Adamawa,Fufore,Karlahi,0,8.85,12.5833,North,ng-ad,2017,1/9/2017,8/21/2021 23:42,8/21/2021 23:42
+955,farmers_herdsmen,Delta,Ethiope East,Isiokolo-Agbon,2,5.595,6.0005,South,ng-de,2017,1/8/2017,8/21/2021 23:42,8/21/2021 23:42
+956,farmers_herdsmen,Kaduna,Kaura,Kagoro,2,9.6078,8.3904,North,ng-kd,2017,1/7/2017,8/21/2021 23:42,8/21/2021 23:42
+957,farmers_herdsmen,Delta,Ethiope East,Isiokolo-Agbon,2,5.595,6.0005,South,ng-de,2017,1/5/2017,8/21/2021 23:42,8/21/2021 23:42
+958,farmers_herdsmen,Benue,Okpokwu,Okpoga,5,7.0336,7.8134,North,ng-be,2017,1/3/2017,8/21/2021 23:42,8/21/2021 23:42
+959,farmers_herdsmen,Kaduna,Jema'a,Kafanchan,6,9.5833,8.3,North,ng-kd,2016,12/25/2016,8/21/2021 23:42,8/21/2021 23:42
+960,farmers_herdsmen,Kaduna,Jema'a,Kafanchan,5,9.5833,8.3,North,ng-kd,2016,12/24/2016,8/21/2021 23:42,8/21/2021 23:42
+961,farmers_herdsmen,Taraba,Gassol,Gassol,31,8.5333,10.4667,North,ng-ta,2016,12/18/2016,8/21/2021 23:42,8/21/2021 23:42
+962,farmers_herdsmen,Kaduna,Chikun,Chikun,15,10.2691,7.1085,North,ng-kd,2016,12/14/2016,8/21/2021 23:42,8/21/2021 23:42
+963,farmers_herdsmen,Kaduna,Kaura,Kagoro,5,9.6078,8.3904,North,ng-kd,2016,12/14/2016,8/21/2021 23:42,8/21/2021 23:42
+964,farmers_herdsmen,Abia,Bende,Ozu-Item,0,5.5989,7.6038,East,ng-ab,2016,12/1/2016,8/21/2021 23:42,8/21/2021 23:42
+965,farmers_herdsmen,Kaduna,Kaura,Kaura,43,9.6681,8.4583,North,ng-kd,2016,11/13/2016,8/21/2021 23:42,8/21/2021 23:42
+966,farmers_herdsmen,Abia,Arochukwu,Arochukwu,0,5.3898,7.914,East,ng-ab,2016,11/7/2016,8/21/2021 23:42,8/21/2021 23:42
+967,farmers_herdsmen,Plateau,Jos South,Bukuru,1,9.794,8.864,North,ng-pl,2016,10/23/2016,8/21/2021 23:42,8/21/2021 23:42
+968,farmers_herdsmen,Delta,Ndokwa East,Ossissa-Stat,2,5.9231,6.4885,South,ng-de,2016,10/23/2016,8/21/2021 23:42,8/21/2021 23:42
+969,farmers_herdsmen,Kaduna,Jema'a,Godogodo,29,9.4333,8.35,North,ng-kd,2016,10/15/2016,8/21/2021 23:42,8/21/2021 23:42
+970,farmers_herdsmen,Anambra,Nnewi North,Nnewi,2,6.0199,6.9148,East,ng-an,2016,9/28/2016,8/21/2021 23:42,8/21/2021 23:42
+971,farmers_herdsmen,Kaduna,Jema'a,Jemaa,0,9.4667,8.3833,North,ng-kd,2016,9/27/2016,8/21/2021 23:42,8/21/2021 23:42
+972,farmers_herdsmen,Kaduna,Lere,Dogon Daji,3,10.311,8.545,North,ng-kd,2016,9/27/2016,8/21/2021 23:42,8/21/2021 23:42
+973,farmers_herdsmen,Kaduna,Sanga,Nandu,19,9.2333,8.5167,North,ng-kd,2016,9/15/2016,8/21/2021 23:42,8/21/2021 23:42
+974,farmers_herdsmen,Kaduna,Sanga,Sanga,19,9.3167,8.45,North,ng-kd,2016,9/15/2016,8/21/2021 23:42,8/21/2021 23:42
+975,farmers_herdsmen,Kaduna,Jema'a,Jemaa,0,9.4667,8.3833,North,ng-kd,2016,9/10/2016,8/21/2021 23:42,8/21/2021 23:42
+976,farmers_herdsmen,Kaduna,Jema'a,Golgolfa,1,9.4103,8.3614,North,ng-kd,2016,9/10/2016,8/21/2021 23:42,8/21/2021 23:42
+977,farmers_herdsmen,Kaduna,Jema'a,Golgolfa,2,9.4103,8.3614,North,ng-kd,2016,9/8/2016,8/21/2021 23:42,8/21/2021 23:42
+978,farmers_herdsmen,Lagos,Agege,Agege,1,6.6143,3.3244,West,ng-la,2016,9/7/2016,8/21/2021 23:42,8/21/2021 23:42
+979,farmers_herdsmen,Taraba,Gassol,Mutum Biyu,0,8.6333,10.7667,North,ng-ta,2016,8/27/2016,8/21/2021 23:42,8/21/2021 23:42
+980,farmers_herdsmen,Enugu,Nkanu West,Agbani,2,6.3079,7.5519,East,ng-en,2016,8/25/2016,8/21/2021 23:42,8/21/2021 23:42
+981,farmers_herdsmen,Kaduna,Sanga,Gwantu,2,9.25,8.45,North,ng-kd,2016,8/22/2016,8/21/2021 23:42,8/21/2021 23:42
+982,farmers_herdsmen,Kaduna,Sanga,Gwantu,1,9.25,8.45,North,ng-kd,2016,8/21/2016,8/21/2021 23:42,8/21/2021 23:42
+983,farmers_herdsmen,Kaduna,Jema'a,Godogodo,6,9.4333,8.35,North,ng-kd,2016,8/20/2016,8/21/2021 23:42,8/21/2021 23:42
+984,farmers_herdsmen,Adamawa,Demsa,Demsa,10,9.4667,12.15,North,ng-ad,2016,8/1/2016,8/21/2021 23:42,8/21/2021 23:42
+985,farmers_herdsmen,Kaduna,Jema'a,Godogodo,11,9.4333,8.35,North,ng-kd,2016,8/1/2016,8/21/2021 23:42,8/21/2021 23:42
+986,farmers_herdsmen,Adamawa,Demsa,Demsa,10,9.4667,12.15,North,ng-ad,2016,7/31/2016,8/21/2021 23:42,8/21/2021 23:42
+987,farmers_herdsmen,Benue,Logo,Ugba,10,7.5,9.3333,North,ng-be,2016,7/25/2016,8/21/2021 23:42,8/21/2021 23:42
+988,farmers_herdsmen,Plateau,Bokkos,Bokkos,1,9.3,9,North,ng-pl,2016,7/18/2016,8/21/2021 23:42,8/21/2021 23:42
+989,farmers_herdsmen,Adamawa,Girei,Girei,6,9.3667,12.55,North,ng-ad,2016,7/13/2016,8/21/2021 23:42,8/21/2021 23:42
+990,farmers_herdsmen,Niger,Paikoro,Paiko,4,9.4333,6.6333,North,ng-ni,2016,7/11/2016,8/21/2021 23:42,8/21/2021 23:42
+991,farmers_herdsmen,Benue,Makurdi,Makurdi,71,7.7411,8.5121,North,ng-be,2016,7/11/2016,8/21/2021 23:42,8/21/2021 23:42
+992,farmers_herdsmen,Benue,Logo,Ugba,3,7.5,9.3333,North,ng-be,2016,7/10/2016,8/21/2021 23:42,8/21/2021 23:42
+993,farmers_herdsmen,Benue,Logo,Ugba,2,7.5,9.3333,North,ng-be,2016,7/9/2016,8/21/2021 23:42,8/21/2021 23:42
+994,farmers_herdsmen,Benue,Ukum,Zaki Biam,5,7.5167,9.6167,North,ng-be,2016,7/9/2016,8/21/2021 23:42,8/21/2021 23:42
+995,farmers_herdsmen,Niger,Bosso,Maikonkele,4,9.6825,6.4683,North,ng-ni,2016,7/7/2016,8/21/2021 23:42,8/21/2021 23:42
+996,farmers_herdsmen,Adamawa,Girei,Kwo,8,9.45,12.35,North,ng-ad,2016,6/25/2016,8/21/2021 23:42,8/21/2021 23:42
+997,farmers_herdsmen,Benue,Ukum,Zaki Biam,8,7.5167,9.6167,North,ng-be,2016,6/21/2016,8/21/2021 23:42,8/21/2021 23:42
+998,farmers_herdsmen,Benue,Buruku,Uzaar,9,7.5688,9.0239,North,ng-be,2016,6/20/2016,8/21/2021 23:42,8/21/2021 23:42
+999,farmers_herdsmen,Benue,Logo,Ugba,9,7.5,9.3333,North,ng-be,2016,6/20/2016,8/21/2021 23:42,8/21/2021 23:42
+1000,farmers_herdsmen,Benue,Logo,Ugba,20,7.5,9.3333,North,ng-be,2016,6/19/2016,8/21/2021 23:42,8/21/2021 23:42
+1001,farmers_herdsmen,Ogun,Egbado North,Ilewo,3,6.9667,2.9833,West,ng-og,2016,6/17/2016,8/21/2021 23:42,8/21/2021 23:42
+1002,farmers_herdsmen,Benue,Ukum,Tseaondo,5,7.5965,9.7056,North,ng-be,2016,5/30/2016,8/21/2021 23:42,8/21/2021 23:42
+1003,farmers_herdsmen,Benue,Ukum,Tseaondo,5,7.5965,9.7056,North,ng-be,2016,5/30/2016,8/21/2021 23:42,8/21/2021 23:42
+1004,farmers_herdsmen,Ekiti,Ikole,Ikole,1,7.7897,5.5106,West,ng-ek,2016,5/20/2016,8/21/2021 23:42,8/21/2021 23:42
+1005,farmers_herdsmen,Benue,Katsina Ala,Katsina-Ala,12,7.1693,9.2846,North,ng-be,2016,5/13/2016,8/21/2021 23:42,8/21/2021 23:42
+1006,farmers_herdsmen,Taraba,Gassol,Gassol,6,8.5333,10.4667,North,ng-ta,2016,5/8/2016,8/21/2021 23:42,8/21/2021 23:42
+1007,farmers_herdsmen,Kaduna,Sanga,Fadan Karshe,2,9.3888,8.5778,North,ng-kd,2016,5/1/2016,8/21/2021 23:42,8/21/2021 23:42
+1008,farmers_herdsmen,Enugu,Uzo Uwani,Ukpabi-Nimbo,48,6.8,7.1467,East,ng-en,2016,4/25/2016,8/21/2021 23:42,8/21/2021 23:42
+1009,farmers_herdsmen,Delta,Ukwuani,Obiaruku Quarters,0,5.8467,6.1526,South,ng-de,2016,4/25/2016,8/21/2021 23:42,8/21/2021 23:42
+1010,farmers_herdsmen,Taraba,Bali,Bali,6,7.8667,10.9667,North,ng-ta,2016,4/23/2016,8/21/2021 23:42,8/21/2021 23:42
+1011,farmers_herdsmen,Taraba,Donga,Donga,7,7.7167,10.05,North,ng-ta,2016,4/21/2016,8/21/2021 23:42,8/21/2021 23:42
+1012,farmers_herdsmen,Benue,Tarka,Wannune,0,7.5667,8.8833,North,ng-be,2016,4/15/2016,8/21/2021 23:42,8/21/2021 23:42
+1013,farmers_herdsmen,Benue,Agatu,Obangedde,0,7.828,7.8141,North,ng-be,2016,4/15/2016,8/21/2021 23:42,8/21/2021 23:42
+1014,farmers_herdsmen,Benue,Kwande,Adikpo,0,6.8879,9.2355,North,ng-be,2016,4/15/2016,8/21/2021 23:42,8/21/2021 23:42
+1015,farmers_herdsmen,Benue,Buruku,Gburuku,0,7.4667,9.2,North,ng-be,2016,4/15/2016,8/21/2021 23:42,8/21/2021 23:42
+1016,farmers_herdsmen,Benue,Logo,Ugba,0,7.5,9.3333,North,ng-be,2016,4/15/2016,8/21/2021 23:42,8/21/2021 23:42
+1017,farmers_herdsmen,Benue,Guma,Gbajimba,0,7.8155,8.8604,North,ng-be,2016,4/15/2016,8/21/2021 23:42,8/21/2021 23:42
+1018,farmers_herdsmen,Benue,Makurdi,Makurdi,0,7.7411,8.5121,North,ng-be,2016,4/15/2016,8/21/2021 23:42,8/21/2021 23:42
+1019,farmers_herdsmen,Taraba,Gashaka,Serti,44,7.5,11.3667,North,ng-ta,2016,4/11/2016,8/21/2021 23:42,8/21/2021 23:42
+1020,farmers_herdsmen,Delta,Ethiope East,Abraka,2,5.7902,6.1047,South,ng-de,2016,4/9/2016,8/21/2021 23:42,8/21/2021 23:42
+1021,farmers_herdsmen,Benue,Tarka,Wannune,1,7.5667,8.8833,North,ng-be,2016,4/8/2016,8/21/2021 23:42,8/21/2021 23:42
+1022,farmers_herdsmen,Benue,Tarka,Wannune,4,7.5667,8.8833,North,ng-be,2016,4/3/2016,8/21/2021 23:42,8/21/2021 23:42
+1023,farmers_herdsmen,Ondo,Akure North,Ilado,1,7.1993,5.2738,West,ng-on,2016,4/2/2016,8/21/2021 23:42,8/21/2021 23:42
+1024,farmers_herdsmen,Taraba,Bali,Butu,0,7.5333,10.4167,North,ng-ta,2016,3/27/2016,8/21/2021 23:42,8/21/2021 23:42
+1025,farmers_herdsmen,Taraba,Ibi,Ibi,2,8.1833,9.75,North,ng-ta,2016,3/23/2016,8/21/2021 23:42,8/21/2021 23:42
+1026,farmers_herdsmen,Benue,Logo,Tombo,15,7.4819,9.2948,North,ng-be,2016,3/18/2016,8/21/2021 23:42,8/21/2021 23:42
+1027,farmers_herdsmen,Benue,Logo,Ugba,2,7.5,9.3333,North,ng-be,2016,3/13/2016,8/21/2021 23:42,8/21/2021 23:42
+1028,farmers_herdsmen,Benue,Logo,Ugba,2,7.5,9.3333,North,ng-be,2016,3/10/2016,8/21/2021 23:42,8/21/2021 23:42
+1029,farmers_herdsmen,Benue,Agatu,Obangedde,1,7.828,7.8141,North,ng-be,2016,3/10/2016,8/21/2021 23:42,8/21/2021 23:42
+1030,farmers_herdsmen,Benue,Logo,Ugba,8,7.5,9.3333,North,ng-be,2016,3/8/2016,8/21/2021 23:42,8/21/2021 23:42
+1031,farmers_herdsmen,Benue,Agatu,Obangedde,9,7.828,7.8141,North,ng-be,2016,3/4/2016,8/21/2021 23:42,8/21/2021 23:42
+1032,farmers_herdsmen,Taraba,Ibi,Ibi,5,8.1833,9.75,North,ng-ta,2016,2/25/2016,8/21/2021 23:42,8/21/2021 23:42
+1033,farmers_herdsmen,Taraba,Wukari,Wukari,4,7.85,9.7833,North,ng-ta,2016,2/25/2016,8/21/2021 23:42,8/21/2021 23:42
+1034,farmers_herdsmen,Benue,Agatu,Okokolo,60,7.8677,8.0949,North,ng-be,2016,2/24/2016,8/21/2021 23:42,8/21/2021 23:42
+1035,farmers_herdsmen,Benue,Agatu,Obangedde,60,7.828,7.8141,North,ng-be,2016,2/24/2016,8/21/2021 23:42,8/21/2021 23:42
+1036,farmers_herdsmen,Benue,Agatu,Akwu,60,7.8669,8.0611,North,ng-be,2016,2/24/2016,8/21/2021 23:42,8/21/2021 23:42
+1037,farmers_herdsmen,Benue,Ushongo,Abugbe,60,7.0613,9.0282,North,ng-be,2016,2/24/2016,8/21/2021 23:42,8/21/2021 23:42
+1038,farmers_herdsmen,Benue,Agatu,Adagbo,60,7.8731,8.046,North,ng-be,2016,2/24/2016,8/21/2021 23:42,8/21/2021 23:42
+1039,farmers_herdsmen,Enugu,Uzo Uwani,Abi,2,6.8362,7.2349,East,ng-en,2016,2/11/2016,8/21/2021 23:42,8/21/2021 23:42
+1040,farmers_herdsmen,Benue,Agatu,Obangedde,3,7.828,7.8141,North,ng-be,2016,2/11/2016,8/21/2021 23:42,8/21/2021 23:42
+1041,farmers_herdsmen,Benue,Agatu,Okokolo,3,7.8677,8.0949,North,ng-be,2016,2/11/2016,8/21/2021 23:42,8/21/2021 23:42
+1042,farmers_herdsmen,Benue,Katsina Ala,Katsina-Ala,12,7.1693,9.2846,North,ng-be,2016,2/7/2016,8/21/2021 23:42,8/21/2021 23:42
+1043,farmers_herdsmen,Benue,Agatu,Obangedde,10,7.828,7.8141,North,ng-be,2016,1/31/2016,8/21/2021 23:42,8/21/2021 23:42
+1044,farmers_herdsmen,Federal Capital Territory,Abuja Municipal,Kuje,1,8.8964,7.2431,,ng-fc,2016,1/29/2016,8/21/2021 23:42,8/21/2021 23:42
+1045,farmers_herdsmen,Adamawa,Girei,Girei,1,9.3667,12.55,North,ng-ad,2016,1/24/2016,8/21/2021 23:42,8/21/2021 23:42
+1046,farmers_herdsmen,Adamawa,Girei,Girei,19,9.3667,12.55,North,ng-ad,2016,1/24/2016,8/21/2021 23:42,8/21/2021 23:42
+1047,farmers_herdsmen,Federal Capital Territory,Abuja Municipal,Abuja,3,9.0833,7.5333,,ng-fc,2016,1/17/2016,8/21/2021 23:42,8/21/2021 23:42
+1048,farmers_herdsmen,Enugu,Nkanu East,Amagunze,1,6.3267,7.6539,East,ng-en,2016,1/15/2016,8/21/2021 23:42,8/21/2021 23:42
+1049,farmers_herdsmen,Delta,Ika North East,Owa-Oyibu,1,6.1808,6.2012,South,ng-de,2016,1/5/2016,8/21/2021 23:42,8/21/2021 23:42
+1050,farmers_herdsmen,Nassarawa,Nasarawa,Okpaya,5,7.967,8.0462,North,ng-na,2016,1/3/2016,8/21/2021 23:42,8/21/2021 23:42
+1051,farmers_herdsmen,Nassarawa,Nasarawa,Udeni,8,8.2761,7.9903,North,ng-na,2016,1/3/2016,8/21/2021 23:42,8/21/2021 23:42
+1052,farmers_herdsmen,Plateau,Jos South,Zawan,14,9.75,8.8667,North,ng-pl,2015,12/13/2015,8/21/2021 23:42,8/21/2021 23:42
+1053,farmers_herdsmen,Benue,Oju,Oju,6,6.8454,8.4174,North,ng-be,2015,12/6/2015,8/21/2021 23:42,8/21/2021 23:42
+1054,farmers_herdsmen,Delta,Ndokwa West,Onicha,0,5.8288,6.3929,South,ng-de,2015,12/5/2015,8/21/2021 23:42,8/21/2021 23:42
+1055,farmers_herdsmen,Gombe,Billiri,Polapindi,1,9.8667,11.1667,North,ng-go,2015,12/1/2015,8/21/2021 23:42,8/21/2021 23:42
+1056,farmers_herdsmen,Delta,Isoko North,Ofagbe,1,5.5493,6.3427,South,ng-de,2015,12/1/2015,8/21/2021 23:42,8/21/2021 23:42
+1057,farmers_herdsmen,Edo,Owan East,Afuze,1,6.9675,6.0432,South,ng-ed,2015,11/18/2015,8/21/2021 23:42,8/21/2021 23:42
+1058,farmers_herdsmen,Kogi,Dekina,Dekina,11,7.6897,7.0438,,ng-ko,2015,11/9/2015,8/21/2021 23:42,8/21/2021 23:42
+1059,farmers_herdsmen,Kogi,Dekina,Agojeju,11,7.7235,7.3838,,ng-ko,2015,11/9/2015,8/21/2021 23:42,8/21/2021 23:42
+1060,farmers_herdsmen,Taraba,Wukari,Wukari,8,7.85,9.7833,North,ng-ta,2015,10/21/2015,8/21/2021 23:42,8/21/2021 23:42
+1061,farmers_herdsmen,Plateau,Barkin Ladi,Barkin Ladi,2,9.5333,8.9,North,ng-pl,2015,10/20/2015,8/21/2021 23:42,8/21/2021 23:42
+1062,farmers_herdsmen,Niger,Rafi,Kagara,4,10.1844,6.2534,North,ng-ni,2015,10/1/2015,8/21/2021 23:42,8/21/2021 23:42
+1063,farmers_herdsmen,Kogi,Kabba,Kabba,0,7.8287,6.0731,,ng-ko,2015,9/30/2015,8/21/2021 23:42,8/21/2021 23:42
+1064,farmers_herdsmen,Niger,Shiroro,Alawa,35,10.3228,6.6542,North,ng-ni,2015,9/22/2015,8/21/2021 23:42,8/21/2021 23:42
+1065,farmers_herdsmen,Plateau,Mangu,Kadunu,19,9.6667,9.15,North,ng-pl,2015,9/16/2015,8/21/2021 23:42,8/21/2021 23:42
+1066,farmers_herdsmen,Taraba,Ibi,Ibi,9,8.1833,9.75,North,ng-ta,2015,9/15/2015,8/21/2021 23:42,8/21/2021 23:42
+1067,farmers_herdsmen,Plateau,Barkin Ladi,Tafan,10,9.6167,8.9667,North,ng-pl,2015,9/13/2015,8/21/2021 23:42,8/21/2021 23:42
+1068,farmers_herdsmen,Plateau,Barkin Ladi,Foron,10,9.7,8.95,North,ng-pl,2015,9/13/2015,8/21/2021 23:42,8/21/2021 23:42
+1069,farmers_herdsmen,Delta,Ndokwa West,Kwale,3,5.7063,6.4374,South,ng-de,2015,8/31/2015,8/21/2021 23:42,8/21/2021 23:42
+1070,farmers_herdsmen,Plateau,Barkin Ladi,Barkin Ladi,2,9.5333,8.9,North,ng-pl,2015,8/22/2015,8/21/2021 23:42,8/21/2021 23:42
+1071,farmers_herdsmen,Ondo,Akoko North East,Ikare-Akoko,1,7.5167,5.75,West,ng-on,2015,8/10/2015,8/21/2021 23:42,8/21/2021 23:42
+1072,farmers_herdsmen,Nassarawa,Obi,Obi,8,8.3667,8.7667,North,ng-na,2015,8/3/2015,8/21/2021 23:42,8/21/2021 23:42
+1073,farmers_herdsmen,Plateau,Barkin Ladi,Barkin Ladi,4,9.5333,8.9,North,ng-pl,2015,6/30/2015,8/21/2021 23:42,8/21/2021 23:42
+1074,farmers_herdsmen,Taraba,Wukari,Wukari,8,7.85,9.7833,North,ng-ta,2015,6/18/2015,8/21/2021 23:42,8/21/2021 23:42
+1075,farmers_herdsmen,Plateau,Kanam,Dengi,2,9.3667,9.95,North,ng-pl,2015,6/7/2015,8/21/2021 23:42,8/21/2021 23:42
+1076,farmers_herdsmen,Plateau,Barkin Ladi,Barkin Ladi,0,9.5333,8.9,North,ng-pl,2015,6/7/2015,8/21/2021 23:42,8/21/2021 23:42
+1077,farmers_herdsmen,Kwara,Pategi,Pategi,3,8.7333,5.75,North,ng-kw,2015,6/4/2015,8/21/2021 23:42,8/21/2021 23:42
+1078,farmers_herdsmen,Benue,Ukum,Gusa,13,7.5636,9.5526,North,ng-be,2015,5/23/2015,8/21/2021 23:42,8/21/2021 23:42
+1079,farmers_herdsmen,Benue,Buruku,Iorzaa,13,7.1622,9.0888,North,ng-be,2015,5/23/2015,8/21/2021 23:42,8/21/2021 23:42
+1080,farmers_herdsmen,Benue,Buruku,Ukura,12,7.3522,9.1929,North,ng-be,2015,5/23/2015,8/21/2021 23:42,8/21/2021 23:42
+1081,farmers_herdsmen,Benue,Logo,Ugba,12,7.5,9.3333,North,ng-be,2015,5/23/2015,8/21/2021 23:42,8/21/2021 23:42
+1082,farmers_herdsmen,Benue,Gwer West,Naka,8,7.5887,8.2087,North,ng-be,2015,5/15/2015,8/21/2021 23:42,8/21/2021 23:42
+1083,farmers_herdsmen,Plateau,Wase,Wase,1,9.1,9.9667,North,ng-pl,2015,5/12/2015,8/21/2021 23:42,8/21/2021 23:42
+1084,farmers_herdsmen,Plateau,Barkin Ladi,Ropp,2,9.5,8.9167,North,ng-pl,2015,5/10/2015,8/21/2021 23:42,8/21/2021 23:42
+1085,farmers_herdsmen,Benue,Kwande,Adikpo,1,6.8879,9.2355,North,ng-be,2015,5/9/2015,8/21/2021 23:42,8/21/2021 23:42
+1086,farmers_herdsmen,Plateau,Barkin Ladi,Foron,2,9.7,8.95,North,ng-pl,2015,5/8/2015,8/21/2021 23:42,8/21/2021 23:42
+1087,farmers_herdsmen,Plateau,Barkin Ladi,Barkin Ladi,2,9.5333,8.9,North,ng-pl,2015,5/5/2015,8/21/2021 23:42,8/21/2021 23:42
+1088,farmers_herdsmen,Plateau,Barkin Ladi,Foron,15,9.7,8.95,North,ng-pl,2015,5/4/2015,8/21/2021 23:42,8/21/2021 23:42
+1089,farmers_herdsmen,Plateau,Barkin Ladi,Foron,15,9.7,8.95,North,ng-pl,2015,5/3/2015,8/21/2021 23:42,8/21/2021 23:42
+1090,farmers_herdsmen,Benue,Agatu,Obangedde,23,7.828,7.8141,North,ng-be,2015,5/2/2015,8/21/2021 23:42,8/21/2021 23:42
+1091,farmers_herdsmen,Benue,Guma,Gbajimba,5,7.8155,8.8604,North,ng-be,2015,4/25/2015,8/21/2021 23:42,8/21/2021 23:42
+1092,farmers_herdsmen,Benue,Guma,Gbanu,5,7.95,8.6167,North,ng-be,2015,4/25/2015,8/21/2021 23:42,8/21/2021 23:42
+1093,farmers_herdsmen,Taraba,Donga,Donga,15,7.7167,10.05,North,ng-ta,2015,4/20/2015,8/21/2021 23:42,8/21/2021 23:42
+1094,farmers_herdsmen,Kwara,Moro,Aro,2,9.05,4.6167,North,ng-kw,2015,4/13/2015,8/21/2021 23:42,8/21/2021 23:42
+1095,farmers_herdsmen,Benue,Buruku,Agberga,6,7.4675,9.2396,North,ng-be,2015,4/2/2015,8/21/2021 23:42,8/21/2021 23:42
+1096,farmers_herdsmen,Benue,Logo,Tsevii,6,7.7718,9.2439,North,ng-be,2015,4/2/2015,8/21/2021 23:42,8/21/2021 23:42
+1097,farmers_herdsmen,Benue,Logo,Kulungu,9,7.729,9.2002,North,ng-be,2015,4/2/2015,8/21/2021 23:42,8/21/2021 23:42
+1098,farmers_herdsmen,Benue,Gboko,Abur,9,7.3833,8.7333,North,ng-be,2015,4/2/2015,8/21/2021 23:42,8/21/2021 23:42
+1099,farmers_herdsmen,Taraba,Donga,Ananum,5,7.65,10.2167,North,ng-ta,2015,3/23/2015,8/21/2021 23:42,8/21/2021 23:42
+1100,farmers_herdsmen,Enugu,Udi,Udi,1,6.3144,7.4258,East,ng-en,2015,3/19/2015,8/21/2021 23:42,8/21/2021 23:42
+1101,farmers_herdsmen,Benue,Otukpo,Egbla,90,7.0621,8.0775,North,ng-be,2015,3/15/2015,8/21/2021 23:42,8/21/2021 23:42
+1102,farmers_herdsmen,Plateau,Barkin Ladi,Barkin Ladi,4,9.5333,8.9,North,ng-pl,2015,3/11/2015,8/21/2021 23:42,8/21/2021 23:42
+1103,farmers_herdsmen,Benue,Logo,Ugba,2,7.5,9.3333,North,ng-be,2015,3/10/2015,8/21/2021 23:42,8/21/2021 23:42
+1104,farmers_herdsmen,Plateau,Barkin Ladi,Barkin Ladi,2,9.5333,8.9,North,ng-pl,2015,3/10/2015,8/21/2021 23:42,8/21/2021 23:42
+1105,farmers_herdsmen,Benue,Logo,Ugba,1,7.5,9.3333,North,ng-be,2015,3/9/2015,8/21/2021 23:42,8/21/2021 23:42
+1106,farmers_herdsmen,Plateau,Barkin Ladi,Barkin Ladi,7,9.5333,8.9,North,ng-pl,2015,3/8/2015,8/21/2021 23:42,8/21/2021 23:42
+1107,farmers_herdsmen,Benue,Logo,Ugba,1,7.5,9.3333,North,ng-be,2015,3/8/2015,8/21/2021 23:42,8/21/2021 23:42
+1108,farmers_herdsmen,Kaduna,Zangon Kataf,Yangal,8,9.75,8.1333,North,ng-kd,2015,2/17/2015,8/21/2021 23:42,8/21/2021 23:42
+1109,farmers_herdsmen,Benue,Buruku,Ukum,5,7.5021,9.1318,North,ng-be,2015,2/10/2015,8/21/2021 23:42,8/21/2021 23:42
+1110,farmers_herdsmen,Benue,Agatu,Obangedde,5,7.828,7.8141,North,ng-be,2015,2/10/2015,8/21/2021 23:42,8/21/2021 23:42
+1111,farmers_herdsmen,Plateau,Bokkos,Bokkos,0,9.3,9,North,ng-pl,2015,2/7/2015,8/21/2021 23:42,8/21/2021 23:42
+1112,farmers_herdsmen,Niger,Mashegu,Asa,1,10.0024,5.5856,North,ng-ni,2015,2/7/2015,8/21/2021 23:42,8/21/2021 23:42
+1113,farmers_herdsmen,Benue,Buruku,Orogba,7,7.3605,9.2765,North,ng-be,2015,1/30/2015,8/21/2021 23:42,8/21/2021 23:42
+1114,farmers_herdsmen,Benue,Makurdi,Mgbekpa,7,7.6618,8.4828,North,ng-be,2015,1/30/2015,8/21/2021 23:42,8/21/2021 23:42
+1115,farmers_herdsmen,Benue,Ushongo,Tseshigbe,7,7.028,9.136,North,ng-be,2015,1/30/2015,8/21/2021 23:42,8/21/2021 23:42
+1116,farmers_herdsmen,Benue,Buruku,Orogba,3,7.3605,9.2765,North,ng-be,2015,1/30/2015,8/21/2021 23:42,8/21/2021 23:42
+1117,farmers_herdsmen,Benue,Ukum,Tsechebe,7,7.6922,9.6128,North,ng-be,2015,1/30/2015,8/21/2021 23:42,8/21/2021 23:42
+1118,farmers_herdsmen,Benue,Buruku,Tsemue,2,7.5608,9.0916,North,ng-be,2015,1/30/2015,8/21/2021 23:42,8/21/2021 23:42
+1119,farmers_herdsmen,Benue,Buruku,Tsemue,7,7.5608,9.0916,North,ng-be,2015,1/30/2015,8/21/2021 23:42,8/21/2021 23:42
+1120,farmers_herdsmen,Taraba,Wukari,Wukari,30,7.85,9.7833,North,ng-ta,2015,1/29/2015,8/21/2021 23:42,8/21/2021 23:42
+1121,farmers_herdsmen,Kaduna,Zangon Kataf,Yangal,7,9.75,8.1333,North,ng-kd,2015,1/27/2015,8/21/2021 23:42,8/21/2021 23:42
+1122,farmers_herdsmen,Benue,Agatu,Obangedde,7,7.828,7.8141,North,ng-be,2015,1/26/2015,8/21/2021 23:42,8/21/2021 23:42
+1123,farmers_herdsmen,Benue,Agatu,Okokolo,2,7.8677,8.0949,North,ng-be,2015,1/26/2015,8/21/2021 23:42,8/21/2021 23:42
+1124,farmers_herdsmen,Benue,Ushongo,Abugbe,8,7.0613,9.0282,North,ng-be,2015,1/26/2015,8/21/2021 23:42,8/21/2021 23:42
+1125,farmers_herdsmen,Benue,Agatu,Obangedde,17,7.828,7.8141,North,ng-be,2015,1/25/2015,8/21/2021 23:42,8/21/2021 23:42
+1126,farmers_herdsmen,Taraba,Wukari,Kenti,9,7.9333,9.4833,North,ng-ta,2015,1/20/2015,8/21/2021 23:42,8/21/2021 23:42
+1127,farmers_herdsmen,Taraba,Wukari,Wukari,11,7.85,9.7833,North,ng-ta,2015,1/20/2015,8/21/2021 23:42,8/21/2021 23:42
+1128,farmers_herdsmen,Kogi,Lokoja,Lokoja,0,7.8024,6.743,,ng-ko,2015,1/10/2015,8/21/2021 23:42,8/21/2021 23:42
+1129,farmers_herdsmen,Plateau,Mangu,Mongu,2,9.5333,9.0833,North,ng-pl,2015,1/2/2015,8/21/2021 23:42,8/21/2021 23:42
+1130,farmers_herdsmen,Plateau,Barkin Ladi,Barkin Ladi,0,9.5333,8.9,North,ng-pl,2015,1/2/2015,8/21/2021 23:42,8/21/2021 23:42
+1131,farmers_herdsmen,Kaduna,Kaura,Zankan,1,9.6167,8.5333,North,ng-kd,2015,1/2/2015,8/21/2021 23:42,8/21/2021 23:42
+1132,farmers_herdsmen,Plateau,Mangu,Mongu,2,9.5333,9.0833,North,ng-pl,2014,12/31/2014,8/21/2021 23:42,8/21/2021 23:42
+1133,farmers_herdsmen,Kaduna,Sanga,Tataura,10,9.2167,8.4667,North,ng-kd,2014,12/27/2014,8/21/2021 23:42,8/21/2021 23:42
+1134,farmers_herdsmen,Taraba,Donga,Sabon Gida,10,7.4667,10.3667,North,ng-ta,2014,12/17/2014,8/21/2021 23:42,8/21/2021 23:42
+1135,farmers_herdsmen,Kaduna,Igabi,Ungwan Daudu,10,10.9032,7.4816,North,ng-kd,2014,12/17/2014,8/21/2021 23:42,8/21/2021 23:42
+1136,farmers_herdsmen,Benue,Gboko,Adekaa,6,7.344,8.9998,North,ng-be,2014,12/16/2014,8/21/2021 23:42,8/21/2021 23:42
+1137,farmers_herdsmen,Nassarawa,Lafia,Ashige,14,8.5833,8.8167,North,ng-na,2014,12/3/2014,8/21/2021 23:42,8/21/2021 23:42
+1138,farmers_herdsmen,Kogi,Lokoja,Ahuji,5,8.5667,6.25,,ng-ko,2014,11/28/2014,8/21/2021 23:42,8/21/2021 23:42
+1139,farmers_herdsmen,Nassarawa,Keana,Kadarko,20,8.2333,8.5667,North,ng-na,2014,11/22/2014,8/21/2021 23:42,8/21/2021 23:42
+1140,farmers_herdsmen,Nassarawa,Lafia,Shabu,3,8.5667,8.55,North,ng-na,2014,11/16/2014,8/21/2021 23:42,8/21/2021 23:42
+1141,farmers_herdsmen,Nassarawa,Lafia,Arikia,25,8.8167,8.6833,North,ng-na,2014,11/8/2014,8/21/2021 23:42,8/21/2021 23:42
+1142,farmers_herdsmen,Delta,Ndokwa East,Umuachi-Ator,1,5.7882,6.4587,South,ng-de,2014,11/1/2014,8/21/2021 23:42,8/21/2021 23:42
+1143,farmers_herdsmen,Nassarawa,Lafia,Lafia,15,8.4833,8.5167,North,ng-na,2014,10/21/2014,8/21/2021 23:42,8/21/2021 23:42
+1144,farmers_herdsmen,Taraba,Wukari,Wukari,13,7.85,9.7833,North,ng-ta,2014,10/19/2014,8/21/2021 23:42,8/21/2021 23:42
+1145,farmers_herdsmen,Taraba,Wukari,Gindiwaya,12,8.0833,9.7833,North,ng-ta,2014,10/19/2014,8/21/2021 23:42,8/21/2021 23:42
+1146,farmers_herdsmen,Katsina,Kankara,Kankara,5,11.9302,7.4127,North,ng-kt,2014,10/14/2014,8/21/2021 23:42,8/21/2021 23:42
+1147,farmers_herdsmen,Plateau,Riyom,Bachit,6,9.5167,8.7,North,ng-pl,2014,10/11/2014,8/21/2021 23:42,8/21/2021 23:42
+1148,farmers_herdsmen,Plateau,Riyom,Bachit,2,9.5167,8.7,North,ng-pl,2014,10/10/2014,8/21/2021 23:42,8/21/2021 23:42
+1149,farmers_herdsmen,Plateau,Riyom,Rim,2,9.55,8.75,North,ng-pl,2014,10/9/2014,8/21/2021 23:42,8/21/2021 23:42
+1150,farmers_herdsmen,Plateau,Riyom,Bachit,27,9.5167,8.7,North,ng-pl,2014,10/9/2014,8/21/2021 23:42,8/21/2021 23:42
+1151,farmers_herdsmen,Plateau,Riyom,Bachit,2,9.5167,8.7,North,ng-pl,2014,10/8/2014,8/21/2021 23:42,8/21/2021 23:42
+1152,farmers_herdsmen,Plateau,Riyom,Bachit,2,9.5167,8.7,North,ng-pl,2014,10/7/2014,8/21/2021 23:42,8/21/2021 23:42
+1153,farmers_herdsmen,Plateau,Riyom,Bachit,2,9.5167,8.7,North,ng-pl,2014,10/6/2014,8/21/2021 23:42,8/21/2021 23:42
+1154,farmers_herdsmen,Plateau,Riyom,Bachit,3,9.5167,8.7,North,ng-pl,2014,10/5/2014,8/21/2021 23:42,8/21/2021 23:42
+1155,farmers_herdsmen,Nassarawa,Obi,Obi,0,8.3667,8.7667,North,ng-na,2014,10/4/2014,8/21/2021 23:42,8/21/2021 23:42
+1156,farmers_herdsmen,Benue,Guma,Zongo,2,7.8833,8.6761,North,ng-be,2014,10/4/2014,8/21/2021 23:42,8/21/2021 23:42
+1157,farmers_herdsmen,Plateau,Riyom,Bachit,3,9.5167,8.7,North,ng-pl,2014,10/4/2014,8/21/2021 23:42,8/21/2021 23:42
+1158,farmers_herdsmen,Plateau,Riyom,Bachit,3,9.5167,8.7,North,ng-pl,2014,10/3/2014,8/21/2021 23:42,8/21/2021 23:42
+1159,farmers_herdsmen,Plateau,Riyom,Dum,3,9.512,8.7047,North,ng-pl,2014,10/2/2014,8/21/2021 23:42,8/21/2021 23:42
+1160,farmers_herdsmen,Plateau,Riyom,Bachit,3,9.5167,8.7,North,ng-pl,2014,10/2/2014,8/21/2021 23:42,8/21/2021 23:42
+1161,farmers_herdsmen,Benue,Ukum,Mbasongo,4,7.6247,9.6602,North,ng-be,2014,9/26/2014,8/21/2021 23:42,8/21/2021 23:42
+1162,farmers_herdsmen,Benue,Ukum,Mbasongo,4,7.6247,9.6602,North,ng-be,2014,9/26/2014,8/21/2021 23:42,8/21/2021 23:42
+1163,farmers_herdsmen,Nassarawa,Nasarawa,Gidan Musa,10,7.9633,8.0195,North,ng-na,2014,9/23/2014,8/21/2021 23:42,8/21/2021 23:42
+1164,farmers_herdsmen,Kaduna,Sanga,Sanga,20,9.3167,8.45,North,ng-kd,2014,9/18/2014,8/21/2021 23:42,8/21/2021 23:42
+1165,farmers_herdsmen,Kaduna,Kauru,Fadan Kaibi,12,10.2779,8.284,North,ng-kd,2014,9/18/2014,8/21/2021 23:42,8/21/2021 23:42
+1166,farmers_herdsmen,Kano,Tudun Wada,Unguwan Ganji,0,11.3712,8.7605,North,ng-kn,2014,9/18/2014,8/21/2021 23:42,8/21/2021 23:42
+1167,farmers_herdsmen,Plateau,Bokkos,Mbar,5,9.2667,8.95,North,ng-pl,2014,9/14/2014,8/21/2021 23:42,8/21/2021 23:42
+1168,farmers_herdsmen,Taraba,Wukari,Tunari,20,7.9167,10.0667,North,ng-ta,2014,9/14/2014,8/21/2021 23:42,8/21/2021 23:42
+1169,farmers_herdsmen,Nassarawa,Lafia,Gidan Mai Akwiya,6,8.55,8.7333,North,ng-na,2014,9/3/2014,8/21/2021 23:42,8/21/2021 23:42
+1170,farmers_herdsmen,Nassarawa,Nasarawa,Nasarawa,55,8.5458,7.7119,North,ng-na,2014,9/2/2014,8/21/2021 23:42,8/21/2021 23:42
+1171,farmers_herdsmen,Nassarawa,Nasarawa,Nasarawa,0,8.5458,7.7119,North,ng-na,2014,8/27/2014,8/21/2021 23:42,8/21/2021 23:42
+1172,farmers_herdsmen,Nassarawa,Kokona,Abadu,40,8.7517,7.9578,North,ng-na,2014,8/27/2014,8/21/2021 23:42,8/21/2021 23:42
+1173,farmers_herdsmen,Nassarawa,Wamba,Wamba,0,8.9333,8.6,North,ng-na,2014,8/27/2014,8/21/2021 23:42,8/21/2021 23:42
+1174,farmers_herdsmen,Nassarawa,Akwanga,Akwanga,0,8.9167,8.3833,North,ng-na,2014,8/27/2014,8/21/2021 23:42,8/21/2021 23:42
+1175,farmers_herdsmen,Taraba,Wukari,Wukari,0,7.85,9.7833,North,ng-ta,2014,8/25/2014,8/21/2021 23:42,8/21/2021 23:42
+1176,farmers_herdsmen,Nassarawa,Lafia,Lafia,0,8.4833,8.5167,North,ng-na,2014,8/25/2014,8/21/2021 23:42,8/21/2021 23:42
+1177,farmers_herdsmen,Taraba,Wukari,Wukari,0,7.85,9.7833,North,ng-ta,2014,8/25/2014,8/21/2021 23:42,8/21/2021 23:42
+1178,farmers_herdsmen,Nassarawa,Obi,Obi,0,8.3667,8.7667,North,ng-na,2014,8/25/2014,8/21/2021 23:42,8/21/2021 23:42
+1179,farmers_herdsmen,Nassarawa,Obi,Obi,0,8.3667,8.7667,North,ng-na,2014,8/24/2014,8/21/2021 23:42,8/21/2021 23:42
+1180,farmers_herdsmen,Nassarawa,Lafia,Lafia,0,8.4833,8.5167,North,ng-na,2014,8/24/2014,8/21/2021 23:42,8/21/2021 23:42
+1181,farmers_herdsmen,Nassarawa,Lafia,Achigogo,17,8.6,8.85,North,ng-na,2014,8/24/2014,8/21/2021 23:42,8/21/2021 23:42
+1182,farmers_herdsmen,Taraba,Wukari,Wukari,13,7.85,9.7833,North,ng-ta,2014,8/24/2014,8/21/2021 23:42,8/21/2021 23:42
+1183,farmers_herdsmen,Nassarawa,Obi,Obi,0,8.3667,8.7667,North,ng-na,2014,8/23/2014,8/21/2021 23:42,8/21/2021 23:42
+1184,farmers_herdsmen,Nassarawa,Lafia,Lafia,0,8.4833,8.5167,North,ng-na,2014,8/23/2014,8/21/2021 23:42,8/21/2021 23:42
+1185,farmers_herdsmen,Taraba,Wukari,Wukari,6,7.85,9.7833,North,ng-ta,2014,8/23/2014,8/21/2021 23:42,8/21/2021 23:42
+1186,farmers_herdsmen,Plateau,Shendam,Yelwa,14,8.8333,9.6333,North,ng-pl,2014,8/11/2014,8/21/2021 23:42,8/21/2021 23:42
+1187,farmers_herdsmen,Plateau,Jos North,Zarazeng,2,9.8888,8.9615,North,ng-pl,2014,8/11/2014,8/21/2021 23:42,8/21/2021 23:42
+1188,farmers_herdsmen,Kaduna,Birnin Gwari,Dogara,4,10.7295,6.401,North,ng-kd,2014,8/7/2014,8/21/2021 23:42,8/21/2021 23:42
+1189,farmers_herdsmen,Benue,Otukpo,Oturkpo,1,7.1914,8.1333,North,ng-be,2014,7/20/2014,8/21/2021 23:42,8/21/2021 23:42
+1190,farmers_herdsmen,Plateau,Jos North,Radung,5,9.9667,8.9167,North,ng-pl,2014,7/15/2014,8/21/2021 23:42,8/21/2021 23:42
+1191,farmers_herdsmen,Plateau,Shendam,Samia,5,8.9167,9.7667,North,ng-pl,2014,7/14/2014,8/21/2021 23:42,8/21/2021 23:42
+1192,farmers_herdsmen,Plateau,Langtang North,Zamadede,6,9.0327,9.7814,North,ng-pl,2014,7/14/2014,8/21/2021 23:42,8/21/2021 23:42
+1193,farmers_herdsmen,Taraba,Bali,Bali,45,7.8667,10.9667,North,ng-ta,2014,7/5/2014,8/21/2021 23:42,8/21/2021 23:42
+1194,farmers_herdsmen,Taraba,Wukari,Bantaji,1,8.1,10.1,North,ng-ta,2014,7/1/2014,8/21/2021 23:42,8/21/2021 23:42
+1195,farmers_herdsmen,Kaduna,Sanga,Gwantu,10,9.25,8.45,North,ng-kd,2014,6/28/2014,8/21/2021 23:42,8/21/2021 23:42
+1196,farmers_herdsmen,Kaduna,Sanga,Sanga,32,9.3167,8.45,North,ng-kd,2014,6/27/2014,8/21/2021 23:42,8/21/2021 23:42
+1197,farmers_herdsmen,Kaduna,Igabi,Gani,9,10.8499,7.3017,North,ng-kd,2014,6/24/2014,8/21/2021 23:42,8/21/2021 23:42
+1198,farmers_herdsmen,Plateau,Bassa,Kadamu,5,10.2354,8.7662,North,ng-pl,2014,6/24/2014,8/21/2021 23:42,8/21/2021 23:42
+1199,farmers_herdsmen,Kaduna,Lere,Dogon Daji,21,10.311,8.545,North,ng-kd,2014,6/24/2014,8/21/2021 23:42,8/21/2021 23:42
+1200,farmers_herdsmen,Kaduna,Sanga,Nandu,16,9.2333,8.5167,North,ng-kd,2014,6/24/2014,8/21/2021 23:42,8/21/2021 23:42
+1201,farmers_herdsmen,Kano,Doguwa,Hayin Kano,5,10.8005,8.5758,North,ng-kn,2014,6/24/2014,8/21/2021 23:42,8/21/2021 23:42
+1202,farmers_herdsmen,Kaduna,Igabi,Kabar,4,10.6325,7.6838,North,ng-kd,2014,6/24/2014,8/21/2021 23:42,8/21/2021 23:42
+1203,farmers_herdsmen,Kaduna,Sanga,Nandu,4,9.2333,8.5167,North,ng-kd,2014,6/24/2014,8/21/2021 23:42,8/21/2021 23:42
+1204,farmers_herdsmen,Kaduna,Sanga,Sanga,38,9.3167,8.45,North,ng-kd,2014,6/24/2014,8/21/2021 23:42,8/21/2021 23:42
+1205,farmers_herdsmen,Plateau,Bassa,Kadamu,30,10.2354,8.7662,North,ng-pl,2014,6/24/2014,8/21/2021 23:42,8/21/2021 23:42
+1206,farmers_herdsmen,Kaduna,Kauru,Fadan Kaibi,21,10.2779,8.284,North,ng-kd,2014,6/23/2014,8/21/2021 23:42,8/21/2021 23:42
+1207,farmers_herdsmen,Kaduna,Sanga,Sanga,20,9.3167,8.45,North,ng-kd,2014,6/23/2014,8/21/2021 23:42,8/21/2021 23:42
+1208,farmers_herdsmen,Plateau,Bassa,Kadamu,4,10.2354,8.7662,North,ng-pl,2014,6/23/2014,8/21/2021 23:42,8/21/2021 23:42
+1209,farmers_herdsmen,Kaduna,Sanga,Nandu,4,9.2333,8.5167,North,ng-kd,2014,6/23/2014,8/21/2021 23:42,8/21/2021 23:42
+1210,farmers_herdsmen,Bauchi,Bogoro,Bogoro,0,9.6667,9.6,North,ng-ba,2014,6/18/2014,8/21/2021 23:42,8/21/2021 23:42
+1211,farmers_herdsmen,Taraba,Donga,Ananum,7,7.65,10.2167,North,ng-ta,2014,6/8/2014,8/21/2021 23:42,8/21/2021 23:42
+1212,farmers_herdsmen,Federal Capital Territory,Gwagwalada,Gwagwalada,4,8.9414,7.0919,,ng-fc,2014,6/5/2014,8/21/2021 23:42,8/21/2021 23:42
+1213,farmers_herdsmen,Taraba,Wukari,Wukari,16,7.85,9.7833,North,ng-ta,2014,5/25/2014,8/21/2021 23:42,8/21/2021 23:42
+1214,farmers_herdsmen,Benue,Gboko,Yandev,0,7.3667,9.05,North,ng-be,2014,5/21/2014,8/21/2021 23:42,8/21/2021 23:42
+1215,farmers_herdsmen,Kogi,Dekina,Dekina,3,7.6897,7.0438,,ng-ko,2014,5/18/2014,8/21/2021 23:42,8/21/2021 23:42
+1216,farmers_herdsmen,Kogi,Omala,Abejukolo,4,7.8681,7.5091,,ng-ko,2014,5/18/2014,8/21/2021 23:42,8/21/2021 23:42
+1217,farmers_herdsmen,Taraba,Bali,Kungana Habe,7,7.8167,10.5833,North,ng-ta,2014,5/13/2014,8/21/2021 23:42,8/21/2021 23:42
+1218,farmers_herdsmen,Taraba,Gassol,Gassol,4,8.5333,10.4667,North,ng-ta,2014,5/11/2014,8/21/2021 23:42,8/21/2021 23:42
+1219,farmers_herdsmen,Benue,Vandeikya,Vande Ikya,0,6.7838,9.0677,North,ng-be,2014,4/20/2014,8/21/2021 23:42,8/21/2021 23:42
+1220,farmers_herdsmen,Benue,Agatu,Obangedde,12,7.828,7.8141,North,ng-be,2014,4/15/2014,8/21/2021 23:42,8/21/2021 23:42
+1221,farmers_herdsmen,Taraba,Wukari,Wukari,5,7.85,9.7833,North,ng-ta,2014,4/15/2014,8/21/2021 23:42,8/21/2021 23:42
+1222,farmers_herdsmen,Benue,Agatu,Obangedde,6,7.828,7.8141,North,ng-be,2014,4/14/2014,8/21/2021 23:42,8/21/2021 23:42
+1223,farmers_herdsmen,Taraba,Wukari,Wukari,4,7.85,9.7833,North,ng-ta,2014,4/14/2014,8/21/2021 23:42,8/21/2021 23:42
+1224,farmers_herdsmen,Benue,Logo,Ugba,3,7.5,9.3333,North,ng-be,2014,4/11/2014,8/21/2021 23:42,8/21/2021 23:42
+1225,farmers_herdsmen,Benue,Agatu,Obangedde,2,7.828,7.8141,North,ng-be,2014,4/11/2014,8/21/2021 23:42,8/21/2021 23:42
+1226,farmers_herdsmen,Zamfara,Bungudu,Galadima,100,12.1243,6.5346,North,ng-za,2014,4/6/2014,8/21/2021 23:42,8/21/2021 23:42
+1227,farmers_herdsmen,Zamfara,Bungudu,Galadima,100,12.1243,6.5346,North,ng-za,2014,4/5/2014,8/21/2021 23:42,8/21/2021 23:42
+1228,farmers_herdsmen,Benue,Agatu,Obangedde,19,7.828,7.8141,North,ng-be,2014,3/29/2014,8/21/2021 23:42,8/21/2021 23:42
+1229,farmers_herdsmen,Benue,Gwer East,Ikpajough,60,7.4229,8.3362,North,ng-be,2014,3/25/2014,8/21/2021 23:42,8/21/2021 23:42
+1230,farmers_herdsmen,Benue,Katsina Ala,Katsina-Ala,4,7.1693,9.2846,North,ng-be,2014,3/24/2014,8/21/2021 23:42,8/21/2021 23:42
+1231,farmers_herdsmen,Benue,Guma,Gbajimba,18,7.8155,8.8604,North,ng-be,2014,3/23/2014,8/21/2021 23:42,8/21/2021 23:42
+1232,farmers_herdsmen,Plateau,Jos North,Jos,0,9.9285,8.8921,North,ng-pl,2014,3/23/2014,8/21/2021 23:42,8/21/2021 23:42
+1233,farmers_herdsmen,Taraba,Ibi,Ibi,7,8.1833,9.75,North,ng-ta,2014,3/23/2014,8/21/2021 23:42,8/21/2021 23:42
+1234,farmers_herdsmen,Benue,Guma,Gbajimba,17,7.8155,8.8604,North,ng-be,2014,3/23/2014,8/21/2021 23:42,8/21/2021 23:42
+1235,farmers_herdsmen,Plateau,Jos North,Jos,0,9.9285,8.8921,North,ng-pl,2014,3/23/2014,8/21/2021 23:42,8/21/2021 23:42
+1236,farmers_herdsmen,Benue,Makurdi,Makurdi,5,7.7411,8.5121,North,ng-be,2014,3/18/2014,8/21/2021 23:42,8/21/2021 23:42
+1237,farmers_herdsmen,Benue,Guma,Agasha,23,7.7166,8.899,North,ng-be,2014,3/17/2014,8/21/2021 23:42,8/21/2021 23:42
+1238,farmers_herdsmen,Benue,Konshisha,Tulen,0,7.1667,8.6167,North,ng-be,2014,3/17/2014,8/21/2021 23:42,8/21/2021 23:42
+1239,farmers_herdsmen,Benue,Gboko,Anyia,23,7.3469,8.7986,North,ng-be,2014,3/13/2014,8/21/2021 23:42,8/21/2021 23:42
+1240,farmers_herdsmen,Benue,Guma,Gbajimba,6,7.8155,8.8604,North,ng-be,2014,3/11/2014,8/21/2021 23:42,8/21/2021 23:42
+1241,farmers_herdsmen,Katsina,Faskari,Faskari,51,11.7196,7.0272,North,ng-kt,2014,3/11/2014,8/21/2021 23:42,8/21/2021 23:42
+1242,farmers_herdsmen,Benue,Makurdi,Ukor,6,7.8859,8.5173,North,ng-be,2014,3/11/2014,8/21/2021 23:42,8/21/2021 23:42
+1243,farmers_herdsmen,Benue,Guma,Ukpiam,6,7.9706,8.6361,North,ng-be,2014,3/11/2014,8/21/2021 23:42,8/21/2021 23:42
+1244,farmers_herdsmen,Benue,Guma,Gbajimba,0,7.8155,8.8604,North,ng-be,2014,3/11/2014,8/21/2021 23:42,8/21/2021 23:42
+1245,farmers_herdsmen,Benue,Ushongo,Kaityo,6,7.1888,8.9389,North,ng-be,2014,3/11/2014,8/21/2021 23:42,8/21/2021 23:42
+1246,farmers_herdsmen,Kaduna,Kachia,Kurmin Mata,5,9.65,7.9833,North,ng-kd,2014,3/11/2014,8/21/2021 23:42,8/21/2021 23:42
+1247,farmers_herdsmen,Benue,Guma,Daudu,6,7.9177,8.5957,North,ng-be,2014,3/11/2014,8/21/2021 23:42,8/21/2021 23:42
+1248,farmers_herdsmen,Benue,Kwande,Adikpo,13,6.8879,9.2355,North,ng-be,2014,3/6/2014,8/21/2021 23:42,8/21/2021 23:42
+1249,farmers_herdsmen,Benue,Makurdi,Makurdi,2,7.7411,8.5121,North,ng-be,2014,2/22/2014,8/21/2021 23:42,8/21/2021 23:42
+1250,farmers_herdsmen,Plateau,Barkin Ladi,Barkin Ladi,29,9.5333,8.9,North,ng-pl,2014,2/22/2014,8/21/2021 23:42,8/21/2021 23:42
+1251,farmers_herdsmen,Benue,Gwer West,Naka,18,7.5887,8.2087,North,ng-be,2014,2/21/2014,8/21/2021 23:42,8/21/2021 23:42
+1252,farmers_herdsmen,Benue,Gwer West,Naka,17,7.5887,8.2087,North,ng-be,2014,2/20/2014,8/21/2021 23:42,8/21/2021 23:42
+1253,farmers_herdsmen,Benue,Guma,Gbajimba,8,7.8155,8.8604,North,ng-be,2014,2/18/2014,8/21/2021 23:42,8/21/2021 23:42
+1254,farmers_herdsmen,Nassarawa,Keana,Kadarko,5,8.2333,8.5667,North,ng-na,2014,2/16/2014,8/21/2021 23:42,8/21/2021 23:42
+1255,farmers_herdsmen,Benue,Makurdi,Apir,4,7.6333,8.55,North,ng-be,2014,2/8/2014,8/21/2021 23:42,8/21/2021 23:42
+1256,farmers_herdsmen,Plateau,Wase,Wase,22,9.1,9.9667,North,ng-pl,2014,2/6/2014,8/21/2021 23:42,8/21/2021 23:42
+1257,farmers_herdsmen,Benue,Makurdi,Makurdi,1,7.7411,8.5121,North,ng-be,2014,2/6/2014,8/21/2021 23:42,8/21/2021 23:42
+1258,farmers_herdsmen,Plateau,Wase,Wase Rock,0,9.0667,9.9667,North,ng-pl,2014,2/5/2014,8/21/2021 23:42,8/21/2021 23:42
+1259,farmers_herdsmen,Plateau,Jos South,Riyom,30,9.6333,8.7667,North,ng-pl,2014,2/4/2014,8/21/2021 23:42,8/21/2021 23:42
+1260,farmers_herdsmen,Benue,Agatu,Obangedde,6,7.828,7.8141,North,ng-be,2014,1/23/2014,8/21/2021 23:42,8/21/2021 23:42
+1261,farmers_herdsmen,Benue,Makurdi,Makurdi,20,7.7411,8.5121,North,ng-be,2014,1/19/2014,8/21/2021 23:42,8/21/2021 23:42
+1262,farmers_herdsmen,Benue,Agatu,Obangedde,36,7.828,7.8141,North,ng-be,2014,1/9/2014,8/21/2021 23:42,8/21/2021 23:42
+1263,farmers_herdsmen,Plateau,Riyom,Bachit,16,9.5167,8.7,North,ng-pl,2014,1/6/2014,8/21/2021 23:42,8/21/2021 23:42
+1264,farmers_herdsmen,Kaduna,Kaura,Kaura,5,9.6681,8.4583,North,ng-kd,2014,1/5/2014,8/21/2021 23:42,8/21/2021 23:42
+1265,farmers_herdsmen,Kaduna,Kagarko,Jere,1,9.5668,7.4346,North,ng-kd,2014,1/3/2014,8/21/2021 23:42,8/21/2021 23:42
+1266,farmers_herdsmen,Plateau,Bokkos,Bokkos,2,9.3,9,North,ng-pl,2013,12/31/2013,8/21/2021 23:42,8/21/2021 23:42
+1267,farmers_herdsmen,Benue,Guma,Agasha,7,7.7166,8.899,North,ng-be,2013,12/27/2013,8/21/2021 23:42,8/21/2021 23:42
+1268,farmers_herdsmen,Benue,Guma,Gbajimba,15,7.8155,8.8604,North,ng-be,2013,12/23/2013,8/21/2021 23:42,8/21/2021 23:42
+1269,farmers_herdsmen,Kaduna,Birnin Gwari,Magajiya,2,10.9775,6.4527,North,ng-kd,2013,12/21/2013,8/21/2021 23:42,8/21/2021 23:42
+1270,farmers_herdsmen,Bayelsa,Sagbama,Sagbama,1,5.1633,6.2126,South,ng-by,2013,12/15/2013,8/21/2021 23:42,8/21/2021 23:42
+1271,farmers_herdsmen,Plateau,Barkin Ladi,Barkin Ladi,37,9.5333,8.9,North,ng-pl,2013,11/26/2013,8/21/2021 23:42,8/21/2021 23:42
+1272,farmers_herdsmen,Plateau,Shendam,Kuka,5,8.45,9.7,North,ng-pl,2013,11/24/2013,8/21/2021 23:42,8/21/2021 23:42
+1273,farmers_herdsmen,Delta,Isoko North,Oghara,2,5.4842,6.0785,South,ng-de,2013,11/23/2013,8/21/2021 23:42,8/21/2021 23:42
+1274,farmers_herdsmen,Taraba,Karim Lamidu,Karim Lamido,4,9.3,11.2,North,ng-ta,2013,11/10/2013,8/21/2021 23:42,8/21/2021 23:42
+1275,farmers_herdsmen,Benue,Makurdi,Makurdi,6,7.7411,8.5121,North,ng-be,2013,11/10/2013,8/21/2021 23:42,8/21/2021 23:42
+1276,farmers_herdsmen,Benue,Agatu,Obangedde,36,7.828,7.8141,North,ng-be,2013,11/9/2013,8/21/2021 23:42,8/21/2021 23:42
+1277,farmers_herdsmen,Benue,Agatu,Ikpele,3,7.9411,7.7622,North,ng-be,2013,11/7/2013,8/21/2021 23:42,8/21/2021 23:42
+1278,farmers_herdsmen,Benue,Agatu,Okokolo,3,7.8677,8.0949,North,ng-be,2013,11/7/2013,8/21/2021 23:42,8/21/2021 23:42
+1279,farmers_herdsmen,Katsina,Batagarawa,Batagarawa,1,12.9031,7.6194,North,ng-kt,2013,10/30/2013,8/21/2021 23:42,8/21/2021 23:42
+1280,farmers_herdsmen,Jigawa,Guri,Guri,1,12.7267,10.4205,North,ng-ji,2013,10/25/2013,8/21/2021 23:42,8/21/2021 23:42
+1281,farmers_herdsmen,Plateau,Barkin Ladi,Foron,9,9.7,8.95,North,ng-pl,2013,10/11/2013,8/21/2021 23:42,8/21/2021 23:42
+1282,farmers_herdsmen,Plateau,Jos South,Pandadi,16,9.7483,8.8806,North,ng-pl,2013,10/10/2013,8/21/2021 23:42,8/21/2021 23:42
+1283,farmers_herdsmen,Nassarawa,Awe,Awe,4,8.1,9.1333,North,ng-na,2013,10/9/2013,8/21/2021 23:42,8/21/2021 23:42
+1284,farmers_herdsmen,Benue,Makurdi,Makurdi,3,7.7411,8.5121,North,ng-be,2013,10/4/2013,8/21/2021 23:42,8/21/2021 23:42
+1285,farmers_herdsmen,Benue,Agatu,Obangedde,15,7.828,7.8141,North,ng-be,2013,9/26/2013,8/21/2021 23:42,8/21/2021 23:42
+1286,farmers_herdsmen,Zamfara,Maru,Maru,0,12.3342,6.4057,North,ng-za,2013,9/19/2013,8/21/2021 23:42,8/21/2021 23:42
+1287,farmers_herdsmen,Zamfara,Anka,Wuya,0,12.0688,6.0902,North,ng-za,2013,9/19/2013,8/21/2021 23:42,8/21/2021 23:42
+1288,farmers_herdsmen,Zamfara,Kiyawa,Sabon-Birni,0,12.5436,6.8113,North,ng-za,2013,9/19/2013,8/21/2021 23:42,8/21/2021 23:42
+1289,farmers_herdsmen,Niger,Lapai,Saminaka,0,9.1,6.75,North,ng-ni,2013,9/19/2013,8/21/2021 23:42,8/21/2021 23:42
+1290,farmers_herdsmen,Zamfara,Anka,Anka,0,12.1138,5.9243,North,ng-za,2013,9/19/2013,8/21/2021 23:42,8/21/2021 23:42
+1291,farmers_herdsmen,Zamfara,Maru,Daraga,0,11.5841,5.9771,North,ng-za,2013,9/19/2013,8/21/2021 23:42,8/21/2021 23:42
+1292,farmers_herdsmen,Zamfara,Maru,Dan Gulbi,0,11.649,6.2462,North,ng-za,2013,9/19/2013,8/21/2021 23:42,8/21/2021 23:42
+1293,farmers_herdsmen,Niger,Lapai,Saminaka,0,9.1,6.75,North,ng-ni,2013,9/18/2013,8/21/2021 23:42,8/21/2021 23:42
+1294,farmers_herdsmen,Zamfara,Kiyawa,Sabon-Birni,0,12.5436,6.8113,North,ng-za,2013,9/18/2013,8/21/2021 23:42,8/21/2021 23:42
+1295,farmers_herdsmen,Zamfara,Maru,Maru,0,12.3342,6.4057,North,ng-za,2013,9/18/2013,8/21/2021 23:42,8/21/2021 23:42
+1296,farmers_herdsmen,Zamfara,Maru,Daraga,0,11.5841,5.9771,North,ng-za,2013,9/18/2013,8/21/2021 23:42,8/21/2021 23:42
+1297,farmers_herdsmen,Zamfara,Anka,Anka,0,12.1138,5.9243,North,ng-za,2013,9/18/2013,8/21/2021 23:42,8/21/2021 23:42
+1298,farmers_herdsmen,Zamfara,Anka,Wuya,0,12.0688,6.0902,North,ng-za,2013,9/18/2013,8/21/2021 23:42,8/21/2021 23:42
+1299,farmers_herdsmen,Zamfara,Maru,Dan Gulbi,0,11.649,6.2462,North,ng-za,2013,9/18/2013,8/21/2021 23:42,8/21/2021 23:42
+1300,farmers_herdsmen,Zamfara,Maru,Maru,0,12.3342,6.4057,North,ng-za,2013,9/17/2013,8/21/2021 23:42,8/21/2021 23:42
+1301,farmers_herdsmen,Niger,Lapai,Saminaka,0,9.1,6.75,North,ng-ni,2013,9/17/2013,8/21/2021 23:42,8/21/2021 23:42
+1302,farmers_herdsmen,Zamfara,Maru,Dan Gulbi,0,11.649,6.2462,North,ng-za,2013,9/17/2013,8/21/2021 23:42,8/21/2021 23:42
+1303,farmers_herdsmen,Zamfara,Kiyawa,Sabon-Birni,0,12.5436,6.8113,North,ng-za,2013,9/17/2013,8/21/2021 23:42,8/21/2021 23:42
+1304,farmers_herdsmen,Zamfara,Anka,Wuya,0,12.0688,6.0902,North,ng-za,2013,9/17/2013,8/21/2021 23:42,8/21/2021 23:42
+1305,farmers_herdsmen,Zamfara,Anka,Anka,0,12.1138,5.9243,North,ng-za,2013,9/17/2013,8/21/2021 23:42,8/21/2021 23:42
+1306,farmers_herdsmen,Zamfara,Maru,Daraga,0,11.5841,5.9771,North,ng-za,2013,9/17/2013,8/21/2021 23:42,8/21/2021 23:42
+1307,farmers_herdsmen,Bauchi,Ganjuwa,Ganjuwa,6,10.8594,10.1688,North,ng-ba,2013,9/11/2013,8/21/2021 23:42,8/21/2021 23:42
+1308,farmers_herdsmen,Plateau,Langtang North,Langtang,4,9.1333,9.7833,North,ng-pl,2013,9/9/2013,8/21/2021 23:42,8/21/2021 23:42
+1309,farmers_herdsmen,Zamfara,Bungudu,Bungudu,0,12.2672,6.5475,North,ng-za,2013,9/9/2013,8/21/2021 23:42,8/21/2021 23:42
+1310,farmers_herdsmen,Kaduna,Kaura,Kaura,2,9.6681,8.4583,North,ng-kd,2013,9/3/2013,8/21/2021 23:42,8/21/2021 23:42
+1311,farmers_herdsmen,Kwara,Ilorin East,Illorin,8,8.5,4.55,North,ng-kw,2013,9/2/2013,8/21/2021 23:42,8/21/2021 23:42
+1312,farmers_herdsmen,Niger,Mokwa,Mokwa,4,9.2833,5.05,North,ng-ni,2013,9/1/2013,8/21/2021 23:42,8/21/2021 23:42
+1313,farmers_herdsmen,Benue,Agatu,Obangedde,8,7.828,7.8141,North,ng-be,2013,7/28/2013,8/21/2021 23:42,8/21/2021 23:42
+1314,farmers_herdsmen,Plateau,Shendam,Shendam,1,8.8833,9.5333,North,ng-pl,2013,7/22/2013,8/21/2021 23:42,8/21/2021 23:42
+1315,farmers_herdsmen,Nassarawa,Awe,Awe,3,8.1,9.1333,North,ng-na,2013,7/8/2013,8/21/2021 23:42,8/21/2021 23:42
+1316,farmers_herdsmen,Benue,Guma,Gbajimba,34,7.8155,8.8604,North,ng-be,2013,7/7/2013,8/21/2021 23:42,8/21/2021 23:42
+1317,farmers_herdsmen,Benue,Gwer East,Iyorde,20,7.3132,8.3599,North,ng-be,2013,7/5/2013,8/21/2021 23:42,8/21/2021 23:42
+1318,farmers_herdsmen,Plateau,Langtang North,Langtang,48,9.1333,9.7833,North,ng-pl,2013,6/27/2013,8/21/2021 23:42,8/21/2021 23:42
+1319,farmers_herdsmen,Plateau,Barkin Ladi,Kogi,2,9.6833,9.05,North,ng-pl,2013,6/25/2013,8/21/2021 23:42,8/21/2021 23:42
+1320,farmers_herdsmen,Enugu,Uzo Uwani,Adani,0,6.7349,7.0157,East,ng-en,2013,6/17/2013,8/21/2021 23:42,8/21/2021 23:42
+1321,farmers_herdsmen,Niger,Shiroro,Kushaka,9,10.55,6.75,North,ng-ni,2013,6/5/2013,8/21/2021 23:42,8/21/2021 23:42
+1322,farmers_herdsmen,Plateau,Bokkos,Bokkos,6,9.3,9,North,ng-pl,2013,6/2/2013,8/21/2021 23:42,8/21/2021 23:42
+1323,farmers_herdsmen,Benue,Gwer East,Akough,17,7.4,8.5667,North,ng-be,2013,5/26/2013,8/21/2021 23:42,8/21/2021 23:42
+1324,farmers_herdsmen,Kaduna,Kaura,Manchok,11,9.6667,8.5167,North,ng-kd,2013,5/14/2013,8/21/2021 23:42,8/21/2021 23:42
+1325,farmers_herdsmen,Benue,Agatu,Obangedde,47,7.828,7.8141,North,ng-be,2013,5/12/2013,8/21/2021 23:42,8/21/2021 23:42
+1326,farmers_herdsmen,Kaduna,Kaura,Kaura,0,9.6681,8.4583,North,ng-kd,2013,5/12/2013,8/21/2021 23:42,8/21/2021 23:42
+1327,farmers_herdsmen,Taraba,Wukari,Wukari,30,7.85,9.7833,North,ng-ta,2013,5/4/2013,8/21/2021 23:42,8/21/2021 23:42
+1328,farmers_herdsmen,Kogi,Yagba West,Egbe,5,8.2167,5.5167,,ng-ko,2013,4/25/2013,8/21/2021 23:42,8/21/2021 23:42
+1329,farmers_herdsmen,Benue,Guma,Usaa,10,7.9461,8.6588,North,ng-be,2013,4/24/2013,8/21/2021 23:42,8/21/2021 23:42
+1330,farmers_herdsmen,Benue,Makurdi,Makurdi,2,7.7411,8.5121,North,ng-be,2013,4/19/2013,8/21/2021 23:42,8/21/2021 23:42
+1331,farmers_herdsmen,Borno,Damboa,Ajir,9,11.0441,12.6566,North,ng-bo,2013,4/19/2013,8/21/2021 23:42,8/21/2021 23:42
+1332,farmers_herdsmen,Plateau,Jos South,Riyom,0,9.6333,8.7667,North,ng-pl,2013,4/17/2013,8/21/2021 23:42,8/21/2021 23:42
+1333,farmers_herdsmen,Benue,Makurdi,Makurdi,27,7.7411,8.5121,North,ng-be,2013,4/9/2013,8/21/2021 23:42,8/21/2021 23:42
+1334,farmers_herdsmen,Plateau,Wase,Wase Rock,4,9.0667,9.9667,North,ng-pl,2013,4/6/2013,8/21/2021 23:42,8/21/2021 23:42
+1335,farmers_herdsmen,Benue,Guma,Yogbo,3,7.9974,8.4467,North,ng-be,2013,4/6/2013,8/21/2021 23:42,8/21/2021 23:42
+1336,farmers_herdsmen,Plateau,Langtang North,Langtang,7,9.1333,9.7833,North,ng-pl,2013,4/6/2013,8/21/2021 23:42,8/21/2021 23:42
+1337,farmers_herdsmen,Kaduna,Kaura,Kaura,21,9.6681,8.4583,North,ng-kd,2013,3/31/2013,8/21/2021 23:42,8/21/2021 23:42
+1338,farmers_herdsmen,Plateau,Barkin Ladi,Barkin Ladi,0,9.5333,8.9,North,ng-pl,2013,3/29/2013,8/21/2021 23:42,8/21/2021 23:42
+1339,farmers_herdsmen,Plateau,Bokkos,Bokkos,9,9.3,9,North,ng-pl,2013,3/29/2013,8/21/2021 23:42,8/21/2021 23:42
+1340,farmers_herdsmen,Plateau,Barkin Ladi,Mai Bakwai,18,9.6,9.0167,North,ng-pl,2013,3/27/2013,8/21/2021 23:42,8/21/2021 23:42
+1341,farmers_herdsmen,Benue,Gwer West,Naka,2,7.5887,8.2087,North,ng-be,2013,3/23/2013,8/21/2021 23:42,8/21/2021 23:42
+1342,farmers_herdsmen,Plateau,Jos South,Ganawuri,20,9.6833,8.7,North,ng-pl,2013,3/21/2013,8/21/2021 23:42,8/21/2021 23:42
+1343,farmers_herdsmen,Delta,Ughelli North,Uwheru,1,5.2411,6.0125,South,ng-de,2013,2/23/2013,8/21/2021 23:42,8/21/2021 23:42
+1344,farmers_herdsmen,Plateau,Jos North,Jos,10,9.9285,8.8921,North,ng-pl,2013,2/21/2013,8/21/2021 23:42,8/21/2021 23:42
+1345,farmers_herdsmen,Delta,Bomadi,Bomadi,2,5.1593,5.9252,South,ng-de,2013,2/19/2013,8/21/2021 23:42,8/21/2021 23:42
+1346,farmers_herdsmen,Kaduna,Sanga,Randa,30,9.1167,8.4831,North,ng-kd,2013,2/7/2013,8/21/2021 23:42,8/21/2021 23:42
+1347,farmers_herdsmen,Adamawa,Hong,Gandum Hills,11,10.3773,12.7645,North,ng-ad,2013,2/3/2013,8/21/2021 23:42,8/21/2021 23:42
+1348,farmers_herdsmen,Plateau,Jos North,Jos,0,9.9285,8.8921,North,ng-pl,2013,1/23/2013,8/21/2021 23:42,8/21/2021 23:42
+1349,farmers_herdsmen,Plateau,Wase,Wase,10,9.1,9.9667,North,ng-pl,2013,1/23/2013,8/21/2021 23:42,8/21/2021 23:42
+1350,farmers_herdsmen,Plateau,Wase,Wase,0,9.1,9.9667,North,ng-pl,2013,1/21/2013,8/21/2021 23:42,8/21/2021 23:42
+1351,farmers_herdsmen,Plateau,Jos South,Du,2,9.75,8.8833,North,ng-pl,2013,1/9/2013,8/21/2021 23:42,8/21/2021 23:42
+1352,farmers_herdsmen,Zamfara,Kiyawa,Birnin Magaji,0,12.5592,6.8946,North,ng-za,2013,1/5/2013,8/21/2021 23:42,8/21/2021 23:42
+1353,farmers_herdsmen,Zamfara,Kiyawa,Makera,3,12.4233,6.7983,North,ng-za,2013,1/5/2013,8/21/2021 23:42,8/21/2021 23:42
+1354,farmers_herdsmen,Zamfara,Bungudu,Usu,7,11.8333,6.4833,North,ng-za,2013,1/5/2013,8/21/2021 23:42,8/21/2021 23:42
+1355,farmers_herdsmen,Federal Capital Territory,Gwagwalada,Gwagwalada,2,8.9414,7.0919,,ng-fc,2012,12/30/2012,8/21/2021 23:42,8/21/2021 23:42
+1356,farmers_herdsmen,Plateau,Riyom,Rim,1,9.55,8.75,North,ng-pl,2012,12/27/2012,8/21/2021 23:42,8/21/2021 23:42
+1357,farmers_herdsmen,Ogun,Egbado North,Awja Awdaw,1,6.8833,2.85,West,ng-og,2012,12/22/2012,8/21/2021 23:42,8/21/2021 23:42
+1358,farmers_herdsmen,Plateau,Barkin Ladi,Haifam,5,9.6333,8.8833,North,ng-pl,2012,12/14/2012,8/21/2021 23:42,8/21/2021 23:42
+1359,farmers_herdsmen,Niger,Mashegu,Asa,0,10.0024,5.5856,North,ng-ni,2012,11/20/2012,8/21/2021 23:42,8/21/2021 23:42
+1360,farmers_herdsmen,Plateau,Barkin Ladi,Barkin Ladi,4,9.5333,8.9,North,ng-pl,2012,10/28/2012,8/21/2021 23:42,8/21/2021 23:42
+1361,farmers_herdsmen,Nassarawa,Keana,Kadarko,3,8.2333,8.5667,North,ng-na,2012,10/18/2012,8/21/2021 23:42,8/21/2021 23:42
+1362,farmers_herdsmen,Bauchi,Dass,Dass,4,10.0008,9.5161,North,ng-ba,2012,10/17/2012,8/21/2021 23:42,8/21/2021 23:42
+1363,farmers_herdsmen,Benue,Guma,Yogbo,30,7.9974,8.4467,North,ng-be,2012,10/14/2012,8/21/2021 23:42,8/21/2021 23:42
+1364,farmers_herdsmen,Plateau,Jos South,Riyom,4,9.6333,8.7667,North,ng-pl,2012,10/12/2012,8/21/2021 23:42,8/21/2021 23:42
+1365,farmers_herdsmen,Plateau,Jos South,Riyom,14,9.6333,8.7667,North,ng-pl,2012,10/10/2012,8/21/2021 23:42,8/21/2021 23:42
+1366,farmers_herdsmen,Plateau,Barkin Ladi,Ruku,3,9.4167,8.85,North,ng-pl,2012,10/9/2012,8/21/2021 23:42,8/21/2021 23:42
+1367,farmers_herdsmen,Enugu,Nsukka,Opi,0,6.7814,7.4365,East,ng-en,2012,10/1/2012,8/21/2021 23:42,8/21/2021 23:42
+1368,farmers_herdsmen,Plateau,Barkin Ladi,Sho,2,9.5167,8.8333,North,ng-pl,2012,8/23/2012,8/21/2021 23:42,8/21/2021 23:42
+1369,farmers_herdsmen,Enugu,Uzo Uwani,Nimbo,2,6.8167,7.1667,East,ng-en,2012,8/18/2012,8/21/2021 23:42,8/21/2021 23:42
+1370,farmers_herdsmen,Lagos,Lagos Island,Lagos,0,6.4531,3.3958,West,ng-la,2012,8/6/2012,8/21/2021 23:42,8/21/2021 23:42
+1371,farmers_herdsmen,Plateau,Barkin Ladi,Barkin Ladi,0,9.5333,8.9,North,ng-pl,2012,7/21/2012,8/21/2021 23:42,8/21/2021 23:42
+1372,farmers_herdsmen,Enugu,Nkanu West,Ozalla,1,6.3031,7.4836,East,ng-en,2012,7/18/2012,8/21/2021 23:42,8/21/2021 23:42
+1373,farmers_herdsmen,Plateau,Barkin Ladi,Barkin Ladi,22,9.5333,8.9,North,ng-pl,2012,7/8/2012,8/21/2021 23:42,8/21/2021 23:42
+1374,farmers_herdsmen,Plateau,Barkin Ladi,Barkin Ladi,29,9.5333,8.9,North,ng-pl,2012,7/7/2012,8/21/2021 23:42,8/21/2021 23:42
+1375,farmers_herdsmen,Plateau,Barkin Ladi,Barkin Ladi,15,9.5333,8.9,North,ng-pl,2012,7/7/2012,8/21/2021 23:42,8/21/2021 23:42
+1376,farmers_herdsmen,Niger,Agaie,Kankuru,8,9.1167,6.4667,North,ng-ni,2012,7/7/2012,8/21/2021 23:42,8/21/2021 23:42
+1377,farmers_herdsmen,Plateau,Jos South,Riyom,29,9.6333,8.7667,North,ng-pl,2012,7/7/2012,8/21/2021 23:42,8/21/2021 23:42
+1378,farmers_herdsmen,Plateau,Riyom,Rim,3,9.55,8.75,North,ng-pl,2012,6/28/2012,8/21/2021 23:42,8/21/2021 23:42
+1379,farmers_herdsmen,Plateau,Langtang North,Langtang,6,9.1333,9.7833,North,ng-pl,2012,6/23/2012,8/21/2021 23:42,8/21/2021 23:42
+1380,farmers_herdsmen,Benue,Gwer West,Naka,10,7.5887,8.2087,North,ng-be,2012,5/20/2012,8/21/2021 23:42,8/21/2021 23:42
+1381,farmers_herdsmen,Adamawa,Lamurde,Lamurde,12,9.6,11.8,North,ng-ad,2012,5/13/2012,8/21/2021 23:42,8/21/2021 23:42
+1382,farmers_herdsmen,Plateau,Jos North,Jos,6,9.9285,8.8921,North,ng-pl,2012,5/1/2012,8/21/2021 23:42,8/21/2021 23:42
+1383,farmers_herdsmen,Taraba,Takum,Takum,15,7.2667,9.9833,North,ng-ta,2012,3/19/2012,8/21/2021 23:42,8/21/2021 23:42
+1384,farmers_herdsmen,Benue,Makurdi,Makurdi,30,7.7411,8.5121,North,ng-be,2012,3/4/2012,8/21/2021 23:42,8/21/2021 23:42
+1385,farmers_herdsmen,Bauchi,Tafawa Balewa,Tafawa-Balewa,9,9.7583,9.5572,North,ng-ba,2012,1/21/2012,8/21/2021 23:42,8/21/2021 23:42
+1386,farmers_herdsmen,Nassarawa,Lafia,Lafia,1,8.4833,8.5167,North,ng-na,2011,12/1/2011,8/21/2021 23:42,8/21/2021 23:42
+1387,farmers_herdsmen,Benue,Makurdi,Makurdi,5,7.7411,8.5121,North,ng-be,2011,12/1/2011,8/21/2021 23:42,8/21/2021 23:42
+1388,farmers_herdsmen,Plateau,Jos North,Jos,3,9.9285,8.8921,North,ng-pl,2011,11/20/2011,8/21/2021 23:42,8/21/2021 23:42
+1389,farmers_herdsmen,Kaduna,Jema'a,Kafanchan,8,9.5833,8.3,North,ng-kd,2011,11/9/2011,8/21/2021 23:42,8/21/2021 23:42
+1390,farmers_herdsmen,Plateau,Jos South,Bukuru,15,9.794,8.864,North,ng-pl,2011,9/9/2011,8/21/2021 23:42,8/21/2021 23:42
+1391,farmers_herdsmen,Kaduna,Zangon Kataf,Zonkwa,18,9.7833,8.2833,North,ng-kd,2011,4/19/2011,8/21/2021 23:42,8/21/2021 23:42
+1392,farmers_herdsmen,Kaduna,Kaduna North,Kaduna,20,10.5222,7.4383,North,ng-kd,2011,4/18/2011,8/21/2021 23:42,8/21/2021 23:42
+1393,farmers_herdsmen,Kaduna,Soba,Soba,2,10.9813,8.0575,North,ng-kd,2011,4/18/2011,8/21/2021 23:42,8/21/2021 23:42
+1394,farmers_herdsmen,Kaduna,Kaduna North,Kaduna,19,10.5222,7.4383,North,ng-kd,2011,4/18/2011,8/21/2021 23:42,8/21/2021 23:42
+1395,farmers_herdsmen,Kaduna,Sabon Gari,Zaria,3,11.1132,7.7252,North,ng-kd,2011,4/18/2011,8/21/2021 23:42,8/21/2021 23:42
+1396,farmers_herdsmen,Plateau,Jos North,Jos,2,9.9285,8.8921,North,ng-pl,2011,3/20/2011,8/21/2021 23:42,8/21/2021 23:42
+1397,farmers_herdsmen,Plateau,Barkin Ladi,Barkin Ladi,5,9.5333,8.9,North,ng-pl,2011,3/13/2011,8/21/2021 23:42,8/21/2021 23:42
+1398,farmers_herdsmen,Bauchi,Tafawa Balewa,Tafawa-Balewa,6,9.7583,9.5572,North,ng-ba,2011,3/10/2011,8/21/2021 23:42,8/21/2021 23:42
+1399,farmers_herdsmen,Benue,Gwer West,Naka,36,7.5887,8.2087,North,ng-be,2011,2/23/2011,8/21/2021 23:42,8/21/2021 23:42
+1400,farmers_herdsmen,Plateau,Barkin Ladi,Barkin Ladi,17,9.5333,8.9,North,ng-pl,2011,2/22/2011,8/21/2021 23:42,8/21/2021 23:42
+1401,farmers_herdsmen,Plateau,Jos North,Jos,5,9.9285,8.8921,North,ng-pl,2011,2/10/2011,8/21/2021 23:42,8/21/2021 23:42
+1402,farmers_herdsmen,Benue,Gwer West,Naka,12,7.5887,8.2087,North,ng-be,2011,2/7/2011,8/21/2021 23:42,8/21/2021 23:42
+1403,farmers_herdsmen,Plateau,Barkin Ladi,Barkin Ladi,4,9.5333,8.9,North,ng-pl,2011,1/26/2011,8/21/2021 23:42,8/21/2021 23:42
+1404,farmers_herdsmen,Plateau,Barkin Ladi,Barkin Ladi,4,9.5333,8.9,North,ng-pl,2011,1/26/2011,8/21/2021 23:42,8/21/2021 23:42
+1405,farmers_herdsmen,Plateau,Barkin Ladi,Sunkut,4,9.6326,8.9363,North,ng-pl,2011,1/26/2011,8/21/2021 23:42,8/21/2021 23:42
+1406,farmers_herdsmen,Plateau,Barkin Ladi,Jong,4,9.6312,8.9313,North,ng-pl,2011,1/26/2011,8/21/2021 23:42,8/21/2021 23:42
+1407,farmers_herdsmen,Plateau,Barkin Ladi,Luhana,4,9.6355,8.9363,North,ng-pl,2011,1/26/2011,8/21/2021 23:42,8/21/2021 23:42
+1408,farmers_herdsmen,Plateau,Barkin Ladi,Pahng,0,9.6333,8.9333,North,ng-pl,2011,1/26/2011,8/21/2021 23:42,8/21/2021 23:42
+1409,farmers_herdsmen,Plateau,Jos North,Jos,13,9.9285,8.8921,North,ng-pl,2011,1/11/2011,8/21/2021 23:42,8/21/2021 23:42
+1410,farmers_herdsmen,Plateau,Jos South,Riyom,15,9.6333,8.7667,North,ng-pl,2011,1/10/2011,8/21/2021 23:42,8/21/2021 23:42
+1411,farmers_herdsmen,Plateau,Jos North,Jos,1,9.9285,8.8921,North,ng-pl,2010,12/26/2010,8/21/2021 23:42,8/21/2021 23:42
+1412,farmers_herdsmen,Plateau,Jos North,Jos,6,9.9285,8.8921,North,ng-pl,2010,10/26/2010,8/21/2021 23:42,8/21/2021 23:42
+1413,farmers_herdsmen,Plateau,Jos North,Jos,8,9.9285,8.8921,North,ng-pl,2010,7/17/2010,8/21/2021 23:42,8/21/2021 23:42
+1414,farmers_herdsmen,Plateau,Jos South,Riyom,1,9.6333,8.7667,North,ng-pl,2010,7/4/2010,8/21/2021 23:42,8/21/2021 23:42
+1415,farmers_herdsmen,Kaduna,Kaduna North,Kaduna,7,10.5222,7.4383,North,ng-kd,2010,7/3/2010,8/21/2021 23:42,8/21/2021 23:42
+1416,farmers_herdsmen,Plateau,Jos North,Jos,1,9.9285,8.8921,North,ng-pl,2010,5/23/2010,8/21/2021 23:42,8/21/2021 23:42
+1417,farmers_herdsmen,Plateau,Jos South,Riyom,2,9.6333,8.7667,North,ng-pl,2010,4/19/2010,8/21/2021 23:42,8/21/2021 23:42
+1418,farmers_herdsmen,Plateau,Barkin Ladi,Bisichi,2,9.7167,8.9167,North,ng-pl,2010,4/18/2010,8/21/2021 23:42,8/21/2021 23:42
+1419,farmers_herdsmen,Plateau,Jos South,Kuru Karama,0,9.7167,8.85,North,ng-pl,2010,4/10/2010,8/21/2021 23:42,8/21/2021 23:42
+1420,farmers_herdsmen,Plateau,Jos South,Turu,1,9.6833,8.7667,North,ng-pl,2010,4/9/2010,8/21/2021 23:42,8/21/2021 23:42
+1421,farmers_herdsmen,Plateau,Jos South,Riyom,2,9.6333,8.7667,North,ng-pl,2010,4/7/2010,8/21/2021 23:42,8/21/2021 23:42
+1422,farmers_herdsmen,Plateau,Jos North,Jos,0,9.9285,8.8921,North,ng-pl,2010,4/5/2010,8/21/2021 23:42,8/21/2021 23:42
+1423,farmers_herdsmen,Plateau,Jos South,Bukuru,0,9.794,8.864,North,ng-pl,2010,3/25/2010,8/21/2021 23:42,8/21/2021 23:42
+1424,farmers_herdsmen,Plateau,Jos North,Jos,0,9.9285,8.8921,North,ng-pl,2010,3/21/2010,8/21/2021 23:42,8/21/2021 23:42
+1425,farmers_herdsmen,Plateau,Jos North,Jos,0,9.9285,8.8921,North,ng-pl,2010,3/18/2010,8/21/2021 23:42,8/21/2021 23:42
+1426,farmers_herdsmen,Plateau,Jos North,Jos,0,9.9285,8.8921,North,ng-pl,2010,3/18/2010,8/21/2021 23:42,8/21/2021 23:42
+1427,farmers_herdsmen,Plateau,Jos South,Riyom,13,9.6333,8.7667,North,ng-pl,2010,3/17/2010,8/21/2021 23:42,8/21/2021 23:42
+1428,farmers_herdsmen,Plateau,Jos North,Jos,100,9.9285,8.8921,North,ng-pl,2010,3/8/2010,8/21/2021 23:42,8/21/2021 23:42
+1429,farmers_herdsmen,Plateau,Jos South,Dogo na Hawa,164,9.8,8.95,North,ng-pl,2010,3/7/2010,8/21/2021 23:42,8/21/2021 23:42
+1430,farmers_herdsmen,Plateau,Jos South,Bukuru,18,9.794,8.864,North,ng-pl,2010,3/7/2010,8/21/2021 23:42,8/21/2021 23:42
+1431,farmers_herdsmen,Plateau,Mangu,Mongu,18,9.5333,9.0833,North,ng-pl,2010,3/7/2010,8/21/2021 23:42,8/21/2021 23:42
+1432,farmers_herdsmen,Kaduna,Kachia,Ratana,0,9.6667,7.8167,North,ng-kd,2010,3/7/2010,8/21/2021 23:42,8/21/2021 23:42
+1433,farmers_herdsmen,Bauchi,Bogoro,Lusa Jeji,0,9.55,9.6,North,ng-ba,2010,3/7/2010,8/21/2021 23:42,8/21/2021 23:42
+1434,farmers_herdsmen,Plateau,Jos South,Riyom,0,9.6333,8.7667,North,ng-pl,2010,2/16/2010,8/21/2021 23:42,8/21/2021 23:42
+1435,farmers_herdsmen,Plateau,Riyom,Jol,1,9.55,8.8,North,ng-pl,2010,2/13/2010,8/21/2021 23:42,8/21/2021 23:42
+1436,farmers_herdsmen,Nassarawa,Lafia,Lafia,0,8.4833,8.5167,North,ng-na,2010,2/2/2010,8/21/2021 23:42,8/21/2021 23:42
+1437,farmers_herdsmen,Nassarawa,Lafia,Lafia,0,8.4833,8.5167,North,ng-na,2010,2/2/2010,8/21/2021 23:42,8/21/2021 23:42
+1438,farmers_herdsmen,Plateau,Bokkos,Mangar,1,9.2,8.7,North,ng-pl,2009,6/6/2009,8/21/2021 23:42,8/21/2021 23:42
+1439,farmers_herdsmen,Jigawa,Kaugama,Kuagama,0,12.4754,9.7349,North,ng-ji,2009,3/31/2009,8/21/2021 23:42,8/21/2021 23:42
+1440,farmers_herdsmen,Jigawa,Miga,Miga,0,12.2393,9.7122,North,ng-ji,2009,3/31/2009,8/21/2021 23:42,8/21/2021 23:42
+1441,farmers_herdsmen,Katsina,Katsina,Katsina,4,12.9894,7.6006,North,ng-kt,2008,4/12/2008,8/21/2021 23:42,8/21/2021 23:42
+1442,farmers_herdsmen,Anambra,Awka South,Awka,0,6.2101,7.0741,East,ng-an,2008,2/4/2008,8/21/2021 23:42,8/21/2021 23:42
+1443,farmers_herdsmen,Benue,Katsina Ala,Katsina-Ala,10,7.1693,9.2846,North,ng-be,2005,10/4/2005,8/21/2021 23:42,8/21/2021 23:42
+1444,farmers_herdsmen,Benue,Makurdi,Makurdi,0,7.7411,8.5121,North,ng-be,2005,10/4/2005,8/21/2021 23:42,8/21/2021 23:42
+1445,farmers_herdsmen,Jigawa,Ringim,Zangon Kanya,0,12.1758,9.1972,North,ng-ji,2005,5/2/2005,8/21/2021 23:42,8/21/2021 23:42
+1446,farmers_herdsmen,Jigawa,Taura,Taura,0,12.2272,9.2806,North,ng-ji,2005,2/21/2005,8/21/2021 23:42,8/21/2021 23:42
+1447,farmers_herdsmen,Plateau,Jos East,Angware,0,9.9911,9.1081,North,ng-pl,2004,11/4/2004,8/21/2021 23:42,8/21/2021 23:42
+1448,farmers_herdsmen,Plateau,Jos North,Jos,0,9.9285,8.8921,North,ng-pl,2004,11/4/2004,8/21/2021 23:42,8/21/2021 23:42
+1449,farmers_herdsmen,Plateau,Wase,Wase,0,9.1,9.9667,North,ng-pl,2004,5/25/2004,8/21/2021 23:42,8/21/2021 23:42
+1450,farmers_herdsmen,Plateau,Jos East,Angware,10,9.9911,9.1081,North,ng-pl,2004,5/20/2004,8/21/2021 23:42,8/21/2021 23:42
+1451,farmers_herdsmen,Plateau,Quan-Pan,Bakin Chiawa,30,8.6167,9.3,North,ng-pl,2004,5/18/2004,8/21/2021 23:42,8/21/2021 23:42
+1452,farmers_herdsmen,Jigawa,Miga,Miga,6,12.2393,9.7122,North,ng-ji,2004,5/5/2004,8/21/2021 23:42,8/21/2021 23:42
+1453,farmers_herdsmen,Plateau,Langtang North,Langtang,0,9.1333,9.7833,North,ng-pl,2004,4/30/2004,8/21/2021 23:42,8/21/2021 23:42
+1454,farmers_herdsmen,Plateau,Langtang North,Langtang,0,9.1333,9.7833,North,ng-pl,2004,4/29/2004,8/21/2021 23:42,8/21/2021 23:42
+1455,farmers_herdsmen,Plateau,Langtang North,Langtang,0,9.1333,9.7833,North,ng-pl,2004,4/28/2004,8/21/2021 23:42,8/21/2021 23:42
+1456,farmers_herdsmen,Plateau,Langtang North,Langtang,0,9.1333,9.7833,North,ng-pl,2004,4/27/2004,8/21/2021 23:42,8/21/2021 23:42
+1457,farmers_herdsmen,Plateau,Quan-Pan,Bakin Chiawa,6,8.6167,9.3,North,ng-pl,2004,4/26/2004,8/21/2021 23:42,8/21/2021 23:42
+1458,farmers_herdsmen,Plateau,Quan-Pan,Bakin Chiawa,7,8.6167,9.3,North,ng-pl,2004,4/25/2004,8/21/2021 23:42,8/21/2021 23:42
+1459,farmers_herdsmen,Plateau,Quan-Pan,Bakin Chiawa,7,8.6167,9.3,North,ng-pl,2004,4/24/2004,8/21/2021 23:42,8/21/2021 23:42
+1460,farmers_herdsmen,Plateau,Wase,Wase,20,9.1,9.9667,North,ng-pl,2004,3/30/2004,8/21/2021 23:42,8/21/2021 23:42
+1461,farmers_herdsmen,Plateau,Shendam,Yelwa,3,8.8333,9.6333,North,ng-pl,2004,3/15/2004,8/21/2021 23:42,8/21/2021 23:42
+1462,farmers_herdsmen,Plateau,Shendam,Yelwa,20,8.8333,9.6333,North,ng-pl,2004,3/1/2004,8/21/2021 23:42,8/21/2021 23:42
+1463,farmers_herdsmen,Plateau,Shendam,Yelwa,10,8.8333,9.6333,North,ng-pl,2004,2/24/2004,8/21/2021 23:42,8/21/2021 23:42
+1464,farmers_herdsmen,Plateau,Shendam,Yelwa,78,8.8333,9.6333,North,ng-pl,2004,2/24/2004,8/21/2021 23:42,8/21/2021 23:42
+1465,farmers_herdsmen,Plateau,Langtang South,Ajikemai,10,8.6833,9.6667,North,ng-pl,2004,2/21/2004,8/21/2021 23:42,8/21/2021 23:42
+1466,farmers_herdsmen,Plateau,Jos North,Jos,0,9.9285,8.8921,North,ng-pl,2004,2/13/2004,8/21/2021 23:42,8/21/2021 23:42
+1467,farmers_herdsmen,Plateau,Bokkos,Mangar,14,9.2,8.7,North,ng-pl,2003,8/3/2003,8/21/2021 23:42,8/21/2021 23:42
+1468,farmers_herdsmen,Adamawa,Song,Dungma,11,9.7797,12.4217,North,ng-ad,2003,2/28/2003,8/21/2021 23:42,8/21/2021 23:42
+1469,farmers_herdsmen,Adamawa,Song,Dungma,89,9.7797,12.4217,North,ng-ad,2003,2/28/2003,8/21/2021 23:42,8/21/2021 23:42
+1470,farmers_herdsmen,Plateau,Jos North,Jos,14,9.9285,8.8921,North,ng-pl,2002,12/13/2002,8/21/2021 23:42,8/21/2021 23:42
+1471,farmers_herdsmen,Plateau,Jos North,Jos,8,9.9285,8.8921,North,ng-pl,2002,10/22/2002,8/21/2021 23:42,8/21/2021 23:42
+1472,farmers_herdsmen,Plateau,Barkin Ladi,Barkin Ladi,16,9.5333,8.9,North,ng-pl,2002,10/14/2002,8/21/2021 23:42,8/21/2021 23:42
+1473,farmers_herdsmen,Plateau,Jos North,Jos,6,9.9285,8.8921,North,ng-pl,2002,6/17/2002,8/21/2021 23:42,8/21/2021 23:42
+1474,farmers_herdsmen,Plateau,Jos North,Jos,5,9.9285,8.8921,North,ng-pl,2002,5/28/2002,8/21/2021 23:42,8/21/2021 23:42
+1475,farmers_herdsmen,Plateau,Jos North,Jos,20,9.9285,8.8921,North,ng-pl,2002,2/5/2002,8/21/2021 23:42,8/21/2021 23:42
+1476,farmers_herdsmen,Taraba,Ibi,Donga River,20,8.3167,9.9667,North,ng-ta,2001,5/7/2001,8/21/2021 23:42,8/21/2021 23:42
+1477,farmers_herdsmen,Nassarawa,Lafia,Lafia,20,8.4833,8.5167,North,ng-na,2001,5/7/2001,8/21/2021 23:42,8/21/2021 23:42
+1478,farmers_herdsmen,Borno,Damboa,Ajigin,9,11.1695,12.284,North,ng-bo,2001,3/19/2001,8/21/2021 23:42,8/21/2021 23:42
+1479,farmers_herdsmen,Oyo,Saki West,Saki,12,8.6667,3.3833,West,ng-oy,2000,5/19/2000,8/21/2021 23:42,8/21/2021 23:42
+1480,farmers_herdsmen,Gombe,Billiri,Billiri,12,9.8647,11.2253,North,ng-go,1998,1/20/1998,8/21/2021 23:42,8/21/2021 23:42
+1481,farmers_herdsmen,Gombe,Gombe,Gombe,0,10.2897,11.1673,North,ng-go,1997,5/31/1997,8/21/2021 23:42,8/21/2021 23:42

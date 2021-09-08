@@ -1,0 +1,216 @@
+/* ----------------------- atbs-featured-module-b */
+/*
+    Layout
+*/
+.atbs-featured-module-b .atbs-block__inner {
+    position: relative;
+}
+.atbs-featured-module-b .sub-section {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    width: 660px;
+    padding: 30px;
+    background-color: #fff;
+}
+/*
+    Content
+*/
+.post--horizontal-massive .post__thumb {
+    margin-right: 50px;
+    width: calc(50% + 220px);
+    height: 750px;
+}
+.post--horizontal-massive .post__title.typescale-3_5 {
+    font-weight: 700;
+}
+.post__title--line-bellow {
+    position: relative;
+    padding-bottom: 20px;
+    margin-bottom: 30px;
+}
+.post__title--line-bellow::before {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 40px;
+    border-bottom: 2px solid var(--color-logo);
+}
+.post--horizontal-tiny .post__thumb {
+    margin-right: 15px;
+    width: 65px;
+    height: 65px;
+}
+.post--horizontal-tiny .post__thumb img,
+.post--horizontal-tiny .post__thumb a {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.post--horizontal-tiny a.post__cat {
+    margin-bottom: 10px;
+}
+.post--horizontal-tiny .post__title {
+    font-weight: 700;
+    line-height: 1.3;
+}
+/*
+    Responsive
+*/
+@media (max-width: 1199px) {
+    /*
+        Layout
+    */
+    /*
+        Content
+    */
+    .post--horizontal-massive .post__thumb {
+        width: calc(50% + 145px);
+        height: 615px;
+    }
+    .post--horizontal-massive .post__title {
+        font-size: 26px;
+        font-size: 1.8571rem; /*font system*/
+        line-height: 1.38;
+    }
+}
+@media (min-width: 992px) {
+    .posts__horizontal_style_1.flex-space-30 {
+        margin: -25px -15px;
+    }
+
+    .posts__horizontal_style_1.flex-space-30 > * {
+        padding: 25px 15px;
+    }
+}
+@media (max-width: 991px) {
+    /*
+        Layout
+    */
+    .atbs-featured-module-b .main-section {
+        margin-bottom: 40px;
+    }
+    .atbs-featured-module-b .sub-section {
+        position: initial;
+        padding: 0;
+        width: 100%;
+    }
+    .posts__horizontal_style_1 {
+        min-width: 100%;
+    }
+    /*
+        Content
+    */
+    .post--horizontal-massive .post__thumb {
+        width: calc(50% + 40px);
+        height: 340px;
+    }
+    .post--horizontal-massive .post__title {
+        font-size: 20px;
+        font-size: 1.4285rem; /*font system*/
+        line-height: 1.4;
+    }
+    .post__title--line-bellow {
+        padding-bottom: 15px;
+        margin-bottom: 20px;
+    }
+    .post__title--line-bellow::before {
+        width: 35px;
+    }
+    .post--horizontal-tiny .post__thumb {
+        width: 70px;
+    }
+    .post--horizontal-tiny .post__title {
+        font-size: 16px;
+        font-size: 1.1428rem; /*font system*/
+        line-height: 1.5;
+        font-weight: 500;
+    }
+}
+@media (max-width: 767px) {
+    /*
+        Layout
+    */
+    /*
+        Content
+    */
+    .post--horizontal-massive .post__thumb {
+        margin-bottom: 20px;
+        width: 100%;
+        height: 340px;
+    }
+
+    .post--horizontal-tiny .post__thumb {
+        margin-bottom: 0;
+        float: left;
+    }
+}
+@media (max-width: 575px) {
+    /*
+        Layout
+    */
+    .posts__horizontal_style_1.flexbox-wrap.flexbox-wrap-2i > * {
+        width: 100%;
+    }
+    /*
+        Content
+    */
+}
+@media (max-width: 480px) {
+    /*
+        Layout
+    */
+    /*
+        Content
+    */
+    .post--horizontal-massive .post__thumb {
+        height: 320px;
+    }
+    .post--horizontal-massive .post__title.typescale-3_5 {
+        font-weight: 600;
+    }
+}
+@media (max-width: 420px) {
+    /*
+        Layout
+    */
+    /*
+        Content
+    */
+    .post--horizontal-massive .post__thumb {
+        height: 280px;
+    }
+}
+@media (max-width: 380px) {
+    /*
+        Layout
+    */
+    /*
+        Content
+    */
+    .post--horizontal-massive .post__thumb {
+        height: 250px;
+    }
+    .post--horizontal-tiny .post__thumb {
+        margin-bottom: 0;
+        float: left;
+    }
+}
+@media (max-width: 320px) {
+    /*
+        Layout
+    */
+    /*
+        Content
+    */
+    .post--horizontal-massive .post__thumb {
+        height: 210px;
+    }
+    .post--horizontal-tiny .post__title {
+        font-size: 15px;
+        font-size: 1.0714rem; /*font system*/
+    }
+}
+/* .atbs-featured-module-b -----------------------

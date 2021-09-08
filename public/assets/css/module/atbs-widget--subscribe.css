@@ -1,0 +1,259 @@
+
+
+/* ----------------------- atbs-widget--subscribe */
+/*
+    Layout
+*/
+/*
+    Content
+*/
+/** Subscribe Widget **/
+.atbs-widget--subscribe {
+    background-color: #f6f6f6;
+    padding: 30px 30px 40px;
+}
+.widget__title--line-below {
+    margin-bottom: 25px;
+}
+.widget__title--line-below .widget__title-text {
+    position: relative;
+    margin-bottom: 30px;
+    padding-bottom: 18px;
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+.widget__title--line-below .widget__title-text::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    width: 25px;
+    height: 2px;
+    background-color: rgba(0, 0, 0, 0.7);
+    -ms-transform: translatex(-50%);
+        transform: translatex(-50%);
+    -webkit-transform: translatex(-50%);
+}
+.atbs-widget--subscribe .subscribe-form__info {
+    margin: 0 auto 15px;
+    max-width: 300px;
+    color: #999;
+    font-size: 14px;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.4;
+}
+/* -----------------------------------------------------------------
+## Forms
+----------------------------------------------------------------- */
+
+label {
+    font-family: "Rubik", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    font-size: 1rem;
+}
+::-webkit-input-placeholder {
+    /* WebKit, Blink, Edge */
+    color: rgba(0, 0, 0, 0.4);
+}
+:-moz-placeholder {
+    /* Mozilla Firefox 4 to 18 */
+    color: rgba(0, 0, 0, 0.4);
+    opacity: 1;
+}
+::-moz-placeholder {
+    /* Mozilla Firefox 19+ */
+    color: rgba(0, 0, 0, 0.4);
+    opacity: 1;
+}
+:-ms-input-placeholder {
+    /* Internet Explorer 10-11 */
+    color: rgba(0, 0, 0, 0.4);
+}
+input[type="text"], input[type="email"], input[type="url"], input[type="password"], input[type="search"], input[type="tel"], input[type="number"], textarea, textarea.form-control, select, select.form-control {
+    width: 100%;
+    padding: 6px 12px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.4;
+    vertical-align: middle;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 3px;
+    color: rgba(0, 0, 0, 0.8);
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+            box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+    -webkit-transition: all 0.2s ease-out;
+    -o-transition: all 0.2s ease-out;
+    transition: all 0.2s ease-out;
+}
+input[type="text"]:focus, input[type="email"]:focus, input[type="url"]:focus, input[type="password"]:focus, input[type="search"]:focus, input[type="tel"]:focus, input[type="number"]:focus, textarea:focus, textarea.form-control:focus, select:focus, select.form-control:focus {
+    border: 1px solid rgba(0, 0, 0, 0.2);
+}
+.atbs-widget--subscribe .subscribe-form__fields input[type="email"] {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+    width: 100%;
+    max-width: 420px;
+}
+.subscribe-form--center, .subscribe-form--center input[type="email"], .subscribe-form--center input[type="text"], .subscribe-form--center input[type="url"] {
+    text-align: center;
+}
+
+/* -----------------------------------------------------------------
+## Buttons
+----------------------------------------------------------------- */
+input[type="button"]:not(.btn),
+input[type="reset"]:not(.btn),
+input[type="submit"]:not(.btn) {
+    display: inline-block;
+    padding: 6px 12px;
+    margin-bottom: 0;
+    font-family: "Rubik", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background: #f5f5f5;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 3px;
+    -webkit-box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.1);
+            box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.1);
+    -webkit-transition: all 0.2s ease-out;
+    -o-transition: all 0.2s ease-out;
+    transition: all 0.2s ease-out;
+}
+input[type="button"]:not(.btn):hover,
+input[type="reset"]:not(.btn):hover,
+input[type="submit"]:not(.btn):hover {
+    background: #efefef;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+}
+.btn {
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 3px;
+    -webkit-box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.1);
+            box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.1);
+    font-family: "Rubik", Helvetica, Arial, sans-serif;
+    -webkit-transition: all 0.2s ease-out;
+    -o-transition: all 0.2s ease-out;
+    transition: all 0.2s ease-out;
+}
+.btn:hover,
+.btn:focus,
+.btn:active,
+.btn:visited {
+    border: 1px solid rgba(0, 0, 0, 0.2);
+}
+a.btn {
+    text-decoration: none;
+}
+.btn-link {
+    border: none;
+    -webkit-box-shadow: none;
+            box-shadow: none;
+}
+.btn-link:active,
+.btn-link:focus,
+.btn-link:hover {
+    border: none;
+    -webkit-box-shadow: none;
+            box-shadow: none;
+}
+.btn-default:hover,
+.btn-default:focus,
+.btn-default:active {
+    background: #f8f8f8;
+}
+.btn-default.active.focus,
+.btn-default.active:focus,
+.btn-default.active:hover,
+.btn-default:active.focus,
+.btn-default:active:focus,
+.btn-default:active:hover {
+    background: #eee;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+}
+.btn-primary {
+    background: #045C40;
+    color: #fff;
+}
+.btn-primary:active,
+.btn-primary:focus,
+.btn-primary:hover {
+    background: #ef392b;
+    color: #fff;
+}
+.btn-primary.active.focus,
+.btn-primary.active:focus,
+.btn-primary.active:hover,
+.btn-primary:active.focus,
+.btn-primary:active:focus,
+.btn-primary:active:hover {
+    background: #e33629;
+    color: #fff;
+}
+.btn-pill {
+    border-radius: 999em;
+}
+.btn-glass {
+    border: 3px solid rgba(255, 255, 255, 0.4);
+    background-clip: padding-box;
+}
+.btn-glass:active,
+.btn-glass:focus,
+.btn-glass:hover {
+    border: 3px solid rgba(255, 255, 255, 0.4);
+}
+.btn-ghost {
+    border: 1px solid rgba(255, 255, 255, 0.4);
+    color: rgba(255, 255, 255, 0.8);
+}
+.btn-ghost:hover,
+.btn-ghost:active,
+.btn-ghost:focus,
+.btn-ghost:visited {
+    border: 1px solid rgba(255, 255, 255, 0.8);
+    color: white;
+}
+.btn-frame {
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    color: rgba(0, 0, 0, 0.8);
+}
+.btn-frame:hover,
+.btn-frame:active,
+.btn-frame:focus,
+.btn-frame:visited {
+    border: 1px solid rgba(0, 0, 0, 0.4);
+    color: rgba(0, 0, 0, 0.8);
+}
+.atbs-widget--subscribe input.btn {
+    margin: 0;
+    background: #4c4c4c;
+    color: var(--color-white);
+    border: none;
+    outline: none;
+    -webkit-box-shadow: none;
+            box-shadow: none;
+    font-family: 'Montserrat', Helvetica, Arial, sans-serif;
+    font-size: 12px;
+    letter-spacing: 1px;
+}
+.atbs-widget--subscribe input.btn:hover {
+    background: var(--color-logo);
+}
+
+/* .atbs-widget--subscribe ----------------------- */

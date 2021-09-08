@@ -1,0 +1,46 @@
+/*----------------------- atbs-listing-grid-b */
+/* 
+    Layout 
+*/
+/* 
+    Content
+ */
+/*
+    Responsive
+*/
+@media (min-width: 992px) {
+    .atbs-listing-grid-b .posts-list {
+        margin: -25px -15px;
+    }
+    .atbs-listing-grid-b .posts-list .list-item {
+        padding: 25px 15px;
+    }
+}
+
+@media (max-width: 991px) {
+    /* 
+        Layout 
+    */
+    .posts__vertical_style_3.flexbox-wrap.flexbox-wrap-3i > * {
+        width: 50%;
+    }
+
+    /*
+        Content
+     */
+}
+
+@media (max-width: 767px) {
+    /* 
+        Layout 
+    */
+    .posts__vertical_style_3.flexbox-wrap.flexbox-wrap-3i > * {
+        width: 100%;
+    }
+
+    /*
+        Content
+     */
+}
+
+/* .atbs-listing-grid-b ----------------------- */

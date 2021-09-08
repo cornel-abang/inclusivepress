@@ -1,0 +1,57 @@
+
+
+/* ----------------------- atbs-widget--twitter */
+/*
+    Layout
+*/
+/*
+    Content
+*/
+.atbs-widget--twitter i.mdicon-twitter {
+    font-size: 46px;
+    margin-bottom: 20px;
+}
+.atbs-widget--twitter .widget__content {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 450px;
+}
+
+.atbs-widget--twitter .owl-nav {
+    position: relative;
+    display: -webkit-inline-box;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+    left: 0px;
+    margin-top: 15px;
+}
+.atbs-widget--twitter .owl-nav .owl-next,
+.atbs-widget--twitter .owl-nav .owl-prev {
+    position: relative;
+    background: none;
+    color: #222;
+    height: 30px;
+    width: 30px;
+    line-height: 30px;
+    text-align: center;
+}
+.atbs-widget--twitter .owl-nav .owl-prev {
+    padding-right: 10px;
+}
+.atbs-widget--twitter .owl-next {
+    padding-left: 10px;
+}
+.atbs-widget--twitter .owl-nav .owl-next:before {
+    content: "";
+    width: 4px;
+    height: 4px;
+    border-radius: 50%;
+    background: #666;
+    left: 0;
+    top: 50%;
+    position: absolute;
+    -ms-transform: translate(-2px, -1px);
+        transform: translate(-2px, -1px);
+    -webkit-transform: translate(-2px, -1px);
+}
+/* .atbs-widget--twitter ----------------------- */

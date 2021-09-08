@@ -1,0 +1,56 @@
+:root{
+    --color-white: #fff;
+    --color-text: #666;
+    --color-logo:  #045C40;
+    --color-sub:   rgba(34, 34, 34, 0.8);
+    --color-primary: #A68961;
+    --color-secondary: #4EF0E1;
+}
+
+.entry-author_style_1 a.author__name {
+    font-weight: 600;
+}
+a, a:hover, a:focus, a:active, a.post__cat .color-primary, .site-title,
+.post--overlap-fullwidth .post__title:hover a, .post--horizontal-massive .post__title:hover a, .post--horizontal-tiny .post__title:hover a, .post--vertical-medium .post__title:hover a, .post--vertical-reverse-medium .post__title:hover a, .post--vertical-large .post__title:hover a, .post--overlap-fullwidth_style_2 .post__title:hover a, .post--horizontal-medium .post__title:hover a, .post--horizontal-mini .post__title:hover a,
+.entry-author .author__name:hover, .atbs-widget--about .author__name:hover a,
+.post__readmore .button__readmore:hover,
+.atbs-pagination__item-current,
+a.entry-author__name:hover, .post--single .entry-tags ul li a:hover,
+.single-footer .social-list>li>a:hover .share-item__icon, .single-footer .social-list>li>a:focus .share-item__icon, .single-footer .social-list>li>a:active .share-item__icon,
+.entry-footer .entry-author a.author__name:hover, .comment-metadata:hover a, a.posts-navigation__label:hover span {
+    color: var(--color-logo);
+}
+
+.atbs-pagination button:hover,
+.atbs-pagination button:active,
+.atbs-pagination button:active,
+.atbs-pagination button:focus,
+.atbs-pagination button:focus:hover {
+    background-color: var(--color-logo);
+}
+
+.button__readmore:hover,
+.atbs-pagination .atbs-pagination__item-current:before,
+.atbs-pagination--next-n-prev .atbs-pagination__item-next:after,
+.has-overlap-frame:before,
+.comments-count-box:before,
+.atbs-gallery-slider .fotorama__thumb-border,
+.navigation--offcanvas li > a:after,
+.atbs-featured-block-a .main-post:before,
+.post--single .entry-tags ul li a:hover,
+.social-share ul li a:hover,
+.widget__title:hover a, .social-share ul li a {
+    border-color: var(--color-logo);
+}
+
+.navigation--offcanvas li > a:after {
+    border-right-color: var(--color-logo);
+}
+::selection {
+    color: var(--color-white);
+    background: var(--color-logo);
+}
+::-webkit-selection {
+    color: var(--color-white);
+    background: var(--color-logo);
+}
