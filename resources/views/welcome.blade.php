@@ -55,15 +55,15 @@
                     <div class="main-section">
                         <article class="post post--horizontal post--horizontal-massive" id="sec-feat">
                             <div class="post__text">
-                                <a href="category-1.html" class="post__cat post__cat-style-2">Insurgency</a>
+                                <a href="{{ route('otukpo') }}" class="post__cat post__cat-style-2">Herdsmen attack</a>
                                 <h3 class="post__title post__title--line-bellow typescale-3_5">
-                                    <a class="line-limit line-limit-4" href="single-1.html">It Is Not White Hair That Engenders Wisdom</a>
+                                    <a class="line-limit line-limit-4" href="{{ route('otukpo') }}">How Otukpo became an oasis of peace in Benue after Fulani militia’s attack</a>
                                 </h3>
-                                <div class="post__excerpt line-limit line-limit-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. In, doloribus ea iusto. Similique harum, voluptate!</div>
+                                <div class="post__excerpt line-limit line-limit-4">Thirteen days to the election that brought in Muhammadu Buhari as  president in 2015, Fulani ethnic militia killed about 90 persons in an overnight raid on Egba, a community in Otukpo, Benue State. Children, women, and men were murdered as the invaders burned down their houses. </div>
                             </div>
                             <div class="post__thumb atbs-thumb-object-fit">
-                                <a href="single-1.html">
-                                    <img src="{{ asset('assets/img/news/bike.jpg') }}" alt="Post Image">
+                                <a href="{{ route('otukpo') }}">
+                                    <img src="{{ asset('assets/img/news/village.jpg') }}" alt="Post Image">
                                 </a>
                             </div>
                         </article>
@@ -91,11 +91,11 @@
             <div class="container">
                 <div class="block-heading block-heading-normal block-heading--has-subtitle">
                     <div class="block-heading__section">
-                        <span class="block-heading__subtitle">The Latest</span>
-                        <h4 class="block-heading__title">News</h4>
+                        <span class="block-heading__subtitle">The</span>
+                        <h4 class="block-heading__title">Latest</h4>
                     </div>
                     <div class="block-heading__section">
-                        <div class="block-heading__description block-heading__description--line-before">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor</div>
+                        <div class="block-heading__description block-heading__description--line-before">Keep up to date with the latest data driven stories and news</div>
                     </div>
                 </div>
                 <div class="" id="third-section">
@@ -116,7 +116,7 @@
                             <div class="post-date">August 29 2021</div>
                         </div>
                     </div>
-                    <div class="post-item">
+                    {{-- <div class="post-item">
                         <div class="post-category">
                             <a href="single-1.html">
                                 <img src="{{ asset('assets/img/news/grapes.jpg') }}" alt="file not found">
@@ -147,7 +147,7 @@
                             tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</div>
                             <div class="post-date">August 29 2021</div>
                         </div>
-                    </div>
+                    </div> --}}
                 </div>
                 <nav class="atbs-pagination atbs-module-pagination">
                                     <h4 class="atbs-pagination__title sr-only">Posts navigation</h4>
@@ -371,6 +371,9 @@
     }
     article#sec-feat > div{
         margin: 10px !important;
+    }
+    article#sec-feat .post__text{
+        width: 400px !important;
     }
 
     @media (max-width:414px)  {

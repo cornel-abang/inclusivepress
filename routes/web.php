@@ -24,4 +24,5 @@ Route::group(['namespace'=>'App\Http\Controllers'], function(){
     Route::get('data/retrieve', 'VisualizerController@retrieveMapData')->name('map.data');
     Route::get('contact-us', 'VisualizerController@contactUs')->name('contact');
     Route::get('post/single', 'PostController@singlePost')->name('single');
+    Route::get('post/otukpo', 'PostController@singlePost2')->name('otukpo');
 });
