@@ -308,6 +308,19 @@
             flex-direction: column;
             padding-right: 0;
         }
+        #map-container, #area-chat-container, #line-container{
+            height: 400px !important;
+            width: 400px !important;
+        }
+        #pie-container{
+            height: 400px !important;
+            width: 400px !important;
+            margin-left: -10px !important;
+        }
+        .theiaStickySidebar{
+            margin-left: -60px !important;
+            width: 340px !important;
+        }
     }
 
     @media (max-width:320px)  {

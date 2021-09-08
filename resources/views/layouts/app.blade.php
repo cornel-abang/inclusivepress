@@ -113,7 +113,7 @@
     <!-- Site header -->
     <header class="site-header">
         <!-- Mobile header -->
-        <div id="atbs-mobile-header" class="mobile-header visible-xs visible-sm ">
+        {{-- <div id="atbs-mobile-header" class="mobile-header visible-xs visible-sm ">
             <div class="mobile-header__inner mobile-header__inner--flex">
                 <!-- mobile logo open -->
                 <div class="header-branding header-branding--mobile mobile-header__section text-left">
@@ -135,10 +135,10 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> --}}
 
         <!-- Navigation bar -->
-        <nav class="navigation-bar hidden-xs hidden-sm">
+        <nav class="navigation-bar">
             <div class="container">
                 <div class="navigation-bar__inner">
                     {{-- <div class="navigation-bar__section">
@@ -309,5 +309,13 @@
         $('#top-footer').slideToggle('slow');
     })
 </script>
+
+<style type="text/css">
+    @media (max-width:414px)  {
+        div.nsl-form{
+            margin-left: -15px !important;
+        }
+    }
+</style>
 </body>
 </html>
