@@ -87,7 +87,11 @@
         <!-- module-b -->
 
         <!-- post-grid-a -->
-        <div class="atbs-block atbs-block--fullwidth atbs-post-grid-a">
+
+
+
+        {{-- Uncomment for use when adding story --}}
+        {{-- <div class="atbs-block atbs-block--fullwidth atbs-post-grid-a">
             <div class="container">
                 <div class="block-heading block-heading-normal block-heading--has-subtitle">
                     <div class="block-heading__section">
@@ -115,7 +119,11 @@
                             tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</div>
                             <div class="post-date">August 29 2021</div>
                         </div>
-                    </div>
+                    </div> --}}
+                    {{-- Stop here --}}
+
+
+
                     {{-- <div class="post-item">
                         <div class="post-category">
                             <a href="single-1.html">
@@ -148,7 +156,10 @@
                             <div class="post-date">August 29 2021</div>
                         </div>
                     </div> --}}
-                </div>
+
+
+                    {{-- Uncomment here too --}}
+                {{-- </div>
                 <nav class="atbs-pagination atbs-module-pagination">
                                     <h4 class="atbs-pagination__title sr-only">Posts navigation</h4>
                                     <div class="atbs-pagination__links text-center">
@@ -164,7 +175,9 @@
                                     </div>
                                 </nav>
             </div>
-        </div>
+        </div> --}}
+        {{-- Stop here --}}
+
         <!-- post-grid-a -->
 
 
@@ -381,12 +394,23 @@
             flex-direction: column;
             padding-right: 0;
         }
+        article#sec-feat{
+            flex-direction: column !important;
+            align-items: center;
+            justify-content: center;
+        }
+        article#sec-feat .post__text{
+            width: auto !important;
+        }
     }
 
-    @media (max-width:320px)  {
+    @media (max-width:360px)  {
         .post-item{
             flex-direction: column;
             padding-right: 0;
+        }
+        article#sec-feat .post__text{
+            width: auto !important;
         }
     }
 </style>
