@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Models\Article;
 
 /*
 |--------------------------------------------------------------------------
@@ -14,7 +15,9 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    $featured = Article::where('featured', 'yes')->first();
+    $articles = Article::where('featured', 'no')->paginate(4);
+    return view('welcome', compact('featured', 'articles'));
 });
 
 Route::group(['namespace'=>'App\Http\Controllers'], function(){
@@ -23,8 +26,8 @@ Route::group(['namespace'=>'App\Http\Controllers'], function(){
     // Data Reriever
     Route::get('data/retrieve', 'VisualizerController@retrieveMapData')->name('map.data');
     Route::get('contact-us', 'VisualizerController@contactUs')->name('contact');
-    Route::get('post/single', 'PostController@singlePost')->name('single');
-    Route::get('post/otukpo', 'PostController@singlePost2')->name('otukpo');
+    Route::get('post/{slug}', 'PostController@singlePost')->name('single');
+    Route::get('posts/category/{cat}', 'PostController@postsBycategory')->name('category');
 
     // Admin Auth Routes
 

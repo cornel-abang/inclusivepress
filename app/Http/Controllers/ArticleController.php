@@ -43,7 +43,9 @@ class ArticleController extends Controller
         $img_name=$file->getClientOriginalName();
         $extension = $file->getClientOriginalExtension();
         $request->header_img->move(public_path('assets/uploads'), $img_name);
-        Article::create(array_merge($request->all(), ['header_img'=>$img_name]));
+
+        $slug = $this->createSlug($request->title);
+        Article::create(array_merge($request->all(), ['header_img'=>$img_name, 'slug'=>$slug]));
 
         session()->flash('success', 'News article added');
         return redirect()->route('articles');
@@ -63,15 +65,9 @@ class ArticleController extends Controller
         return $this->validate($request, $rules);
     }
 
-    /**
-     * Display the specified resource.
-     *
-     * @param  int  $id
-     * @return \Illuminate\Http\Response
-     */
-    public function show($id)
+    public function createSlug($title)
     {
-        //
+        return str_replace(' ', '-', str_replace('?', '', $title));
     }
 
     /**

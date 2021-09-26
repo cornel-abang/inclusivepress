@@ -7,16 +7,16 @@
                 <div class="atbs-block__inner">
                     <article class="post post--overlay post--overlap post--overlap-fullwidth post--overlay-height-600 entry-author-horizontal-middle entry-author-horizontal-rotate">
                         <div class="post__thumb post__thumb--overlay atbs-thumb-object-fit">
-                            <a href="single-1.html">
-                                <img src="{{ asset('assets/img/news/cattles.jpg') }}" alt="file not found">
+                            <a href="{{ route('single', $featured->slug) }}">
+                                <img src="{{ asset('assets/uploads/'.$featured->header_img) }}" alt="file not found">
                             </a>
                         </div>
                         <div class="post__text">
                             <div class="post__text-wrap flexbox-wrap">
                                 <div class="post__text-inner bg-white">
-                                    <a href="category-1.html" class="post__cat">Herdsmen attacks</a>
+                                    <a href="{{ route('category', str_replace(' ', '-', $featured->category)) }}" class="post__cat">{{ $featured->category }}</a>
                                     <h3 class="post__title title-line-bottom typescale-3_5 margin-bottom-0">
-                                        <a class="line-limit" href="{{ route('single') }}">How to replicate Akabe’s model for peace with Fulani herdsmen</a>
+                                        <a class="line-limit" href="{{ route('single', $featured->slug) }}">{{ $featured->title }}</a>
                                     </h3>
                                     <div class="post__meta flexbox-wrap flexbox-bottom-y">
                                         <div class="entry-author post-author entry-author__avatar-40 entry-author-round entry-author_style_1">
@@ -24,15 +24,15 @@
                                                 <img alt="Connor Randall" src="http://placehold.it/40x40">
                                             </a> --}}
                                             <div class="author__text">
-                                                <a class="author__name" title="Posts by Connor Randall" rel="author" href="{{ route('single') }}">Chikezie Omeje & Kingsley Mba</a>
-                                                <time class="time published" datetime="2019-03-06T08:45:23+00:00" title="August 21, 2021 at 8:45 am">August 21, 2021</time>
+                                                <a class="author__name" title="Post by {{ $featured->author }}" rel="author" href="{{ route('single', $featured->slug) }}">{{ $featured->author }}</a>
+                                                <time class="time published" datetime="2019-03-06T08:45:23+00:00" title="August 21, 2021 at 8:45 am">{{ $featured->created_at->format('l jS \of F Y') }}</time>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        <a href="{{ route('single') }}" class="link-overlay"></a>
+                        <a href="{{ route('single', $featured->slug) }}" class="link-overlay"></a>
                     </article>
                 </div>
             </div>
@@ -55,15 +55,15 @@
                     <div class="main-section">
                         <article class="post post--horizontal post--horizontal-massive" id="sec-feat">
                             <div class="post__text">
-                                <a href="{{ route('otukpo') }}" class="post__cat post__cat-style-2">Herdsmen attack</a>
+                                <a href="{{ route('category', str_replace(' ', '-', $articles[0]->category)) }}" class="post__cat post__cat-style-2">{{ $articles[0]->category }}</a>
                                 <h3 class="post__title post__title--line-bellow typescale-3_5">
-                                    <a class="line-limit line-limit-4" href="{{ route('otukpo') }}">How Otukpo became an oasis of peace in Benue after Fulani militia’s attack</a>
+                                    <a class="line-limit line-limit-4" href="{{ route('single', $articles[0]->slug) }}">{{ $articles[0]->title }}</a>
                                 </h3>
-                                <div class="post__excerpt line-limit line-limit-4">Thirteen days to the election that brought in Muhammadu Buhari as  president in 2015, Fulani ethnic militia killed about 90 persons in an overnight raid on Egba, a community in Otukpo, Benue State. Children, women, and men were murdered as the invaders burned down their houses. </div>
+                                <div class="post__excerpt line-limit line-limit-4">{{ $articles[0]->description }} </div>
                             </div>
                             <div class="post__thumb atbs-thumb-object-fit">
-                                <a href="{{ route('otukpo') }}">
-                                    <img src="{{ asset('assets/img/news/village.jpg') }}" alt="Post Image">
+                                <a href="{{ route('single', $articles[0]->slug) }}">
+                                    <img src="{{ asset('assets/uploads/'.$articles[0]->header_img) }}" alt="Post Image">
                                 </a>
                             </div>
                         </article>
@@ -91,7 +91,7 @@
 
 
         {{-- Uncomment for use when adding story --}}
-        {{-- <div class="atbs-block atbs-block--fullwidth atbs-post-grid-a">
+        <div class="atbs-block atbs-block--fullwidth atbs-post-grid-a">
             <div class="container">
                 <div class="block-heading block-heading-normal block-heading--has-subtitle">
                     <div class="block-heading__section">
@@ -103,23 +103,22 @@
                     </div>
                 </div>
                 <div class="" id="third-section">
-
+                    @for($i=1; $i<$articles->count(); $i++)
                     <div class="post-item">
                         <div class="post-category">
-                            <a href="single-1.html">
-                                <img src="{{ asset('assets/img/news/farmer-boy.jpg') }}" alt="file not found">
+                            <a href="{{ route('single', $articles[$i]->slug) }}">
+                                <img src="{{ asset('assets/uploads/'.$articles[$i]->header_img) }}" alt="file not found">
                             </a>
                         </div>
                         <div class="post-details">
-                            <div class="post-cat"><a href="">Herdsmen attacks</a></div>
+                            <div class="post-cat"><a href="{{ route('category', str_replace(' ', '-', $articles[$i]->category)) }}">{{ $articles[$i]->category }}</a></div>
                             <div class="post-title">
-                                <a href="">Begin Now To Be What You Will Be Hereafter</a>
+                                <a href="{{ route('single', $articles[$i]->slug) }}">{{ $articles[$i]->title }}</a>
                             </div>
-                            <div class="post-desc">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                            tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</div>
-                            <div class="post-date">August 29 2021</div>
+                            <div class="post-desc">{{ $articles[$i]->description }}</div>
                         </div>
-                    </div> --}}
+                    </div>
+                    @endfor
                     {{-- Stop here --}}
 
 
@@ -159,23 +158,12 @@
 
 
                     {{-- Uncomment here too --}}
-                {{-- </div>
+                </div>
                 <nav class="atbs-pagination atbs-module-pagination">
-                                    <h4 class="atbs-pagination__title sr-only">Posts navigation</h4>
-                                    <div class="atbs-pagination__links text-center">
-                                        <a class="atbs-pagination__item atbs-pagination__item-prev" href="#">
-                                            <i class="mdicon mdicon-arrow_back"></i>
-                                        </a>
-                                        <a class="atbs-pagination__item atbs-pagination__item-current" href="#">1</a>
-                                        <a class="atbs-pagination__item" href="#">2</a>
-                                        <a class="atbs-pagination__item" href="#">3</a>
-                                        <a class="atbs-pagination__item atbs-pagination__item-next" href="#">
-                                            <i class="mdicon mdicon-arrow_forward"></i>
-                                        </a>
-                                    </div>
-                                </nav>
+                    {{ $articles->links() }}
+                </nav>
             </div>
-        </div> --}}
+        </div>
         {{-- Stop here --}}
 
         <!-- post-grid-a -->
@@ -250,6 +238,9 @@
 @endsection
 
 <style type="text/css">
+    .post__title a{
+        font-size: 16px;
+    }
     #menu-footer-menu li a{
         text-transform: none;
     }

@@ -40,8 +40,8 @@ class AdminController extends Controller
 
     public function logout()
     {
-        auth()->logout();
+        \Auth::logout();
         session()->flash('error', 'Logged out!');
-        return redirect()->route('login');
+        return redirect()->route('/');
     }
 }

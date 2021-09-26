@@ -9,100 +9,30 @@
                         <article class="atbs-block post post--single has-post-thumbnail">
                             <div class="single-content">
                                 <div class="entry-thumb single-entry-thumb">
-                                    <img src="{{ asset('assets/img/news/cattles.jpg') }}" alt="file not found">
+                                    <img src="{{ asset('assets/uploads/'.$article->header_img) }}" alt="file not found">
                                 </div>
                                 <header class="single-header">
-                                    <a class="entry-cat post__cat--bg cat-theme-bg" href="category-1.html">Herdsmen attack</a>
-                                    <h1 class="entry-title typescale-3_2">How to replicate Akabe’s model for peace with Fulani herdsmen</h1>
-                                    <div class="entry-teaser">
-                                    Fulani herdsmen arouse terror. 
-                                    Backed by a militia, they have raided communities for no less than 1481 times, killing nearly nine thousand people in Nigeria, according to Armed Conflict Location & Event Data Project (ACLED).</div>
+                                    <a class="entry-cat post__cat--bg cat-theme-bg" href="{{ route('category', str_replace(' ', '-', $article->category)) }}">
+                                        {{ $article->category }}
+                                    </a>
+                                    <h1 class="entry-title typescale-3_2">
+                                        {{ $article->title }}
+                                    </h1>
+                                    <div class="entry-teaser">{{ $article->description }}</div>
                                     <!-- Entry meta -->
                                     <div class="entry-meta">
                                         <span class="entry-author">
-                                            {{-- <img class="entry-author__avatar" src="http://placehold.it/35x35" alt="designuptodate"> --}}By <a class="entry-author__name" href="author.html">Chikezie Omeje & Kingsley Mba</a>
+                                            {{-- <img class="entry-author__avatar" src="http://placehold.it/35x35" alt="designuptodate"> --}}By <a class="entry-author__name">
+                                                {{ $article->author }}
+                                            </a>
                                         </span>
-                                        <span class="entry-time"><i class="mdicon mdicon-schedule"></i><time class="time" datetime="2019-03-06T08:45:23+00:00" title="August 21, 2021 at 8:45 am">August 21, 2021</time></span>
+                                        <span class="entry-time"><i class="mdicon mdicon-schedule"></i><time class="time" datetime="2019-03-06T08:45:23+00:00" title="August 21, 2021 at 8:45 am">{{ $article->created_at->format('l jS \of F Y') }}</time></span>
                                         {{-- <span><i class="mdicon mdicon-visibility"></i>57 views</span> --}}
                                     </div>
                                 </header>
 
                                 <div class="single-body entry-content typography-copy">
-                                    <p>When they attack communities, they kill anyone they could, including children and women. They burn down houses in their usual overnight raid, displacing those who survive their invasion.
- 
-                                    But as the Fulani herdsmen have intensified their terrorism over grazing rights with more than 120 attacks and 500 deaths in the first half of this year, several communities have managed to sustain peace with the pastoralists.
-                                     
-                                    <blockquote>"We have taken our time to understand that the first step towards maintaining peace with herders is to avoid tampering with their cows,”</blockquote> said 75-year-old Festus Bagi, a retired civil servant from Akabe whose community has never been attacked by Fulani herdsmen.</p>
-                                     
-                                    <p>Akabe demonstrates that farmers and Fulani herdsmen can live together without bloodshed. But maintaining peace in this community in Bassa-nge district in Bassa Local Government Area of Kogi State comes with both farmers and herders making sacrifices to accommodate one another.
-                                     
-                                    Here in Akabe, on the edge of the River Niger and reachable by boat from Lokoja, Christian farmers and Muslim pastoralists share more than the same air. They fetch water from the same stream, trade in one market and exchange gifts.<br>    
-                                     
-                                    <q><i><b>Yes, we do have a misunderstanding with them mostly on how to control their cows from straying into our farms but we do engage them for dialogue instead of violence</b></i></q>, Bagi said. <br><q><i><b>“Our community should be celebrated as one of the most peaceful communities in this state,”</b></i></q> he added.<br>
-                                     
-                                    The lingering conflict between farmers and herders has often been fueled by a dispute that spirals into violence and reprisal killings. It often starts when cows feed on crops and the farmers retaliate by killing the cows. Then the herdsmen fight back by killing the farmers and their children as well as burning down their houses. In Benue and Plateau, the most affected states, hundreds of thousands of farmers have been displaced because of this cycle of violence.
-                                    </p>
-                                    <img src="{{ asset('assets/img/news/first-chart.jpg') }}">
-
-                                    <h4>Choose dialogue over violence</h4>
- 
-                                    <p>In Akabe, misunderstanding between farmers and herders arises but it has never led to violence. They engage in dialogue.
-                                     
-                                    In March when 32-year-old Victor Awom, a youth leader, received a complaint about a farm destroyed by cows, he chose to discuss compensation with the herders.   
-                                     
-                                    <strong><i>“We went to see the leaders of the herders in their settlement and a delegate was sent to come and verify the claims and later some compensations were paid,”</i></strong> Awom said.
-                                     
-                                    He remembered an incident that could have escalated into violence, but they again chose dialogue.  <blockquote>"It was when the herders allowed their cattle to defecate and contaminate our village stream which also serves as our only source of water,” Awom said.  “We approached them as well. Finally, it was resolved, and we now secured the stream with security wires and padlocks."</blockquote>
-                                    </p>
-                                    <img src="{{ asset('assets/img/news/farm-woman.jpg') }}" class="post-img"><br><br>
-                                    <p>
-                                        In Akabe, farmers do not fight the herders or kill their cows when they intrude into their farms. The farmers inform their community leaders who then engage with the leaders of the herders.
- 
-                                        That has been the experience of Victoria David, a 57-year-old farmer whose crops have once been eaten up by cows.
-                                        <strong><i> 
-                                        "The herders meddled in my farm and destroyed my crops, but I had to involve the leaders from the community who approached the herders and they paid me some compensation,"</i></strong>
-                                        David said.
-                                         
-                                        She had encountered herders around her farm many times, and she cautioned them to mind her crops which they had obeyed. But the intrusion often happens at night when it is hard to know the perpetrators.
-                                         
-                                        <blockquote>“Many farmers who have lost their crops here find it difficult to get compensated because it mostly happens at nights when everyone is asleep,” David said.  “I believe most of the herders tampering with the farms at night are not the ones staying here in the village. You know they usually move from one location to another during the night."</blockquote>
-                                        <img src="{{ asset('assets/img/news/sec-chart.jpg') }}"><br><br>
-                                    </p>
-                                    <h4>Learn how to let go</h4>
-                                    <p>
-                                        Forgiveness also plays a role in how Akabe has been able to keep peace with the pastoralists, like when cows fed on the crops of 20-year-old Safiyat Kabiru. The herders pleaded, she said.  She forgave them, she said, and did not even report the incident to her community leaders.<br>
-                                         
-                                        <strong><i>“The younger ones are carefree,” said Kabiru, who tied her baby to her back with a basket on her head. “They sometimes allow their cattle to stray into our farms. And when you catch them, you see them pleading and asking for mercy.”</i></strong><br>
-                                         
-                                        Thomas Edih, 67, a Christian preacher had to forgive the herders when cows damaged his farm last year.  <br><strong><i>“I met the herders myself and after much negotiation, they agreed to pay a certain amount as compensation,” he said. “Well, I accepted just for peace to reign, because the agreed amount wasn't commensurate with the actual cost of the damaged crops.”</i></strong>
-                                         
-                                        Despite the transgression, Edih said he has been relating with herders without bitterness. <strong><i>“During harvest, I give them from my groundnuts and yams,”</i></strong> he said, adding that the herders had never been rude to him.
-                                         
-                                        The cordial relationship with the pastoralists in Akabe has lasted over generations, according to Awom Elisha, the village head of Akabe. <strong><i>"The Fulani herders have lived here with us right from the days of our grandparents,”</i></strong> he said.<br>
-                                         
-                                        But Elisha is now worried that the current herders have become more emboldened and reckless, destroying their farms, and contaminating their source of water. “The sentiment shared by all of us remains that, if the movement of these herders can be controlled, the fight and tension would reduce and the government should do something about this," Elisha said.
-                                        </p>
-                                        <img src="{{ asset('assets/img/news/women.jpg') }}" class="post-img"><br>
-                                        <i><b>Akabe and Fulani women wash their clothes at the village stream</b></i>
-                                        <br><br>
-                                        <h4>Seek mutual accommodation</h4> 
-                                        <p>
-                                            Rice, yam, groundnut, and cassava farms were in view on the path to the Fulani settlement in Akabe. Over a hundred huts dotted the place with Fulani children playing around.
-                                             
-                                            Their leader, 55-year-old Saidu Abdullahi, described the Akabe as good people, pointing out that he has lived here for about a decade.<br>
-                                             
-                                           <strong><i> “Whenever our cattle or goats damage their crops, we go to them and plead with the farm owner,”</i></strong> Abdullahi said. <strong><i>“We pay for the damages. We are very happy, and our families are here with us. We brought them because we have peace here.”</i></strong>
-
-                                            He added: <strong><i> “There is no problem. The community even gave us plots of land to cultivate. Sometimes, we go to their houses to get drinking water and other things.”</i></strong>
-                                             
-                                            Abdullahi advised pastoralists in other places to: <blockquote>“always find a way to engage leaders of their host communities to find solutions when there is disagreement instead of fighting." </blockquote>
-                                             
-                                            A Fulani woman, Binta Adamu, said she had been living in Akabe for the past nine years. “They treat us nicely,” she said. “No one has threatened me. We go about our businesses without harassment."
-                                             
-                                            While Akabe has been able to nurture peace with the pastoralists, such arrangement is not sustainable, according to Mark Adebayo, the executive director of SecureWorld and Liberty Initiative for Peace, a non-profit organization that advocates for peace.<br>
-                                             
-                                             <strong><i>"The fastest panacea to the menace is to immediately ban open grazing and indiscriminate movement of cattle among sedentary populations,"</i></strong> Adebayo said. <strong><i>“People cannot continue to die for cattle to survive. That's unacceptable.”</i></strong> 
-                                        </p>
+                                    {!! $article->body !!}
                                 </div>
                                 {{-- <div class="entry-tags">
                                     <ul class="post__tags">
@@ -207,24 +137,26 @@
                                     </div>
                                 </article>
                             </div>
+                            @foreach($others as $other)
                             <div class="posts-navigation__next text-right">
                                 <article class="post post--horizontal post--horizontal-mini post--horizontal-reverse">
                                     <div class="post__thumb post__thumb--circle">
-                                        <a href="single-1.html">
-                                            <img src="{{ asset('assets/img/news/village.jpg') }}" alt="Post Image">
+                                        <a href="{{ route('single', $other->slug) }}">
+                                            <img src="{{ asset('assets/uploads/'.$other->header_img) }}" alt="Post Image">
                                         </a>
                                     </div>
                                     <div class="post__text">
-                                        <a class="posts-navigation__label" href="{{ route('otukpo') }}">
+                                        <a class="posts-navigation__label" href="{{ route('single', $other->slug) }}">
                                             <span>Next Article</span>
                                             <img src="https://allthebestsofts.com/logen/wp-content/themes/logen/images/arrows/dark-next-arrow.png" alt="file not found">
                                         </a>
                                         <h3 class="post__title typescale-1">
-                                            <a href="{{ route('otukpo') }}">How Otukpo became an oasis of peace in Benue after Fulani militia’s attack</a>
+                                            <a href="{{ route('single', $other->slug) }}">{{ $other->title }}</a>
                                         </h3>
                                     </div>
                                 </article>
                             </div>
+                            @endforeach
                         </div>
                         <!-- Related Posts -->
                         <div class="related-posts single-entry-section">
@@ -545,7 +477,7 @@
                                         <a href="#" class="social-tile social-facebook facebook-theme-bg">
                                             <div class="social-tile__inner flexbox">
                                                 <div class="social-tile__left flexbox__item">
-                                                    <h5 class="social-tile__title meta-font">Facebook</h5><span class="social-tile__count">221.10K+ likes</span></div>
+                                                    <h5 class="social-tile__title meta-font">Facebook</h5><span class="social-tile__count"></span></div>
                                                 <div class="social-tile__right"><i class="mdicon mdicon-facebook"></i></div>
                                             </div>
                                         </a>
@@ -554,7 +486,7 @@
                                         <a href="#" class="social-tile social-twitter twitter-theme-bg">
                                             <div class="social-tile__inner flexbox">
                                                 <div class="social-tile__left flexbox__item">
-                                                    <h5 class="social-tile__title meta-font">Twitter</h5><span class="social-tile__count">67.5K+ followers</span></div>
+                                                    <h5 class="social-tile__title meta-font">Twitter</h5><span class="social-tile__count"></span></div>
                                                 <div class="social-tile__right"><i class="mdicon mdicon-twitter"></i></div>
                                             </div>
                                         </a>
@@ -563,7 +495,7 @@
                                         <a href="#" class="social-tile social-youtube youtube-theme-bg">
                                             <div class="social-tile__inner flexbox">
                                                 <div class="social-tile__left flexbox__item">
-                                                    <h5 class="social-tile__title meta-font">Youtube</h5><span class="social-tile__count">339 subscribers</span></div>
+                                                    <h5 class="social-tile__title meta-font">Youtube</h5><span class="social-tile__count"></span></div>
                                                 <div class="social-tile__right"><i class="mdicon mdicon-youtube"></i></div>
                                             </div>
                                         </a>

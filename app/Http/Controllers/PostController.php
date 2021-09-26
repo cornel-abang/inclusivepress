@@ -3,18 +3,23 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
+use App\Models\Article;
 
 class PostController extends Controller
 {
-    public function singlePost()
+    public function singlePost($slug)
     {
-        $title = 'How to replicate Akabe’s model for peace with Fulani herdsmen';
-        return view('single', compact('title'));
+        $article = Article::where('slug', $slug)->first();
+        $title = $article->title;
+        $others = Article::where('id', '!=', $article->id)->get();
+        return view('single-post', compact('title', 'article', 'others'));
     }
 
-    public function singlePost2()
+    public function postsBycategory($cat)
     {
-        $title = 'How Otukpo became an oasis of peace in Benue after Fulani militia’s attack';
-        return view('single-2', compact('title'));
+        $category = str_replace('-', ' ', $cat);
+        $title = $category;
+        $articles = Article::where('category', $category)->paginate(5);
+        return view('by-category', compact('title', 'articles', 'category'));
     }
 }
