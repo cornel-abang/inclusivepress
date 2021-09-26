@@ -1,8 +1,6 @@
 @extends('layouts.app')
 @section('content')
     <div class="site-content">
-
-        
         <!-- sidebar -->
         <div class="atbs-block atbs-block--fullwidth">
             <div class="container">

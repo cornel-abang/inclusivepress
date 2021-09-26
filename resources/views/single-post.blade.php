@@ -432,7 +432,7 @@
                                     <p class="subscribe-form__info">Subscribe to our newsletter and keep up tp date with the latest data and science driven stories</p>
                                     <div class="subscribe-form__fields">
                                         <input type="email" name="email" placeholder="Your email address" required>
-                                        <input type="submit" value="Subscribe" class="btn btn-primary">
+                                        <input type="submit" value="Subscribe" class="btn btn-primary newsletter">
                                     </div>
                                 </form>
                             </div>

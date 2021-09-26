@@ -35,6 +35,9 @@
 
     <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous"/>
 
+     {{-- Sweet Alert --}}
+    <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+
     @yield('page-scripts')
 
     <!-- Web Fonts  -->
@@ -69,8 +72,8 @@
                         </a>
                     </div> --}}
                     <div class="nsl-form" style="display: flex; flex-direction: column; align-items: flex-start; margin-left: -85px;">
-                        <input type="text" name="log" class="input" size="20" placeholder="Email address" style="width: 230px;">
-                        <input type="submit" name="wp-submit" id="wp-submit-register" class="btn btn-block btn-primary" value="Subscribe">
+                        <input type="email" name="email" class="input" size="20" placeholder="Email address" style="width: 230px;" required>
+                        <input type="submit" name="wp-submit" id="wp-submit-register" class="btn btn-block btn-primary newsletter" value="Subscribe">
                     </div>
                 </div>
                 <div class="section-column section-column-center">
@@ -247,8 +250,8 @@
                         </a>
                     </div> --}}
                     <div class="nsl-form" style="display: flex; flex-direction: column; align-items: flex-start; margin-left: -85px;">
-                        <input type="text" name="log" class="input" size="20" placeholder="Email address" style="width: 230px;">
-                        <input type="submit" name="wp-submit" id="wp-submit-register" class="btn btn-block btn-primary" value="Subscribe">
+                        <input type="email" name="email" class="input" size="20" placeholder="Email address" style="width: 230px;" required>
+                        <input type="submit" name="wp-submit" id="wp-submit-register" class="btn btn-block btn-primary newsletter" value="Subscribe">
                     </div>
                 </div>
                 <div class="section-column section-column-center">
@@ -307,6 +310,24 @@
         $(this).find('span').toggleClass('fa-angle-down');
         $(this).find('span').toggleClass('fa-angle-up');
         $('#top-footer').slideToggle('slow');
+    })
+
+    $(document).on('click', '.newsletter', function(e) {
+        e.preventDefault();
+        let url = "{{ route('newsletter') }}";
+        let email = $(this).siblings('input').val();
+        fetch(url+'?email='+email, {
+            method: 'GET',
+        })
+        .then(response => response.json())
+        .then(data => {
+            $(this).siblings('input').val('');
+            // alert('Subscribed!');
+            swal("Subscribed!", "Thank you for subscribing to our newsletter", "success");
+        })
+        .catch((error) => {
+            console.log(error);
+        });
     })
 </script>
 

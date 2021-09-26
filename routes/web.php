@@ -28,6 +28,7 @@ Route::group(['namespace'=>'App\Http\Controllers'], function(){
     Route::get('contact-us', 'VisualizerController@contactUs')->name('contact');
     Route::get('post/{slug}', 'PostController@singlePost')->name('single');
     Route::get('posts/category/{cat}', 'PostController@postsBycategory')->name('category');
+    Route::get('newsletter', 'PostController@saveEmail')->name('newsletter');
 
     // Admin Auth Routes
 

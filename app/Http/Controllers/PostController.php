@@ -4,6 +4,7 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 use App\Models\Article;
+use App\Models\Newsletter;
 
 class PostController extends Controller
 {
@@ -21,5 +22,13 @@ class PostController extends Controller
         $title = $category;
         $articles = Article::where('category', $category)->paginate(5);
         return view('by-category', compact('title', 'articles', 'category'));
+    }
+
+    public function saveEmail()
+    {
+        $newsletter = new Newsletter;
+        $newsletter->email = request()->email;
+        $newsletter->save();
+        return true;
     }
 }
