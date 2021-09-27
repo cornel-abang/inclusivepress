@@ -96,9 +96,9 @@
                 </div>
                 <div class="section-column section-column-right text-right section-socials">
                     <ul class="social-list social-list--md list-horizontal">
-                        <li><a href="#" target="_blank"><i class="mdicon mdicon-facebook"></i></a></li>
-                        <li><a href="#" target="_blank"><i class="mdicon mdicon-twitter"></i></a></li>
-                        <li><a href="#" target="_blank"><i class="mdicon mdicon-youtube"></i></a></li>
+                        <li><a href="https://www.facebook.com/inclusivepress" target="_blank"><i class="mdicon mdicon-facebook"></i></a></li>
+                        <li><a href="https://twitter.com/InclusivePress" target="_blank"><i class="mdicon mdicon-twitter"></i></a></li>
+                        <li><a href="https://www.youtube.com/channel/UCphl3dMIGfDVW41KNC7TqPQ" target="_blank"><i class="mdicon mdicon-youtube"></i></a></li>
                     </ul>
                 </div>
             </div>
@@ -274,9 +274,9 @@
                 </div>
                 <div class="section-column section-column-right text-right section-socials">
                     <ul class="social-list social-list--md list-horizontal">
-                        <li><a href="#" target="_blank"><i class="mdicon mdicon-facebook"></i></a></li>
-                        <li><a href="#" target="_blank"><i class="mdicon mdicon-twitter"></i></a></li>
-                        <li><a href="#" target="_blank"><i class="mdicon mdicon-youtube"></i></a></li>
+                        <li><a href="https://www.facebook.com/inclusivepress" target="_blank"><i class="mdicon mdicon-facebook"></i></a></li>
+                        <li><a href="https://twitter.com/InclusivePress" target="_blank"><i class="mdicon mdicon-twitter"></i></a></li>
+                        <li><a href="https://www.youtube.com/channel/UCphl3dMIGfDVW41KNC7TqPQ" target="_blank"><i class="mdicon mdicon-youtube"></i></a></li>
                     </ul>
                 </div>
             </div>
