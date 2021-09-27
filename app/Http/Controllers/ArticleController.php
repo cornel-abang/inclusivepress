@@ -128,6 +128,24 @@ class ArticleController extends Controller
         return view('admin.post.index', compact('title', 'articles'));
     }
 
+    public function publishArticle($id)
+    {
+        $article = Article::find($id);
+        $article->status = 'Published';
+        $article->save();
+        session()->flash('success', 'Article successfully published');
+        return redirect()->route('articles');
+    }
+
+    public function unpublishArticle($id)
+    {
+        $article = Article::find($id);
+        $article->status = 'Draft';
+        $article->save();
+        session()->flash('success', 'Article successfully unpublished');
+        return redirect()->route('articles');
+    }
+
     /**
      * Remove the specified resource from storage.
      *

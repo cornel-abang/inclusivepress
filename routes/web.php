@@ -15,8 +15,8 @@ use App\Models\Article;
 */
 
 Route::get('/', function () {
-    $featured = Article::where('featured', 'yes')->first();
-    $articles = Article::where('featured', 'no')->paginate(4);
+    $featured = Article::where('featured', 'yes')->where('status', 'Published')->first();
+    $articles = Article::where('featured', 'no')->where('status', 'Published')->paginate(4);
     return view('welcome', compact('featured', 'articles'));
 });
 
@@ -46,6 +46,8 @@ Route::group(['namespace'=>'App\Http\Controllers'], function(){
         Route::post('edit-article/{id}', 'ArticleController@update');
         Route::get('articles/{slug}', 'ArticleController@articleByCat')->name('cat.articles');
         Route::get('destroy-article/{id}', 'ArticleController@destroy')->name('article.destroy');
+        Route::get('publish-article/{id}', 'ArticleController@publishArticle')->name('article.publish');
+        Route::get('unpublish-article/{id}', 'ArticleController@unpublishArticle')->name('article.unpublish');
         Route::get('logout', 'AdminController@logout')->name('logout');
         // Route::get('create-category', 'ArticleController@createCategory')->name('category.create');
     });

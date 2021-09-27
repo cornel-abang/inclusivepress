@@ -155,8 +155,11 @@
         <script src="https://cdn.jsdelivr.net/npm/summernote@0.8.18/dist/summernote.min.js"></script>
 
         <script>
-            $(document).ready(function() {
-              $('#summernote').summernote();
+            $('#summernote').summernote({
+              height: 500,                 // set editor height
+              minHeight: 500,             // set minimum height of editor
+              maxHeight: 500,             // set maximum height of editor
+              focus: true                  // set focus to editable area after initializing summernote
             });
         </script>
 

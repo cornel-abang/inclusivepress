@@ -62,6 +62,7 @@
                                                     <th>Author</th>
                                                     <th>Category</th>
                                                     <th>Featured</th>
+                                                    <th>Status</th>
                                                     <th>Action</th>
                                                 </tr>
                                             </thead>
@@ -72,9 +73,15 @@
                                                     <td>{{ $article->author }}</td>
                                                     <td>{{ $article->category }}</td>
                                                     <td>{{ $article->featured == 'yes'?'Yes':'No' }}</td>
+                                                    <td>{{ $article->status }}</td>
                                                     <td style="font-size: 20px">
-                                                        <a href="{{ route('article.edit', $article->id) }}" class="fa fa-edit"></a> 
-                                                        <a href="{{ route('article.destroy', $article->id) }}" class="fa fa-trash delete-article"></a>
+                                                        <a href="{{ route('article.edit', $article->id) }}" class="fa fa-edit" data-toggle="tooltip" title="Edit this story"></a>
+                                                        @if($article->status == 'Draft')
+                                                        <a href="{{ route('article.publish', $article->id) }}" class="fa fa-bullhorn" data-toggle="tooltip" title="Publish this story"></a>
+                                                        @else
+                                                        <a href="{{ route('article.unpublish', $article->id) }}" class="fa fa-unlink" data-toggle="tooltip" title="Unpublish this story"></a>
+                                                        @endif 
+                                                        <a href="{{ route('article.destroy', $article->id) }}" class="fa fa-trash delete-article" data-toggle="tooltip" title="Delete this story" style="color: red"></a>
                                                     </td>
                                                 </tr>
                                                 @endforeach

@@ -51,6 +51,7 @@
                         <div class="block-heading__description block-heading__description--line-before">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor</div>
                     </div>
                 </div> --}}
+                @if($articles->count() > 0)
                 <div class="atbs-block__inner">
                     <div class="main-section">
                         <article class="post post--horizontal post--horizontal-massive" id="sec-feat">
@@ -83,6 +84,7 @@
                     </div> --}}
                 </div>
             </div>
+            @endif
         </div>
         <!-- module-b -->
 
